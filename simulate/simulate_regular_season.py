@@ -2,12 +2,10 @@ from typing import Dict, List, Optional
 from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
-
 from constants.conferences import CONFERENCES
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
-from ratings.inputs.data.SAGARIN import get_sagarin_rating
 from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
@@ -42,9 +40,8 @@ def set_default_margin(teams_dict, home_team, away_team):
     """Add a default margin if one of the teams is not rated by S&P+"""
     # TODO: Add some logic that factors in the known teams S&P+
     # Ex: Gophers favored by 20-25 over FBS team but Alamaba favored by way more
-    # TODO: Need to add Sagarin ratings to TEAM_MAP and use team_map_with_logic.xlsx
-    home_sagarin_rating, away_sagarin_rating = get_sagarin_rating(home_team), get_sagarin_rating(away_team)
-    print(home_team, home_sagarin_rating, away_team, away_sagarin_rating)
+
+    # TODO: Add ratings from Massey
     DEFAULT_MARGIN = 28
     return DEFAULT_MARGIN if home_team in teams_dict else -DEFAULT_MARGIN
 
