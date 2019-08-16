@@ -7,6 +7,7 @@ from constants.conferences import CONFERENCES
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
+from ratings.inputs.data.SAGARIN import get_sagarin_rating
 from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
@@ -24,8 +25,6 @@ def simulate_game(game):
     home_team, away_team = game['home_team'], game['away_team']
     winner, loser = (home_team, away_team) if game['home_team_win_pct'] > rand_float() else (away_team, home_team)
     are_both_teams_division_one = home_team in TEAMS and away_team in TEAMS
-    if not are_both_teams_division_one:
-        print(home_team, away_team, game['home_team_win_pct'])
     is_conf_game = are_both_teams_division_one and TEAMS[home_team]['conference'] == TEAMS[away_team]['conference']
     return dict(winner=winner, loser=loser, is_conf_game=is_conf_game)
 
@@ -39,11 +38,13 @@ def get_net_power_rating(ratings: Dict) -> float:
     return mean([rating for rating in ratings.values()])
 
 
-def set_default_margin(teams_dict, home_team):
+def set_default_margin(teams_dict, home_team, away_team):
     """Add a default margin if one of the teams is not rated by S&P+"""
     # TODO: Add some logic that factors in the known teams S&P+
     # Ex: Gophers favored by 20-25 over FBS team but Alamaba favored by way more
-    print(teams_dict[home_team])
+    # TODO: Need to add Sagarin ratings to TEAM_MAP and use team_map_with_logic.xlsx
+    home_sagarin_rating, away_sagarin_rating = get_sagarin_rating(home_team), get_sagarin_rating(away_team)
+    print(home_team, home_sagarin_rating, away_team, away_sagarin_rating)
     DEFAULT_MARGIN = 28
     return DEFAULT_MARGIN if home_team in teams_dict else -DEFAULT_MARGIN
 
@@ -62,7 +63,7 @@ def add_proj_margin_to_game(game, team_ratings):
             game['home_team_projected_margin'] = round(ht_net_power - at_net_power, 1)
 
     else:
-        game['home_team_projected_margin'] = set_default_margin(team_ratings, home_team)
+        game['home_team_projected_margin'] = set_default_margin(team_ratings, home_team, away_team)
 
     proj_margin = game['home_team_projected_margin']
     game['home_team_win_pct'] = LIKELIHOODS[proj_margin] if proj_margin > 0 else 1 - LIKELIHOODS[abs(proj_margin)]
