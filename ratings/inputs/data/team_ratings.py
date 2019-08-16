@@ -88,7 +88,7 @@ TEAM_RATINGS = {'Air Force': {'SP_PLUS': -3.5, 'FPI': -1.5, 'ENTROPY': 46.77, 'M
                 'Rice': {'SP_PLUS': -20.0, 'FPI': -22.7, 'ENTROPY': 23.89, 'MASSEY': 32.63},
                 'Rutgers': {'SP_PLUS': -12.3, 'FPI': -6.6, 'ENTROPY': 33.9, 'MASSEY': 48.72},
                 'San Diego State': {'SP_PLUS': 4.9, 'FPI': -3.7, 'ENTROPY': 44.31, 'MASSEY': 51.59},
-                'San JosÈ State': {'SP_PLUS': -16.2, 'FPI': -12.4, 'ENTROPY': 31.48, 'MASSEY': 42.39},
+                'San José State': {'SP_PLUS': -16.2, 'FPI': -12.4, 'ENTROPY': 31.48, 'MASSEY': 42.39},
                 'SMU': {'SP_PLUS': -2.2, 'FPI': -4.4, 'ENTROPY': 39.62, 'MASSEY': 48.51},
                 'South Alabama': {'SP_PLUS': -20.8, 'FPI': -21.9, 'ENTROPY': 27.04, 'MASSEY': 38.24},
                 'South Carolina': {'SP_PLUS': 14.9, 'FPI': 12.3, 'ENTROPY': 58.66, 'MASSEY': 65.86},
