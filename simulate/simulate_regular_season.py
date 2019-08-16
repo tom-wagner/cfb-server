@@ -3,20 +3,16 @@ from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
 from constants.conferences import CONFERENCES
+from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
+from ratings.inputs.data.massey_fcs import MASSEY_FCS, get_massey_rating_fcs_team
 from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:
     return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site']}
-
-# TODO: Not used
-# def add_ratings_and_simulate(game, team_ratings):
-#     adj_game = add_ratings_to_game(game, team_ratings)
-#     simulated_game = simulate_game(adj_game)
-#     return simulated_game
 
 
 def simulate_game(game):
@@ -36,14 +32,11 @@ def get_net_power_rating(ratings: Dict) -> float:
     return mean([rating for rating in ratings.values()])
 
 
-def set_default_margin(teams_dict, home_team, away_team):
+def determine_margin_for_game_vs_fcs_team(home_team, away_team):
     """Add a default margin if one of the teams is not rated by S&P+"""
-    # TODO: Add some logic that factors in the known teams S&P+
-    # Ex: Gophers favored by 20-25 over FBS team but Alamaba favored by way more
-
-    # TODO: Add ratings from Massey
-    DEFAULT_MARGIN = 28
-    return DEFAULT_MARGIN if home_team in teams_dict else -DEFAULT_MARGIN
+    home_team_massey_rating = TEAM_RATINGS[home_team][MASSEY]
+    away_team__massey_rating = get_massey_rating_fcs_team(away_team)
+    return round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
 
 
 def add_proj_margin_to_game(game, team_ratings):
@@ -55,12 +48,12 @@ def add_proj_margin_to_game(game, team_ratings):
         game['ht_net_power_rtg'], game['away_team_net_power_rtg'] = ht_net_power, at_net_power
 
         if not game['neutral_site']:
-            game['home_team_projected_margin'] = round(ht_net_power + 2.5 - at_net_power, 1)
+            game['home_team_projected_margin'] = round(ht_net_power + HOME_FIELD_ADVANTAGE - at_net_power, 1)
         else:
             game['home_team_projected_margin'] = round(ht_net_power - at_net_power, 1)
 
     else:
-        game['home_team_projected_margin'] = set_default_margin(team_ratings, home_team, away_team)
+        game['home_team_projected_margin'] = determine_margin_for_game_vs_fcs_team(home_team, away_team)
 
     proj_margin = game['home_team_projected_margin']
     game['home_team_win_pct'] = LIKELIHOODS[proj_margin] if proj_margin > 0 else 1 - LIKELIHOODS[abs(proj_margin)]
@@ -73,6 +66,7 @@ def get_empty_wins_dict():
 
 def break_two_way_tie(team_one: str, team_two: str, simulated_season: List):
     teams = {team_one, team_two}
+    # TODO: This seems slow
     game = [game for game in simulated_season if game['winner'] in teams and game['loser'] in teams][0]
     return game['winner']
 
@@ -118,8 +112,9 @@ class SimulateRegularSeason:
     def transform_schedule(year: int, conference: Optional[str]):
         raw_schedule = CFData().get_schedule(year=year, conference=conference)
         trimmed_schedule = [trim_game(g) for g in raw_schedule]
-        # TODO: Consider passing a parameter here to add_ratings called `ratings_to_include` and make it a set of the
-        # ratings that should be included in the simulation
+        # TODO:
+        # Consider passing a parameter here to add_ratings called `ratings_to_include`
+        # and make it a set of the ratings that should be included in the simulation
         augmented_schedule = [add_ratings_to_game(game, TEAM_RATINGS) for game in trimmed_schedule]
         return augmented_schedule
 
@@ -152,5 +147,5 @@ class SimulateRegularSeason:
 
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
 s = SimulateRegularSeason(year=2019)
-s.run(1)
+s.run(10000)
 print(s.simulation_results)
