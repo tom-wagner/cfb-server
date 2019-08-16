@@ -1,8 +1,8 @@
 import csv
 from typing import Dict
 
-from server.constants.constants import CFD, SP_PLUS, FPI, ENTROPY, MASSEY
-from server.constants.team_map import TEAM_MAP
+from constants.constants import CFD, SP_PLUS, FPI, ENTROPY, MASSEY
+from constants.team_map import TEAM_MAP
 
 RATINGS_ORDER_IN_CSV = [CFD, SP_PLUS, FPI, ENTROPY, MASSEY]
 

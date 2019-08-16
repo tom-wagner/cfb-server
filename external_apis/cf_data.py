@@ -1,7 +1,5 @@
 import requests
 
-from server.constants.team_map import TEAM_MAP
-
 BASE_CFD_API = "https://api.collegefootballdata.com"
 
 

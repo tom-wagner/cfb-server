@@ -3,11 +3,11 @@ from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
 
-from server.constants.conferences import CONFERENCES
-from server.constants.likelihoods import LIKELIHOODS
-from server.constants.teams import TEAMS
-from server.external_apis.cf_data import CFData
-from server.ratings.inputs.data.team_ratings import TEAM_RATINGS
+from constants.conferences import CONFERENCES
+from constants.likelihoods import LIKELIHOODS
+from constants.teams import TEAMS
+from external_apis.cf_data import CFData
+from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:

@@ -1,10 +1,10 @@
 from flask import Flask, json, request
 from flask_cors import CORS
 
-from server.constants.conferences import CONFERENCES
-from server.external_apis.cf_data import CFData
-from server.ratings.inputs.data.team_ratings import TEAM_RATINGS
-from server.simulate.simulate_regular_season import SimulateRegularSeason
+from constants.conferences import CONFERENCES
+from external_apis.cf_data import CFData
+from ratings.inputs.data.team_ratings import TEAM_RATINGS
+from simulate.simulate_regular_season import SimulateRegularSeason
 
 app = Flask(__name__)
 CORS(app)

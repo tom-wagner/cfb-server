@@ -1,6 +1,6 @@
 import csv
 from typing import Dict
-from server.constants.constants import CFD, SP_PLUS, FPI, ENTROPY, MASSEY, FIVE_DIMES
+from constants.constants import CFD, SP_PLUS, FPI, ENTROPY, MASSEY, FIVE_DIMES
 
 # NOTE -- THE FIRST ROW IN CSV MUST MATCH THESE VARIABLES
 RATINGS_ORDER_IN_CSV = [CFD, SP_PLUS, FPI, ENTROPY, FIVE_DIMES, MASSEY]
