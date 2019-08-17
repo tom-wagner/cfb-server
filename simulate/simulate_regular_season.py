@@ -1,13 +1,13 @@
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, DefaultDict
 from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
 from constants.conferences import CONFERENCES
-from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE
+from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE, CONFERENCES_WITHOUT_DIVISIONS
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
-from ratings.inputs.data.massey_fcs import MASSEY_FCS, get_massey_rating_fcs_team
+from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
 from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
@@ -66,19 +66,51 @@ def get_empty_wins_dict():
 
 def break_two_way_tie(team_one: str, team_two: str, simulated_season: List):
     teams = {team_one, team_two}
-    # TODO: This seems slow
-    game = [game for game in simulated_season if game['winner'] in teams and game['loser'] in teams][0]
-    return game['winner']
+    game = [game for game in simulated_season if game['winner'] in teams and game['loser'] in teams]
+    if game:
+        return game[0]['winner']
+    return team_one if rand_float() > 0.5 else team_two
+
+
+def get_standings(conf_wins: Counter, teams: List):
+    div_results_dict = defaultdict(list)
+    div_win_totals = ((k, v) for k, v in conf_wins.items() if k in set(teams))
+    for k, v in div_win_totals:
+        div_results_dict[v].append(k)
+    return div_results_dict
+
+
+def get_top_two_teams(div_results_dict: DefaultDict, simulated_season: List):
+    sorted_win_counts = sorted(div_results_dict.keys())
+    max_wins = sorted_win_counts.pop()
+    first_place_teams = div_results_dict[max_wins]
+    first_place_teams_ct = len(first_place_teams)
+    if first_place_teams_ct == 2:
+        return first_place_teams
+    if first_place_teams_ct == 1:
+        second_most_wins = sorted_win_counts.pop()
+        second_place_teams = div_results_dict[second_most_wins]
+        second_place_teams_ct = len(second_place_teams)
+        if second_place_teams_ct == 1:
+            return first_place_teams + second_place_teams
+        elif second_place_teams_ct == 2:
+            second_place = break_two_way_tie(second_place_teams[0], second_place_teams[1], simulated_season)
+            return first_place_teams + [second_place]
+        else:
+            rand_idx = randint(0, second_place_teams_ct - 1)
+            second_place = second_place_teams[rand_idx]
+            return first_place_teams + [second_place]
+
+    # handle 3+ way ties
+    rand_idx = randint(0, first_place_teams_ct - 1)
+    return [first_place_teams[rand_idx], first_place_teams[rand_idx - 1]]
 
 
 def get_division_winners(divisions: Dict, conf_wins: Counter, simulated_season: List):
     # TODO: Refactor to only loop through conf_wins and simulated_season once
     res = []
     for div_name, division_teams in divisions.items():
-        div_results_dict = defaultdict(list)
-        div_win_totals = ((k, v) for k, v in conf_wins.items() if k in set(division_teams))
-        for k, v in div_win_totals:
-            div_results_dict[v].append(k)
+        div_results_dict = get_standings(conf_wins, division_teams)
 
         max_wins = max(div_results_dict.keys())
         first_place_teams = div_results_dict[max_wins]
@@ -96,6 +128,12 @@ def get_division_winners(divisions: Dict, conf_wins: Counter, simulated_season: 
     return res
 
 
+def get_title_game_participants(conf_wins: Counter, simulated_season: List, conf: str):
+    conference_teams = CONFERENCES[conf]['teams']
+    div_results_dict = get_standings(conf_wins, conference_teams)
+    return get_top_two_teams(div_results_dict, simulated_season)
+
+
 class SimulateRegularSeason:
     def __init__(self, year: int, conference: Optional[str] = None):
         self.schedule = self.transform_schedule(year, conference)
@@ -104,6 +142,7 @@ class SimulateRegularSeason:
                 'conference_results': get_empty_wins_dict(),
                 'non_conference_results': get_empty_wins_dict(),
                 'total_wins': get_empty_wins_dict(),
+                'division_title_count': 0,
             }
             for team in TEAM_RATINGS.keys()
         }
@@ -118,13 +157,30 @@ class SimulateRegularSeason:
         augmented_schedule = [add_ratings_to_game(game, TEAM_RATINGS) for game in trimmed_schedule]
         return augmented_schedule
 
-    def determine_standings_and_update_simulation_results(self, conf_wins, simulated_season):
+    # TODO: typing
+    @staticmethod
+    def get_division_winners_by_conf(conf_wins: Counter, simulated_season):
+        division_winners_by_conf = {}
         for conf, conf_detail in CONFERENCES.items():
+            if conf in CONFERENCES_WITHOUT_DIVISIONS:
+                continue
             divisions = conf_detail.get('divisions')
-            if divisions:
-                res = get_division_winners(divisions, conf_wins, simulated_season)
-            else:
-                pass
+            division_winners = get_division_winners(divisions, conf_wins, simulated_season)
+            division_winners_by_conf[conf] = division_winners
+        return division_winners_by_conf
+
+    # TODO: typing
+    def increment_division_title_counts(self, division_winners):
+        for winners in division_winners.values():
+            for team in winners:
+                self.simulation_results[team]['division_title_count'] += 1
+
+    # TODO: typing
+    @staticmethod
+    def simulate_conference_title_games(conf_wins, simulated_season, division_winners):
+        conference_winners = set()
+        for conf in CONFERENCES_WITHOUT_DIVISIONS - {'FBS Independents'}:
+            title_game_participants = get_title_game_participants(conf_wins, simulated_season, conf)
 
     def run(self, num_of_sims: int):
         for _ in range(num_of_sims):
@@ -142,10 +198,14 @@ class SimulateRegularSeason:
                     if self.simulation_results.get(k):
                         self.simulation_results[k][season_segment][v] += 1
 
-            # self.determine_standings_and_update_simulation_results(conf_wins, simulated_season)
+            # TODO: Consider transforming simulated_season to key by team
+            division_winners = self.get_division_winners_by_conf(conf_wins, simulated_season)
+            self.increment_division_title_counts(division_winners)
+
+            conference_winners = self.simulate_conference_title_games(conf_wins, simulated_season, division_winners)
 
 
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
 s = SimulateRegularSeason(year=2019)
-s.run(10000)
+s.run(1000)
 print(s.simulation_results)
