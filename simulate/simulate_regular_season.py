@@ -44,6 +44,7 @@ def add_proj_margin_to_game(game, team_ratings):
     if home_team in team_ratings and away_team in team_ratings:
         home_team_ratings, away_team_ratings = team_ratings[home_team], team_ratings[away_team]
         game['away_team_rtgs'], game['home_team_rtgs'] = home_team_ratings, away_team_ratings
+        # TODO: Running this every simulation --> could be cached
         ht_net_power, at_net_power = (get_net_power_rating(r) for r in (home_team_ratings, away_team_ratings))
         game['ht_net_power_rtg'], game['away_team_net_power_rtg'] = ht_net_power, at_net_power
 
@@ -101,7 +102,7 @@ def get_top_two_teams(div_results_dict: DefaultDict, simulated_season: List):
             second_place = second_place_teams[rand_idx]
             return first_place_teams + [second_place]
 
-    # handle 3+ way ties
+    # logic to handle 3+ way ties
     rand_idx = randint(0, first_place_teams_ct - 1)
     return [first_place_teams[rand_idx], first_place_teams[rand_idx - 1]]
 
@@ -134,6 +135,21 @@ def get_title_game_participants(conf_wins: Counter, simulated_season: List, conf
     return get_top_two_teams(div_results_dict, simulated_season)
 
 
+def get_average_opponent_rating_by_team(schedule):
+    schedule_by_team = defaultdict(list)
+    average_opponent_rating_by_team = dict()
+    for game in schedule:
+        ht, at = game['home_team'], game['away_team']
+        if at in TEAM_RATINGS and at in TEAM_RATINGS:
+            schedule_by_team[ht].append(at)
+            schedule_by_team[at].append(ht)
+    for team, schedule in schedule_by_team.items():
+        opponent_ratings = [get_net_power_rating(TEAM_RATINGS[opponent]) for opponent in schedule]
+        average_opponent_rating = sum(opponent_ratings) / len(opponent_ratings)
+        average_opponent_rating_by_team[team] = round(average_opponent_rating, 2)
+    return average_opponent_rating_by_team
+
+
 class SimulateRegularSeason:
     def __init__(self, year: int, conference: Optional[str] = None):
         self.schedule = self.transform_schedule(year, conference)
@@ -147,6 +163,7 @@ class SimulateRegularSeason:
             }
             for team in TEAM_RATINGS.keys()
         }
+        self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule)
 
     @staticmethod
     def transform_schedule(year: int, conference: Optional[str]):
@@ -196,10 +213,11 @@ class SimulateRegularSeason:
         for _ in range(num_of_sims):
             simulated_season = [simulate_game(game) for game in self.schedule]
 
-            conf_games, nc_games = [], []
+            conf_games, nc_games, all_games = [], [], []
             for game in simulated_season:
                 conf_games.append(game['winner']) if game['is_conf_game'] else nc_games.append(game['winner'])
-            conf_wins, nc_wins = Counter(conf_games), Counter(nc_games)
+                all_games.append(game['winner'])
+            conf_wins, nc_wins, all_wins = Counter(conf_games), Counter(nc_games), Counter(all_games)
             total_wins = dict(conf_wins+nc_wins)
 
             for season_segment, results in (
