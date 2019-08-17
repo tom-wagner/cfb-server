@@ -151,8 +151,9 @@ def get_average_opponent_rating_by_team(schedule):
 
 
 class SimulateRegularSeason:
-    def __init__(self, year: int, conference: Optional[str] = None):
+    def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
         self.schedule = self.transform_schedule(year, conference)
+        self.num_of_sims = num_of_sims
         self.simulation_results = {
             team: {
                 'conference_results': get_empty_wins_dict(),
@@ -209,9 +210,8 @@ class SimulateRegularSeason:
             conference_winners.add(res['winner'])
         return conference_winners
 
-    def run(self, num_of_sims: int):
-        self.num_of_sims = num_of_sims
-        for _ in range(num_of_sims):
+    def run(self):
+        for _ in range(self.num_of_sims):
             simulated_season = [simulate_game(game) for game in self.schedule]
 
             conf_games, nc_games, all_games = [], [], []
@@ -236,6 +236,6 @@ class SimulateRegularSeason:
 
 
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
-# s = SimulateRegularSeason(year=2019)
-# s.run(1)
+# s = SimulateRegularSeason(num_of_sims=1, year=2019)
+# s.run()
 # print(s.simulation_results)
