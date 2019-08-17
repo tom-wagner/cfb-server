@@ -1,4 +1,4 @@
-from typing import Dict, List, Optional, DefaultDict
+from typing import Dict, List, Optional, DefaultDict, Set
 from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
@@ -143,6 +143,7 @@ class SimulateRegularSeason:
                 'non_conference_results': get_empty_wins_dict(),
                 'total_wins': get_empty_wins_dict(),
                 'division_title_count': 0,
+                'conference_title_count': 0,
             }
             for team in TEAM_RATINGS.keys()
         }
@@ -157,9 +158,8 @@ class SimulateRegularSeason:
         augmented_schedule = [add_ratings_to_game(game, TEAM_RATINGS) for game in trimmed_schedule]
         return augmented_schedule
 
-    # TODO: typing
     @staticmethod
-    def get_division_winners_by_conf(conf_wins: Counter, simulated_season):
+    def get_division_winners_by_conf(conf_wins: Counter, simulated_season: List):
         division_winners_by_conf = {}
         for conf, conf_detail in CONFERENCES.items():
             if conf in CONFERENCES_WITHOUT_DIVISIONS:
@@ -169,18 +169,28 @@ class SimulateRegularSeason:
             division_winners_by_conf[conf] = division_winners
         return division_winners_by_conf
 
-    # TODO: typing
-    def increment_division_title_counts(self, division_winners):
+    def increment_division_title_counts(self, division_winners: Dict):
         for winners in division_winners.values():
             for team in winners:
                 self.simulation_results[team]['division_title_count'] += 1
 
-    # TODO: typing
+    def increment_conference_title_coints(self, conference_winners: Set):
+        for team in conference_winners:
+            self.simulation_results[team]['conference_title_count'] += 1
+
     @staticmethod
-    def simulate_conference_title_games(conf_wins, simulated_season, division_winners):
+    def simulate_conference_title_games(conf_wins: Counter, simulated_season: List, division_winners: Dict):
         conference_winners = set()
         for conf in CONFERENCES_WITHOUT_DIVISIONS - {'FBS Independents'}:
             title_game_participants = get_title_game_participants(conf_wins, simulated_season, conf)
+            division_winners[conf] = title_game_participants
+        for conf, title_game_participants in division_winners.items():
+            team_one, team_two = title_game_participants
+            conf_championship_game = dict(home_team=team_one, away_team=team_two, neutral_site=True)
+            game_with_power_ratings = add_ratings_to_game(conf_championship_game, TEAM_RATINGS)
+            res = simulate_game(game_with_power_ratings)
+            conference_winners.add(res['winner'])
+        return conference_winners
 
     def run(self, num_of_sims: int):
         for _ in range(num_of_sims):
@@ -203,9 +213,10 @@ class SimulateRegularSeason:
             self.increment_division_title_counts(division_winners)
 
             conference_winners = self.simulate_conference_title_games(conf_wins, simulated_season, division_winners)
+            self.increment_conference_title_coints(conference_winners)
 
 
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
-s = SimulateRegularSeason(year=2019)
-s.run(1000)
-print(s.simulation_results)
+# s = SimulateRegularSeason(year=2019)
+# s.run(1)
+# print(s.simulation_results)
