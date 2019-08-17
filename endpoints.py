@@ -9,6 +9,7 @@ from simulate.simulate_regular_season import SimulateRegularSeason
 app = Flask(__name__)
 CORS(app)
 
+
 # TODO: Improve error handling and consider moving to CFData file or base_api.py file
 # https://stackoverflow.com/questions/16511337/correct-way-to-try-except-using-python-requests-module
 
@@ -47,8 +48,10 @@ def conferences():
 def simulate():
     year, conference = (request.args.get(arg) for arg in ('year', 'conference'))
     s = SimulateRegularSeason(year=year, conference=conference)
-    s.run(10000)
-    return json.jsonify(s.simulation_results)
+    num_of_sims = 1000
+    s.run(num_of_sims)
+    return json.jsonify(
+        dict(simulation_results=s.simulation_results, num_of_sims=num_of_sims, team_ratings=TEAM_RATINGS))
 
 
 app.run(debug=True)

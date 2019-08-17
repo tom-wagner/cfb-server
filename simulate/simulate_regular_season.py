@@ -210,6 +210,7 @@ class SimulateRegularSeason:
         return conference_winners
 
     def run(self, num_of_sims: int):
+        self.num_of_sims = num_of_sims
         for _ in range(num_of_sims):
             simulated_season = [simulate_game(game) for game in self.schedule]
 
