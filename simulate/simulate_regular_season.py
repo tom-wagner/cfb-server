@@ -151,8 +151,9 @@ def get_average_opponent_rating_by_team(schedule):
 
 
 class SimulateRegularSeason:
-    def __init__(self, year: int, conference: Optional[str] = None):
+    def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
         self.schedule = self.transform_schedule(year, conference)
+        self.num_of_sims = num_of_sims
         self.simulation_results = {
             team: {
                 'conference_results': get_empty_wins_dict(),
@@ -160,10 +161,28 @@ class SimulateRegularSeason:
                 'total_wins': get_empty_wins_dict(),
                 'division_title_count': 0,
                 'conference_title_count': 0,
+                'conference_title_win_pct': None,
+                'division_title_win_pct': None,
             }
             for team in TEAM_RATINGS.keys()
         }
         self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule)
+
+    def calculate_percentages(self):
+        conferences_without_divisions = {'FBS Independents', 'Sun Belt', 'Big 12'}
+        for team in TEAMS:
+            conference = TEAMS[team]['conference']
+            if conference not in conferences_without_divisions:
+                division_title_ct = self.simulation_results[team]['division_title_count']
+                self.simulation_results[team]['division_title_win_pct'] = round(division_title_ct / self.num_of_sims, 4)
+            else:
+                self.simulation_results[team]['division_title_win_pct'] = -1
+
+            if conference != 'FBS Independents':
+                conf_title_ct = self.simulation_results[team]['conference_title_count']
+                self.simulation_results[team]['conference_title_win_pct'] = round(conf_title_ct / self.num_of_sims, 4)
+            else:
+                self.simulation_results[team]['conference_title_win_pct'] = -1
 
     @staticmethod
     def transform_schedule(year: int, conference: Optional[str]):
@@ -209,8 +228,8 @@ class SimulateRegularSeason:
             conference_winners.add(res['winner'])
         return conference_winners
 
-    def run(self, num_of_sims: int):
-        for _ in range(num_of_sims):
+    def run(self):
+        for _ in range(self.num_of_sims):
             simulated_season = [simulate_game(game) for game in self.schedule]
 
             conf_games, nc_games, all_games = [], [], []
@@ -233,8 +252,10 @@ class SimulateRegularSeason:
             conference_winners = self.simulate_conference_title_games(conf_wins, simulated_season, division_winners)
             self.increment_conference_title_coints(conference_winners)
 
+        self.calculate_percentages()
+
 
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
-# s = SimulateRegularSeason(year=2019)
-# s.run(1)
+# s = SimulateRegularSeason(num_of_sims=1, year=2019)
+# s.run()
 # print(s.simulation_results)
