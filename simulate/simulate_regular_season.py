@@ -12,7 +12,9 @@ from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:
-    return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site']}
+    print(game)
+    return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site'],
+            'start_date': game['start_date']}
 
 
 def simulate_game(game):
@@ -154,27 +156,32 @@ def add_average_rating(team_ratings: Dict) -> Dict:
     return {team: {'avg_power_rtg': get_net_power_rating(ratings), **ratings} for team, ratings in team_ratings.items()}
 
 
-# def f(team_ratings: Dict, rating_system: str) -> Dict:
-#     print(team_ratings, rating_system)
-#     sorted_tuples = [(team, power_ratings[rating_system]) for team, power_ratings in team_ratings.items()]
-#     print(sorted_tuples)
-#     return None
-#
-#
-# def get_rankings(team_ratings: Dict) -> Dict:
-#     print('running')
-#     return {rating_system: f(team_ratings, rating_system) for rating_system in RANKING_SYSTEMS}
+def f(team_ratings: Dict, rating_system: str) -> Dict:
+    sorted_tuples = sorted([(team, power_ratings[rating_system]) for team, power_ratings in team_ratings.items()],
+                           key=lambda tup: tup[1], reverse=True)
+    return {team: idx + 1 for idx, (team, _) in enumerate(sorted_tuples)}
+
+
+def get_rankings_by_rating_system(team_ratings: Dict) -> Dict:
+    systems_to_rank_by = RANKING_SYSTEMS | {'avg_power_rtg'}
+    return {rating_system: f(team_ratings, rating_system) for rating_system in systems_to_rank_by}
+
+
+def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
+    return {rating_system_name: rating_system_rankings[team] for rating_system_name, rating_system_rankings in
+            rankings.items()}
 
 
 class SimulateRegularSeason:
     def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
         self.ratings = add_average_rating(TEAM_RATINGS)
-        # self.rankings = get_rankings(self.ratings)
+        self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims
         self.simulation_results = {
             team: {
                 'schedule': [game for game in self.schedule if team == game['away_team'] or team == game['home_team']],
+                'rankings': get_rankings_for_team(team, self.rankings),
                 'conference_results': get_empty_wins_dict(),
                 'non_conference_results': get_empty_wins_dict(),
                 'total_wins': get_empty_wins_dict(),
@@ -257,10 +264,15 @@ class SimulateRegularSeason:
             conf_wins, nc_wins, all_wins = Counter(conf_games), Counter(nc_games), Counter(all_games)
             total_wins = dict(conf_wins + nc_wins)
 
+            # add winless teams:
+            for team in self.ratings.keys():
+                if team not in total_wins:
+                    nc_wins[team], conf_wins[team], total_wins[team] = 0, 0, 0
+
             for season_segment, results in (
                     ('conference_results', conf_wins), ('non_conference_results', nc_wins), ('total_wins', total_wins)):
                 for k, v in results.items():
-                    if self.simulation_results.get(k):
+                    if k in self.simulation_results:
                         self.simulation_results[k][season_segment][v] += 1
 
             # TODO: Consider transforming simulated_season to key by team
@@ -273,5 +285,5 @@ class SimulateRegularSeason:
         self.calculate_percentages()
 
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
-# s = SimulateRegularSeason(num_of_sims=1)
+# s = SimulateRegularSeason(num_of_sims=10)
 # s.run()
