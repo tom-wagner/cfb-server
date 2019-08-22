@@ -1,11 +1,14 @@
 from flask import Flask, json, request
 from flask_cors import CORS
 
+from constants.aug_twenty_second import aug_twenty_second
 from constants.conferences import CONFERENCES
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.team_ratings import TEAM_RATINGS
-from simulate.simulate_regular_season import SimulateRegularSeason
+
+# FOR RUNNING REAL-TIME
+# from simulate.simulate_regular_season import SimulateRegularSeason
 
 app = Flask(__name__)
 CORS(app)
@@ -54,10 +57,15 @@ def conferences():
 
 @app.route("/simulate", methods=["GET"])
 def simulate():
+    # TO ACTUALLY RUN ON POST
     # year, conference = (request.args.get(arg) for arg in ('year', 'conference'))
-    s = SimulateRegularSeason()
-    s.run()
-    return json.jsonify(dict(simulation_results=s.simulation_results, num_of_sims=s.num_of_sims))
+    # s = SimulateRegularSeason()
+    # s.run()
+    # return json.jsonify(
+    #     dict(simulation_results=s.simulation_results, num_of_sims=s.num_of_sims, simulation_expiration='',
+    #          warning_message=''))
+
+    return json.jsonify(aug_twenty_second)
 
 
 app.run(debug=True)

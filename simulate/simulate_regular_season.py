@@ -12,7 +12,6 @@ from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:
-    print(game)
     return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site'],
             'start_date': game['start_date']}
 
@@ -173,7 +172,7 @@ def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
 
 
 class SimulateRegularSeason:
-    def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
+    def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 100000, conference: Optional[str] = None):
         self.ratings = add_average_rating(TEAM_RATINGS)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
