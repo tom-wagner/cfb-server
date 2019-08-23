@@ -68,13 +68,12 @@ def simulate():
 # @app.route("/simulate", methods=["GET"])
 # def simulate():
 #     # year, conference = (request.args.get(arg) for arg in ('year', 'conference'))
-#     # s = SimulateRegularSeason()
-#     # s.run()
-#     # return json.jsonify(
-#     #     dict(simulation_results=s.simulation_results, num_of_sims=s.num_of_sims, simulation_expiration='',
-#     #          warning_message=''))
-#
-#     return json.jsonify(aug_twenty_second)
+#     s = SimulateRegularSeason()
+#     print(s)
+#     s.run()
+#     return json.jsonify(
+#         dict(simulation_results=s.simulation_results, num_of_sims=s.num_of_sims, simulation_expiration='',
+#              warning_message=''))
 
 
 if __name__ == '__main__':
