@@ -19,6 +19,10 @@ CORS(app)
 
 # TODO: Clean up repeated logic
 
+@app.route("/", methods=["GET"])
+def get_slash():
+    return dict(running=True)
+
 
 @app.route("/team_ratings", methods=['GET'])
 def team_ratings():
@@ -73,4 +77,7 @@ def simulate():
 #     return json.jsonify(aug_twenty_second)
 
 
-app.run(debug=True)
+if __name__ == '__main__':
+    app.run()
+
+# app.run(debug=True)
