@@ -1,5 +1,7 @@
 # NOTE --> AVERAGING TOGETHER IS SAME AS CALCULATING ONE BY ONE --> SEE LOGIC AT END OF FILE
 
+# NOTE --> KNOWN BUG WITH MIAMI (OH) vs Miami FPI ratings
+
 TEAM_RATINGS = {'Air Force': {'SP_PLUS': -3.5, 'FPI': -1.5, 'ENTROPY': 46.77, 'MASSEY': 53.76},
                 'Akron': {'SP_PLUS': -19.9, 'FPI': -16.5, 'ENTROPY': 26.72, 'MASSEY': 41.29},
                 'Alabama': {'SP_PLUS': 35.4, 'FPI': 27.9, 'ENTROPY': 81.27, 'MASSEY': 87.66},
@@ -56,8 +58,8 @@ TEAM_RATINGS = {'Air Force': {'SP_PLUS': -3.5, 'FPI': -1.5, 'ENTROPY': 46.77, 'M
                 'Marshall': {'SP_PLUS': -1.2, 'FPI': -1.6, 'ENTROPY': 43.9, 'MASSEY': 54.9},
                 'Maryland': {'SP_PLUS': 2.1, 'FPI': -1.3, 'ENTROPY': 40.23, 'MASSEY': 61.01},
                 'Memphis': {'SP_PLUS': 12.3, 'FPI': 3.1, 'ENTROPY': 50.36, 'MASSEY': 58.38},
-                'Miami': {'SP_PLUS': 13.9, 'FPI': -10.4, 'ENTROPY': 52.11, 'MASSEY': 63.26},
-                'Miami (OH)': {'SP_PLUS': -4.9, 'ENTROPY': 36.85, 'MASSEY': 53.45},
+                'Miami': {'SP_PLUS': 13.9, 'FPI': 9.3, 'ENTROPY': 52.11, 'MASSEY': 63.26},
+                'Miami (OH)': {'SP_PLUS': -4.9, 'FPI': -10.4,  'ENTROPY': 36.85, 'MASSEY': 53.45},
                 'Michigan': {'SP_PLUS': 21.6, 'FPI': 21.2, 'ENTROPY': 65.45, 'MASSEY': 72.4},
                 'Michigan State': {'SP_PLUS': 12.6, 'FPI': 14.0, 'ENTROPY': 60.42, 'MASSEY': 65.06},
                 'Middle Tennessee': {'SP_PLUS': -9.3, 'FPI': -8.8, 'ENTROPY': 40.05, 'MASSEY': 54.19},

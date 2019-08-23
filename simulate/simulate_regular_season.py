@@ -3,7 +3,7 @@ from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
 from constants.conferences import CONFERENCES
-from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE, CONFERENCES_WITHOUT_DIVISIONS
+from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE, CONFERENCES_WITHOUT_DIVISIONS, RANKING_SYSTEMS
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
@@ -12,7 +12,8 @@ from ratings.inputs.data.team_ratings import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:
-    return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site']}
+    return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site'],
+            'start_date': game['start_date']}
 
 
 def simulate_game(game):
@@ -28,13 +29,14 @@ def add_ratings_to_game(game: Dict, team_ratings: Dict) -> Dict:
     return adj_game
 
 
+# TODO: Adding logic to filter out ratings systems wouldn't be that hard
 def get_net_power_rating(ratings: Dict) -> float:
-    return mean([rating for rating in ratings.values()])
+    return round(mean([rating for rating in ratings.values()]), 2)
 
 
-def determine_margin_for_game_vs_fcs_team(home_team, away_team):
+def determine_margin_for_game_vs_fcs_team(home_team, away_team, team_ratings):
     """Add a default margin if one of the teams is not rated by S&P+"""
-    home_team_massey_rating = TEAM_RATINGS[home_team][MASSEY]
+    home_team_massey_rating = team_ratings[home_team][MASSEY]
     away_team__massey_rating = get_massey_rating_fcs_team(away_team)
     return round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
 
@@ -44,8 +46,7 @@ def add_proj_margin_to_game(game, team_ratings):
     if home_team in team_ratings and away_team in team_ratings:
         home_team_ratings, away_team_ratings = team_ratings[home_team], team_ratings[away_team]
         game['away_team_rtgs'], game['home_team_rtgs'] = home_team_ratings, away_team_ratings
-        # TODO: Running this every simulation --> could be cached
-        ht_net_power, at_net_power = (get_net_power_rating(r) for r in (home_team_ratings, away_team_ratings))
+        ht_net_power, at_net_power = (r['avg_power_rtg'] for r in (home_team_ratings, away_team_ratings))
         game['ht_net_power_rtg'], game['away_team_net_power_rtg'] = ht_net_power, at_net_power
 
         if not game['neutral_site']:
@@ -54,7 +55,7 @@ def add_proj_margin_to_game(game, team_ratings):
             game['home_team_projected_margin'] = round(ht_net_power - at_net_power, 1)
 
     else:
-        game['home_team_projected_margin'] = determine_margin_for_game_vs_fcs_team(home_team, away_team)
+        game['home_team_projected_margin'] = determine_margin_for_game_vs_fcs_team(home_team, away_team, team_ratings)
 
     proj_margin = game['home_team_projected_margin']
     game['home_team_win_pct'] = LIKELIHOODS[proj_margin] if proj_margin > 0 else 1 - LIKELIHOODS[abs(proj_margin)]
@@ -135,27 +136,51 @@ def get_title_game_participants(conf_wins: Counter, simulated_season: List, conf
     return get_top_two_teams(div_results_dict, simulated_season)
 
 
-def get_average_opponent_rating_by_team(schedule):
+def get_average_opponent_rating_by_team(schedule: List, team_ratings: Dict):
     schedule_by_team = defaultdict(list)
     average_opponent_rating_by_team = dict()
     for game in schedule:
         ht, at = game['home_team'], game['away_team']
-        if at in TEAM_RATINGS and at in TEAM_RATINGS:
+        if at in team_ratings and at in team_ratings:
             schedule_by_team[ht].append(at)
             schedule_by_team[at].append(ht)
     for team, schedule in schedule_by_team.items():
-        opponent_ratings = [get_net_power_rating(TEAM_RATINGS[opponent]) for opponent in schedule]
+        opponent_ratings = [team_ratings[opponent]['avg_power_rtg'] for opponent in schedule]
         average_opponent_rating = sum(opponent_ratings) / len(opponent_ratings)
         average_opponent_rating_by_team[team] = round(average_opponent_rating, 2)
     return average_opponent_rating_by_team
 
 
+def add_average_rating(team_ratings: Dict) -> Dict:
+    return {team: {'avg_power_rtg': get_net_power_rating(ratings), **ratings} for team, ratings in team_ratings.items()}
+
+
+def f(team_ratings: Dict, rating_system: str) -> Dict:
+    sorted_tuples = sorted([(team, power_ratings[rating_system]) for team, power_ratings in team_ratings.items()],
+                           key=lambda tup: tup[1], reverse=True)
+    return {team: idx + 1 for idx, (team, _) in enumerate(sorted_tuples)}
+
+
+def get_rankings_by_rating_system(team_ratings: Dict) -> Dict:
+    systems_to_rank_by = RANKING_SYSTEMS | {'avg_power_rtg'}
+    return {rating_system: f(team_ratings, rating_system) for rating_system in systems_to_rank_by}
+
+
+def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
+    return {rating_system_name: rating_system_rankings[team] for rating_system_name, rating_system_rankings in
+            rankings.items()}
+
+
 class SimulateRegularSeason:
     def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
+        self.ratings = add_average_rating(TEAM_RATINGS)
+        self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims
         self.simulation_results = {
             team: {
+                'schedule': [game for game in self.schedule if team == game['away_team'] or team == game['home_team']],
+                'rankings': get_rankings_for_team(team, self.rankings),
                 'conference_results': get_empty_wins_dict(),
                 'non_conference_results': get_empty_wins_dict(),
                 'total_wins': get_empty_wins_dict(),
@@ -164,9 +189,9 @@ class SimulateRegularSeason:
                 'conference_title_win_pct': None,
                 'division_title_win_pct': None,
             }
-            for team in TEAM_RATINGS.keys()
+            for team in self.ratings.keys()
         }
-        self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule)
+        self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule, self.ratings)
 
     def calculate_percentages(self):
         conferences_without_divisions = {'FBS Independents', 'Sun Belt', 'Big 12'}
@@ -184,14 +209,14 @@ class SimulateRegularSeason:
             else:
                 self.simulation_results[team]['conference_title_win_pct'] = -1
 
-    @staticmethod
-    def transform_schedule(year: int, conference: Optional[str]):
+    # TODO for v1 --> don't make this API call and instead have a constant
+    def transform_schedule(self, year: int, conference: Optional[str]):
         raw_schedule = CFData().get_schedule(year=year, conference=conference)
         trimmed_schedule = [trim_game(g) for g in raw_schedule]
         # TODO:
         # Consider passing a parameter here to add_ratings called `ratings_to_include`
         # and make it a set of the ratings that should be included in the simulation
-        augmented_schedule = [add_ratings_to_game(game, TEAM_RATINGS) for game in trimmed_schedule]
+        augmented_schedule = [add_ratings_to_game(game, self.ratings) for game in trimmed_schedule]
         return augmented_schedule
 
     @staticmethod
@@ -214,8 +239,7 @@ class SimulateRegularSeason:
         for team in conference_winners:
             self.simulation_results[team]['conference_title_count'] += 1
 
-    @staticmethod
-    def simulate_conference_title_games(conf_wins: Counter, simulated_season: List, division_winners: Dict):
+    def simulate_conference_title_games(self, conf_wins: Counter, simulated_season: List, division_winners: Dict):
         conference_winners = set()
         for conf in CONFERENCES_WITHOUT_DIVISIONS - {'FBS Independents'}:
             title_game_participants = get_title_game_participants(conf_wins, simulated_season, conf)
@@ -223,7 +247,7 @@ class SimulateRegularSeason:
         for conf, title_game_participants in division_winners.items():
             team_one, team_two = title_game_participants
             conf_championship_game = dict(home_team=team_one, away_team=team_two, neutral_site=True)
-            game_with_power_ratings = add_ratings_to_game(conf_championship_game, TEAM_RATINGS)
+            game_with_power_ratings = add_ratings_to_game(conf_championship_game, self.ratings)
             res = simulate_game(game_with_power_ratings)
             conference_winners.add(res['winner'])
         return conference_winners
@@ -237,12 +261,17 @@ class SimulateRegularSeason:
                 conf_games.append(game['winner']) if game['is_conf_game'] else nc_games.append(game['winner'])
                 all_games.append(game['winner'])
             conf_wins, nc_wins, all_wins = Counter(conf_games), Counter(nc_games), Counter(all_games)
-            total_wins = dict(conf_wins+nc_wins)
+            total_wins = dict(conf_wins + nc_wins)
+
+            # add winless teams:
+            for team in self.ratings.keys():
+                if team not in total_wins:
+                    nc_wins[team], conf_wins[team], total_wins[team] = 0, 0, 0
 
             for season_segment, results in (
                     ('conference_results', conf_wins), ('non_conference_results', nc_wins), ('total_wins', total_wins)):
                 for k, v in results.items():
-                    if self.simulation_results.get(k):
+                    if k in self.simulation_results:
                         self.simulation_results[k][season_segment][v] += 1
 
             # TODO: Consider transforming simulated_season to key by team
@@ -254,8 +283,6 @@ class SimulateRegularSeason:
 
         self.calculate_percentages()
 
-
 # # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
-# s = SimulateRegularSeason(num_of_sims=1, year=2019)
+# s = SimulateRegularSeason(num_of_sims=10)
 # s.run()
-# print(s.simulation_results)

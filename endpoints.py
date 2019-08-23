@@ -1,11 +1,14 @@
 from flask import Flask, json, request
 from flask_cors import CORS
 
+from constants.aug_twenty_second import aug_twenty_second
 from constants.conferences import CONFERENCES
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.team_ratings import TEAM_RATINGS
-from simulate.simulate_regular_season import SimulateRegularSeason
+
+# FOR RUNNING REAL-TIME
+# from simulate.simulate_regular_season import SimulateRegularSeason
 
 app = Flask(__name__)
 CORS(app)
@@ -15,6 +18,10 @@ CORS(app)
 # https://stackoverflow.com/questions/16511337/correct-way-to-try-except-using-python-requests-module
 
 # TODO: Clean up repeated logic
+
+@app.route("/", methods=["GET"])
+def get_slash():
+    return dict(running=True)
 
 
 @app.route("/team_ratings", methods=['GET'])
@@ -54,10 +61,22 @@ def conferences():
 
 @app.route("/simulate", methods=["GET"])
 def simulate():
-    # year, conference = (request.args.get(arg) for arg in ('year', 'conference'))
-    s = SimulateRegularSeason()
-    s.run()
-    return json.jsonify(dict(simulation_results=s.simulation_results, num_of_sims=s.num_of_sims))
+    return json.jsonify(aug_twenty_second)
 
 
-app.run(debug=True)
+# TO ACTUALLY RUN ON POST
+# @app.route("/simulate", methods=["GET"])
+# def simulate():
+#     # year, conference = (request.args.get(arg) for arg in ('year', 'conference'))
+#     s = SimulateRegularSeason()
+#     print(s)
+#     s.run()
+#     return json.jsonify(
+#         dict(simulation_results=s.simulation_results, num_of_sims=s.num_of_sims, simulation_expiration='',
+#              warning_message=''))
+
+
+if __name__ == '__main__':
+    app.run()
+
+# app.run(debug=True)
