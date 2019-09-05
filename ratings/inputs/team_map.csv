@@ -55,8 +55,8 @@ LSU,LSU,LSU,L.S.U.,LSU,LSU
 Marshall,Marshall,Marshall,Marshall,Marshall,Marshall
 Maryland,Maryland,Maryland,Maryland,Maryland,Maryland
 Memphis,Memphis,Memphis,Memphis,Memphis,Memphis
-Miami,Miami,Miami,Miami,Miami Florida,Miami FL
-Miami (OH),Miami (Ohio),Miami (OH),Miami (Ohio),null,Miami OH
+Miami,Miami-FL,Miami,Miami,Miami Florida,Miami FL
+Miami (OH),Miami-OH,Miami (OH),Miami (Ohio),null,Miami OH
 Michigan,Michigan,Michigan,Michigan,Michigan,Michigan
 Michigan State,Michigan State,Mich. St.,Michigan State,Michigan State,Michigan St
 Middle Tennessee,Middle Tennessee,Mid Tennessee,Middle Tennessee State,null,MTSU
@@ -82,7 +82,7 @@ Ole Miss,Ole Miss,Ole Miss,Ole Miss,null,Mississippi
 Oregon,Oregon,Oregon,Oregon,Oregon,Oregon
 Oregon State,Oregon State,Oregon St,Oregon State,Oregon State,Oregon St
 Penn State,Penn State,Penn State,Penn State,Penn State,Penn St
-Pittsburgh,Pittsburgh,Pitt,Pittsburgh,Pittsburgh U,Pittsburgh
+Pittsburgh,Pittsburgh,Pittsburgh,Pittsburgh,Pittsburgh U,Pittsburgh
 Purdue,Purdue,Purdue,Purdue,Purdue,Purdue
 Rice,Rice,Rice,Rice,null,Rice
 Rutgers,Rutgers,Rutgers,Rutgers,null,Rutgers
@@ -92,7 +92,7 @@ SMU,SMU,SMU,S.M.U.,SMU,SMU
 South Alabama,South Alabama,South Alabama,South Alabama,South Alabama,South Alabama
 South Carolina,South Carolina,S Carolina,South Carolina,South Carolina,South Carolina
 Southern Mississippi,Southern Miss,Southern Miss,Southern Miss,null,Southern Miss
-South Florida,USF,USF,South Florida,South Florida,South Florida
+South Florida,South Florida,USF,South Florida,South Florida,South Florida
 Stanford,Stanford,Stanford,Stanford,Stanford,Stanford
 Syracuse,Syracuse,Syracuse,Syracuse,Syracuse,Syracuse
 TCU,TCU,TCU,T.C.U.,TCU,TCU
@@ -107,7 +107,7 @@ Troy,Troy,Troy,Troy,Troy,Troy
 Tulane,Tulane,Tulane,Tulane,Tulane,Tulane
 Tulsa,Tulsa,Tulsa,Tulsa,Tulsa,Tulsa
 UAB,UAB,UAB,U.A.B.,null,UAB
-UCF,UCF,UCF,Central Florida,null,UCF
+UCF,Central Florida,UCF,Central Florida,null,UCF
 UCLA,UCLA,UCLA,UCLA,UCLA,UCLA
 UMass,Massachusetts,UMass,Massachusetts,null,Massachusetts
 UNLV,UNLV,UNLV,UNLV,UNLV,UNLV

@@ -8,17 +8,20 @@ from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings import TEAM_RATINGS
+from ratings.inputs.data.team_ratings.week_one import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:
     return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site'],
-            'start_date': game['start_date']}
+            'start_date': game['start_date'], 'home_points': game['home_points'], 'away_points': game['away_points']}
 
 
 def simulate_game(game):
     home_team, away_team = game['home_team'], game['away_team']
-    winner, loser = (home_team, away_team) if game['home_team_win_pct'] > rand_float() else (away_team, home_team)
+    if game.get('home_points') is not None:
+        winner, loser = (home_team, away_team) if game['home_points'] > game['away_points'] else (away_team, home_team)
+    else:
+        winner, loser = (home_team, away_team) if game['home_team_win_pct'] > rand_float() else (away_team, home_team)
     are_both_teams_division_one = home_team in TEAMS and away_team in TEAMS
     is_conf_game = are_both_teams_division_one and TEAMS[home_team]['conference'] == TEAMS[away_team]['conference']
     return dict(winner=winner, loser=loser, is_conf_game=is_conf_game)
@@ -43,6 +46,12 @@ def determine_margin_for_game_vs_fcs_team(home_team, away_team, team_ratings):
 
 def add_proj_margin_to_game(game, team_ratings):
     home_team, away_team = game['home_team'], game['away_team']
+
+    # handle already played games
+    if game.get('home_points') is not None:
+        game['home_team_win_pct'] = 1 if game['home_points'] > game['away_points'] else 0
+        return game
+
     if home_team in team_ratings and away_team in team_ratings:
         home_team_ratings, away_team_ratings = team_ratings[home_team], team_ratings[away_team]
         game['away_team_rtgs'], game['home_team_rtgs'] = home_team_ratings, away_team_ratings
@@ -283,6 +292,8 @@ class SimulateRegularSeason:
 
         self.calculate_percentages()
 
-# # TODO: Simulation results appear to be underestimating good teams --> see Ohio State and Michigan, are they working?
-# s = SimulateRegularSeason(num_of_sims=10)
-# s.run()
+
+s = SimulateRegularSeason(num_of_sims=100000)
+s.run()
+
+print(s.simulation_results)
