@@ -293,7 +293,7 @@ class SimulateRegularSeason:
         self.calculate_percentages()
 
 
-s = SimulateRegularSeason(num_of_sims=1000)
+s = SimulateRegularSeason(num_of_sims=100000)
 s.run()
 
 print(s.simulation_results)
