@@ -8,7 +8,7 @@ from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings import TEAM_RATINGS
+from ratings.inputs.data.team_ratings.week_one import TEAM_RATINGS
 
 
 def trim_game(game: Dict) -> Dict:
