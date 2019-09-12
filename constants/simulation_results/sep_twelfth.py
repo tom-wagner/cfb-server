@@ -3,7 +3,7 @@
 sep_twelfth = {
     'num_of_sims': 100000,
     'when_to_start_showing_warning': '2019-09-13T20:30:00Z',
-    'last_updated': '2019-09-012T11:00:00Z',
+    'last_updated': '2019-09-12T11:00:00Z',
     'simulation_results': {
         'Air Force': {
             'schedule': [
