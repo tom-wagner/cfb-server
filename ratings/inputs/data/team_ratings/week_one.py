@@ -146,3 +146,17 @@ TEAM_RATINGS = {'Air Force': {'SP_PLUS': 3.5, 'FPI': 1.3, 'ENTROPY': 52.09, 'MAS
 #
 # print(sum(mn_diff) / 4)
 # print(mn_average - wi_average)
+
+# WISCONSIN_PRESEASON = {
+#     'SP_PLUS': 20.1,
+#     'FPI': 6.7,
+#     'ENTROPY': 58.6,
+#     'MASSEY': 69.12
+# }
+#
+# WISCONSIN_AFTER_WEEK_ONE = {
+#     'SP_PLUS': 22.8,
+#     'FPI': 12.5,
+#     'ENTROPY': 61.52,
+#     'MASSEY': 70.98
+# }
