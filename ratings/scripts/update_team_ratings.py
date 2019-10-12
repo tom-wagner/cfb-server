@@ -46,7 +46,7 @@ def read_csvs(files_to_read: Dict):
     return res
 
 
-BASE_PATH = "../inputs/data/week_four"
+BASE_PATH = "../inputs/data/week_six"
 file_paths_dict = dict(SP_PLUS=f'{BASE_PATH}/{SP_PLUS}.csv',
                        FPI=f'{BASE_PATH}/{FPI}.csv',
                        ENTROPY=f'{BASE_PATH}/{ENTROPY}.csv',
