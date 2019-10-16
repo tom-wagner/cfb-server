@@ -8,7 +8,7 @@ from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings.week_four import TEAM_RATINGS
+from ratings.inputs.data.team_ratings.week_seven import TEAM_RATINGS as TEAM_RATINGS_WEEK_SEVEN
 
 
 def trim_game(game: Dict) -> Dict:
@@ -182,7 +182,7 @@ def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
 
 class SimulateRegularSeason:
     def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
-        self.ratings = add_average_rating(TEAM_RATINGS)
+        self.ratings = add_average_rating(TEAM_RATINGS_WEEK_SEVEN)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims
