@@ -36,7 +36,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Air Force',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-09-28T00:00:00.000Z',
                     'home_points': 41,
@@ -1675,7 +1675,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Arkansas',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 24,
@@ -2274,7 +2274,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Army',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': None,
@@ -3333,7 +3333,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 0.31999999999999995,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Boise State',
                     'neutral_site': False,
                     'start_date': '2019-11-03T02:30:00.000Z',
@@ -9088,7 +9088,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 0.79,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Fresno State',
                     'neutral_site': False,
                     'start_date': '2019-11-30T05:00:00.000Z',
@@ -10419,7 +10419,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': "Hawai'i",
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-11-10T04:00:00.000Z',
                     'home_points': None,
@@ -18217,7 +18217,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Nevada',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 41,
@@ -18480,7 +18480,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 1,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'New Mexico',
                     'neutral_site': False,
                     'start_date': '2019-10-05T02:00:00.000Z',
@@ -23669,7 +23669,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 1,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'San Diego State',
                     'neutral_site': False,
                     'start_date': '2019-10-19T23:00:00.000Z',
@@ -23885,10 +23885,10 @@ oct_sixteenth = {
             'conference_title_win_pct': 0.1436,
             'division_title_win_pct': 0.414,
             },
-        'San Jos\xc3\xa9 State': {
+        'San José State': {
             'schedule': [
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Northern Colorado',
                     'neutral_site': False,
                     'start_date': '2019-08-30T02:00:00.000Z',
@@ -23897,7 +23897,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 1,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Tulsa',
                     'neutral_site': False,
                     'start_date': '2019-09-08T01:00:00.000Z',
@@ -23907,7 +23907,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Arkansas',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 24,
@@ -23916,7 +23916,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Air Force',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-09-28T00:00:00.000Z',
                     'home_points': 41,
@@ -23924,7 +23924,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 1,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'New Mexico',
                     'neutral_site': False,
                     'start_date': '2019-10-05T02:00:00.000Z',
@@ -23934,7 +23934,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Nevada',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 41,
@@ -23942,7 +23942,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 1,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'San Diego State',
                     'neutral_site': False,
                     'start_date': '2019-10-19T23:00:00.000Z',
@@ -23969,7 +23969,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'Army',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': None,
@@ -23994,7 +23994,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 0.75,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Boise State',
                     'neutral_site': False,
                     'start_date': '2019-11-03T02:30:00.000Z',
@@ -24021,7 +24021,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': "Hawai'i",
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-11-10T04:00:00.000Z',
                     'home_points': None,
@@ -24047,7 +24047,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'UNLV',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': None,
@@ -24072,7 +24072,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 0.52,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Fresno State',
                     'neutral_site': False,
                     'start_date': '2019-11-30T05:00:00.000Z',
@@ -28845,7 +28845,7 @@ oct_sixteenth = {
                     'home_team_win_pct': 1,
                     },
                 {
-                    'home_team': 'San Jos\xc3\xa9 State',
+                    'home_team': 'San José State',
                     'away_team': 'Tulsa',
                     'neutral_site': False,
                     'start_date': '2019-09-08T01:00:00.000Z',
@@ -30343,7 +30343,7 @@ oct_sixteenth = {
                     },
                 {
                     'home_team': 'UNLV',
-                    'away_team': 'San Jos\xc3\xa9 State',
+                    'away_team': 'San José State',
                     'neutral_site': False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': None,
