@@ -2,7 +2,7 @@ from flask import Flask, json, request
 from flask_cors import CORS
 
 from constants.conferences import CONFERENCES
-from constants.simulation_results.oct_sixteenth import oct_sixteenth
+from constants.simulation_results.oct_twenty_second import oct_twenty_second
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.team_ratings.week_eight import TEAM_RATINGS as TR_WEEK_EIGHT
@@ -61,7 +61,7 @@ def conferences():
 
 @app.route("/simulate", methods=["GET"])
 def simulate():
-    return json.jsonify(oct_sixteenth)
+    return json.jsonify(oct_twenty_second)
 
 
 # TO ACTUALLY RUN ON POST
