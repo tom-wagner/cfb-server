@@ -3,8 +3,8 @@
 
 oct_twenty_second = {
     'num_of_sims': 100000,
-    'when_to_start_showing_warning': '2019-09-06T20:30:00Z',
-    'last_updated': '2019-09-05T11:00:00Z',
+    'when_to_start_showing_warning': '2019-10-24T20:30:00Z',
+    'last_updated': '2019-10-22T11:00:00Z',
     'simulation_results': {
         'Air Force': {
             'schedule': [
