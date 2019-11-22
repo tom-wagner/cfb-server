@@ -5,7 +5,7 @@ from constants.conferences import CONFERENCES
 from constants.simulation_results.nov_thirteenth import november_thirteenth
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
-from ratings.inputs.data.team_ratings.week_eleven import TEAM_RATINGS as TR_WEEK_ELEVEN
+from ratings.inputs.data.team_ratings.week_twelve import TEAM_RATINGS as TR_WEEK_TWELVE
 
 # FOR RUNNING REAL-TIME
 # from simulate.simulate_regular_season import SimulateRegularSeason
@@ -26,7 +26,7 @@ def get_slash():
 
 @app.route("/team_ratings", methods=['GET'])
 def team_ratings():
-    return json.jsonify(TR_WEEK_ELEVEN)
+    return json.jsonify(TR_WEEK_TWELVE)
 
 
 @app.route("/teams", methods=['GET'])
@@ -34,8 +34,8 @@ def teams():
     try:
         adj_teams_object = {
             team: dict(
-                power_rtgs=TR_WEEK_ELEVEN[team],
-                avg_power_rtg=round(sum([rtg for rtg in TR_WEEK_ELEVEN[team].values()]) / len(TR_WEEK_ELEVEN[team]), 1),
+                power_rtgs=TR_WEEK_TWELVE[team],
+                avg_power_rtg=round(sum([rtg for rtg in TR_WEEK_TWELVE[team].values()]) / len(TR_WEEK_TWELVE[team]), 1),
                 **team_obj,
             )
             for team, team_obj in TEAMS.items()
