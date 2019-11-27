@@ -2,10 +2,10 @@ from flask import Flask, json, request
 from flask_cors import CORS
 
 from constants.conferences import CONFERENCES
-from constants.simulation_results.nov_thirteenth import november_thirteenth
+from constants.simulation_results.nov_twenty_seven import november_twenty_seven
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
-from ratings.inputs.data.team_ratings.week_eleven import TEAM_RATINGS as TR_WEEK_ELEVEN
+from ratings.inputs.data.team_ratings.week_thirteen import TEAM_RATINGS as TR_WEEK_THIRTEEN
 
 # FOR RUNNING REAL-TIME
 # from simulate.simulate_regular_season import SimulateRegularSeason
@@ -26,7 +26,7 @@ def get_slash():
 
 @app.route("/team_ratings", methods=['GET'])
 def team_ratings():
-    return json.jsonify(TR_WEEK_ELEVEN)
+    return json.jsonify(TR_WEEK_THIRTEEN)
 
 
 @app.route("/teams", methods=['GET'])
@@ -34,8 +34,8 @@ def teams():
     try:
         adj_teams_object = {
             team: dict(
-                power_rtgs=TR_WEEK_ELEVEN[team],
-                avg_power_rtg=round(sum([rtg for rtg in TR_WEEK_ELEVEN[team].values()]) / len(TR_WEEK_ELEVEN[team]), 1),
+                power_rtgs=TR_WEEK_THIRTEEN[team],
+                avg_power_rtg=round(sum([rtg for rtg in TR_WEEK_THIRTEEN[team].values()]) / len(TR_WEEK_THIRTEEN[team]), 1),
                 **team_obj,
             )
             for team, team_obj in TEAMS.items()
@@ -61,7 +61,7 @@ def conferences():
 
 @app.route("/simulate", methods=["GET"])
 def simulate():
-    return json.jsonify(november_thirteenth)
+    return json.jsonify(november_twenty_seven)
 
 
 # TO ACTUALLY RUN ON POST
