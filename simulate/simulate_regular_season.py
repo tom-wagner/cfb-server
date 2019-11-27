@@ -122,7 +122,6 @@ def get_division_winners(divisions: Dict, conf_wins: Counter, simulated_season: 
     res = []
     for div_name, division_teams in divisions.items():
         div_results_dict = get_standings(conf_wins, division_teams)
-
         max_wins = max(div_results_dict.keys())
         first_place_teams = div_results_dict[max_wins]
         first_place_teams_ct = len(first_place_teams)
@@ -221,7 +220,12 @@ class SimulateRegularSeason:
     # TODO for v1 --> don't make this API call and instead have a constant
     def transform_schedule(self, year: int, conference: Optional[str]):
         raw_schedule = CFData().get_schedule(year=year, conference=conference)
-        trimmed_schedule = [trim_game(g) for g in raw_schedule]
+
+        # TODO: remove this hack --> https://twitter.com/messages/84006766-1158580518134456321
+        raw_schedule_filtered_for_af_reschedule = [g for g in raw_schedule if g['id'] != 401117539]
+
+        trimmed_schedule = [trim_game(g) for g in raw_schedule_filtered_for_af_reschedule]
+
         # TODO:
         # Consider passing a parameter here to add_ratings called `ratings_to_include`
         # and make it a set of the ratings that should be included in the simulation
