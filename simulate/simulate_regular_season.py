@@ -225,7 +225,12 @@ class SimulateRegularSeason:
         # NOTE: still 2x New Mexico game as of 12/6
         raw_schedule_filtered_for_af_reschedule = [g for g in raw_schedule if g['id'] != 401117539]
 
-        trimmed_schedule = [trim_game(g) for g in raw_schedule_filtered_for_af_reschedule]
+        # TODO: Evaluate whether this needs to be here for next year
+        # TODO: Get rid of this hack too --> add logic for differentiating reg season and conf championships next year
+        # g['id'] hack is for army/navy (which is in week 15)
+        reg_season = [g for g in raw_schedule_filtered_for_af_reschedule if g['week'] != 15 or g['id'] == 401114335]
+
+        trimmed_schedule = [trim_game(g) for g in reg_season]
 
         # TODO:
         # Consider passing a parameter here to add_ratings called `ratings_to_include`
