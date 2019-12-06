@@ -8,7 +8,7 @@ from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings.week_thirteen import TEAM_RATINGS as TR_WEEK_THIRTEEN
+from ratings.inputs.data.team_ratings.week_fourteen import TEAM_RATINGS as TR_WEEK_FOURTEEN
 
 
 def trim_game(game: Dict) -> Dict:
@@ -181,7 +181,7 @@ def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
 
 class SimulateRegularSeason:
     def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
-        self.ratings = add_average_rating(TR_WEEK_THIRTEEN)
+        self.ratings = add_average_rating(TR_WEEK_FOURTEEN)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims
@@ -222,6 +222,7 @@ class SimulateRegularSeason:
         raw_schedule = CFData().get_schedule(year=year, conference=conference)
 
         # TODO: remove this hack --> https://twitter.com/messages/84006766-1158580518134456321
+        # NOTE: still 2x New Mexico game as of 12/6
         raw_schedule_filtered_for_af_reschedule = [g for g in raw_schedule if g['id'] != 401117539]
 
         trimmed_schedule = [trim_game(g) for g in raw_schedule_filtered_for_af_reschedule]
