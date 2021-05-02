@@ -7,8 +7,8 @@ from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE, CONFERENCES_WITHOU
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
-from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings.week_fourteen import TEAM_RATINGS as TR_WEEK_FOURTEEN
+# from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
+from ratings.inputs.data.team_ratings.this_year.preseason import TEAM_RATINGS as TR_PRESEASON
 
 
 def trim_game(game: Dict) -> Dict:
@@ -39,9 +39,13 @@ def get_net_power_rating(ratings: Dict) -> float:
 
 def determine_margin_for_game_vs_fcs_team(home_team, away_team, team_ratings):
     """Add a default margin if one of the teams is not rated by S&P+"""
-    home_team_massey_rating = team_ratings[home_team][MASSEY]
-    away_team__massey_rating = get_massey_rating_fcs_team(away_team)
-    return round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
+    # home_team_massey_rating = team_ratings[home_team][MASSEY]
+    # away_team__massey_rating = get_massey_rating_fcs_team(away_team)
+    # return round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
+
+    # Don't have Massey yet, setting arbitrarily high
+    return 35
+
 
 
 def add_proj_margin_to_game(game, team_ratings):
@@ -152,10 +156,15 @@ def get_average_opponent_rating_by_team(schedule: List, team_ratings: Dict):
         if at in team_ratings and at in team_ratings:
             schedule_by_team[ht].append(at)
             schedule_by_team[at].append(ht)
+
     for team, schedule in schedule_by_team.items():
-        opponent_ratings = [team_ratings[opponent]['avg_power_rtg'] for opponent in schedule]
+        # adding -35 for FCS teams
+        opponent_ratings = [
+            team_ratings[opponent]['avg_power_rtg'] if team_ratings.get(opponent) != None else -35
+            for opponent in schedule]
         average_opponent_rating = sum(opponent_ratings) / len(opponent_ratings)
         average_opponent_rating_by_team[team] = round(average_opponent_rating, 2)
+
     return average_opponent_rating_by_team
 
 
@@ -180,8 +189,8 @@ def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
 
 
 class SimulateRegularSeason:
-    def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
-        self.ratings = add_average_rating(TR_WEEK_FOURTEEN)
+    def __init__(self, year: Optional[int] = 2021, num_of_sims: int = 1000, conference: Optional[str] = None):
+        self.ratings = add_average_rating(TR_PRESEASON)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims

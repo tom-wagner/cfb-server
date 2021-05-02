@@ -8,6 +8,7 @@
         "timeout_seconds": 900,
         "manage_roles": false,
         "role_name": "ZappaFlaskRole",
-        "role_arn": "arn:aws:iam::331955863890:role/ZappaFlaskRole"
+        "role_arn": "arn:aws:iam::331955863890:role/ZappaFlaskRole",
+        "aws_region": "us-east-1"
     }
 }
