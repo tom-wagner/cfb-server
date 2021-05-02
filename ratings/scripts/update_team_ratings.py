@@ -2,9 +2,9 @@ import csv
 from typing import Dict
 
 from constants.constants import CFD, SP_PLUS, FPI, ENTROPY, MASSEY
-from constants.team_map import TEAM_MAP
+from constants.team_map_new import TEAM_MAP
 
-RATINGS_ORDER_IN_CSV = [CFD, SP_PLUS, FPI, ENTROPY, MASSEY]
+RATINGS_ORDER_IN_CSV = [CFD, SP_PLUS]
 
 
 # def convert_csv_to_json(csv_file: any) -> Dict:
@@ -46,11 +46,14 @@ def read_csvs(files_to_read: Dict):
     return res
 
 
-BASE_PATH = "../inputs/data/week_fourteen"
-file_paths_dict = dict(SP_PLUS=f'{BASE_PATH}/{SP_PLUS}.csv',
-                       FPI=f'{BASE_PATH}/{FPI}.csv',
-                       ENTROPY=f'{BASE_PATH}/{ENTROPY}.csv',
-                       MASSEY=f'{BASE_PATH}/{MASSEY}.csv')
+BASE_PATH = "ratings/inputs/data/2021/Preseason"
+
+file_paths_dict = dict(SP_PLUS=f'{BASE_PATH}/{SP_PLUS}.csv')
+
+# file_paths_dict = dict(SP_PLUS=f'{BASE_PATH}/{SP_PLUS}.csv',
+#                        FPI=f'{BASE_PATH}/{FPI}.csv',
+#                        ENTROPY=f'{BASE_PATH}/{ENTROPY}.csv',
+#                        MASSEY=f'{BASE_PATH}/{MASSEY}.csv')
 
 # for now ==> copy to team_ratings and use formatter
 result = read_csvs(file_paths_dict)

@@ -19,7 +19,7 @@ def convert_csv_to_json(csv_file: any) -> Dict:
 
 
 # encoding: https://stackoverflow.com/a/49150749
-with open('../inputs/team_map.csv', encoding='utf-8-sig') as teams_file:
+with open('ratings/inputs/team_map_new.csv', encoding='utf-8-sig') as teams_file:
     csv_reader = csv.reader(teams_file, delimiter=',')
     team_strings = convert_csv_to_json(csv_reader)
 
