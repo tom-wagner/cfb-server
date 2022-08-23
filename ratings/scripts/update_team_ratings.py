@@ -46,11 +46,11 @@ def read_csvs(files_to_read: Dict):
     return res
 
 
-BASE_PATH = "../inputs/data/week_fourteen"
-file_paths_dict = dict(SP_PLUS=f'{BASE_PATH}/{SP_PLUS}.csv',
-                       FPI=f'{BASE_PATH}/{FPI}.csv',
-                       ENTROPY=f'{BASE_PATH}/{ENTROPY}.csv',
-                       MASSEY=f'{BASE_PATH}/{MASSEY}.csv')
+BASE_PATH = "ratings/inputs/data/2022/preseason"
+file_paths_dict = dict(SP_PLUS=f'{BASE_PATH}/{SP_PLUS}.csv')
+                    #    FPI=f'{BASE_PATH}/{FPI}.csv',
+                    #    ENTROPY=f'{BASE_PATH}/{ENTROPY}.csv',
+                    #    MASSEY=f'{BASE_PATH}/{MASSEY}.csv')
 
 # for now ==> copy to team_ratings and use formatter
 result = read_csvs(file_paths_dict)

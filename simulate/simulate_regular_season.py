@@ -8,12 +8,12 @@ from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings.week_fourteen import TEAM_RATINGS as TR_WEEK_FOURTEEN
+from ratings.inputs.data.team_ratings.twenty_twenty_two.preseason import TEAM_RATINGS as TR_PRESEASON
 
 
 def trim_game(game: Dict) -> Dict:
-    return {'home_team': game['home_team'], 'away_team': game['away_team'], 'neutral_site': game['neutral_site'],
-            'start_date': game['start_date'], 'home_points': game['home_points'], 'away_points': game['away_points']}
+    return {'home_team': game.home_team, 'away_team': game.away_team, 'neutral_site': game.neutral_site,
+            'start_date': game.start_date, 'home_points': game.home_points, 'away_points': game.away_points}
 
 
 def simulate_game(game):
@@ -39,9 +39,9 @@ def get_net_power_rating(ratings: Dict) -> float:
 
 def determine_margin_for_game_vs_fcs_team(home_team, away_team, team_ratings):
     """Add a default margin if one of the teams is not rated by S&P+"""
-    home_team_massey_rating = team_ratings[home_team][MASSEY]
-    away_team__massey_rating = get_massey_rating_fcs_team(away_team)
-    return round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
+    # home_team_massey_rating = team_ratings[home_team][MASSEY]
+    # away_team__massey_rating = get_massey_rating_fcs_team(away_team)
+    return 35 # round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
 
 
 def add_proj_margin_to_game(game, team_ratings):
@@ -180,8 +180,8 @@ def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
 
 
 class SimulateRegularSeason:
-    def __init__(self, year: Optional[int] = 2019, num_of_sims: int = 1000, conference: Optional[str] = None):
-        self.ratings = add_average_rating(TR_WEEK_FOURTEEN)
+    def __init__(self, year: Optional[int] = 2022, num_of_sims: int = 1000, conference: Optional[str] = None):
+        self.ratings = add_average_rating(TR_PRESEASON)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims
@@ -223,14 +223,14 @@ class SimulateRegularSeason:
 
         # TODO: remove this hack --> https://twitter.com/messages/84006766-1158580518134456321
         # NOTE: still 2x New Mexico game as of 12/6
-        raw_schedule_filtered_for_af_reschedule = [g for g in raw_schedule if g['id'] != 401117539]
+        # raw_schedule_filtered_for_af_reschedule = [g for g in raw_schedule if g['id'] != 401117539]
 
         # TODO: Evaluate whether this needs to be here for next year
         # TODO: Get rid of this hack too --> add logic for differentiating reg season and conf championships next year
         # g['id'] hack is for army/navy (which is in week 15)
-        reg_season = [g for g in raw_schedule_filtered_for_af_reschedule if g['week'] != 15 or g['id'] == 401114335]
+        # reg_season = [g for g in raw_schedule_filtered_for_af_reschedule if g['week'] != 15 or g['id'] == 401114335]
 
-        trimmed_schedule = [trim_game(g) for g in reg_season]
+        trimmed_schedule = [trim_game(g) for g in raw_schedule]
 
         # TODO:
         # Consider passing a parameter here to add_ratings called `ratings_to_include`

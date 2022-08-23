@@ -10,7 +10,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Colgate',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 48,
                     'away_points': 7,
@@ -19,7 +19,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T17:00:00.000Z',
                     'home_points': 23,
                     'away_points': 30,
@@ -28,7 +28,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T01:00:00.000Z',
                     'home_points': 30,
                     'away_points': 19,
@@ -37,7 +37,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T00:00:00.000Z',
                     'home_points': 41,
                     'away_points': 24,
@@ -46,7 +46,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 25,
@@ -55,7 +55,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 43,
                     'away_points': 24,
@@ -64,7 +64,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T03:00:00.000Z',
                     'home_points': 26,
                     'away_points': 56,
@@ -73,7 +73,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:15:00.000Z',
                     'home_points': 31,
                     'away_points': 7,
@@ -82,7 +82,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 17,
                     'away_points': 13,
@@ -91,7 +91,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 38,
@@ -100,7 +100,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:00:00.000Z',
                     'home_points': 22,
                     'away_points': 44,
@@ -109,7 +109,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -198,7 +198,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 3,
@@ -207,7 +207,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 31,
@@ -216,7 +216,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:00:00.000Z',
                     'home_points': 45,
                     'away_points': 24,
@@ -225,7 +225,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:00:00.000Z',
                     'home_points': 7,
                     'away_points': 35,
@@ -234,7 +234,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 29,
@@ -243,7 +243,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 3,
                     'away_points': 26,
@@ -252,7 +252,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 0,
                     'away_points': 21,
@@ -261,7 +261,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 49,
                     'away_points': 0,
@@ -270,7 +270,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T18:00:00.000Z',
                     'home_points': 35,
                     'away_points': 6,
@@ -279,7 +279,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-12T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 42,
@@ -288,7 +288,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-21T00:30:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -297,7 +297,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-26T23:00:00.000Z',
                     'home_points': 3,
                     'away_points': 52,
@@ -378,7 +378,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:00:00.000Z',
                     'home_points': 62,
                     'away_points': 10,
@@ -387,7 +387,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 47,
@@ -396,7 +396,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 7,
@@ -405,7 +405,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 59,
                     'away_points': 31,
@@ -414,7 +414,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 47,
@@ -423,7 +423,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T01:00:00.000Z',
                     'home_points': 35,
                     'away_points': 13,
@@ -432,7 +432,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 48,
                     'away_points': 7,
@@ -441,7 +441,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 41,
                     'away_points': 46,
@@ -450,7 +450,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 7,
                     'away_points': 38,
@@ -459,7 +459,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Western Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 66,
                     'away_points': 3,
@@ -468,7 +468,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -557,7 +557,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'East Tennessee State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 42,
                     'away_points': 7,
@@ -566,7 +566,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 56,
                     'away_points': 41,
@@ -575,7 +575,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -584,7 +584,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 56,
                     'away_points': 37,
@@ -593,7 +593,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-10T00:00:00.000Z',
                     'home_points': 7,
                     'away_points': 17,
@@ -602,7 +602,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 7,
@@ -611,7 +611,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 3,
                     'away_points': 30,
@@ -620,7 +620,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-01T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 24,
@@ -629,7 +629,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 15,
                     'away_points': 20,
@@ -638,7 +638,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 27,
                     'away_points': 56,
@@ -647,7 +647,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 13,
@@ -656,7 +656,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T23:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -745,7 +745,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-25T02:30:00.000Z',
                     'home_points': 45,
                     'away_points': 38,
@@ -754,7 +754,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Northern Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:45:00.000Z',
                     'home_points': 65,
                     'away_points': 41,
@@ -763,7 +763,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T02:30:00.000Z',
                     'home_points': 28,
                     'away_points': 14,
@@ -772,7 +772,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T02:30:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -781,7 +781,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:30:00.000Z',
                     'home_points': 30,
                     'away_points': 35,
@@ -790,7 +790,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T03:00:00.000Z',
                     'home_points': 27,
                     'away_points': 51,
@@ -799,7 +799,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T01:30:00.000Z',
                     'home_points': 41,
                     'away_points': 14,
@@ -808,7 +808,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 41,
                     'away_points': 31,
@@ -817,7 +817,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:30:00.000Z',
                     'home_points': 38,
                     'away_points': 56,
@@ -826,7 +826,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T03:30:00.000Z',
                     'home_points': 34,
                     'away_points': 6,
@@ -835,7 +835,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:00:00.000Z',
                     'home_points': 7,
                     'away_points': 35,
@@ -844,7 +844,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T03:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -933,7 +933,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T02:00:00.000Z',
                     'home_points': 30,
                     'away_points': 7,
@@ -942,7 +942,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Sacramento State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T02:00:00.000Z',
                     'home_points': 19,
                     'away_points': 7,
@@ -951,7 +951,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 7,
                     'away_points': 10,
@@ -960,7 +960,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:00:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -969,7 +969,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 24,
@@ -978,7 +978,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 34,
@@ -987,7 +987,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 21,
                     'away_points': 3,
@@ -996,7 +996,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 42,
                     'away_points': 32,
@@ -1005,7 +1005,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 26,
                     'away_points': 31,
@@ -1014,7 +1014,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 35,
                     'away_points': 34,
@@ -1023,7 +1023,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 31,
                     'away_points': 28,
@@ -1032,7 +1032,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T03:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -1121,7 +1121,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Portland State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T20:00:00.000Z',
                     'home_points': 20,
                     'away_points': 13,
@@ -1130,7 +1130,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 17,
@@ -1139,7 +1139,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 55,
                     'away_points': 34,
@@ -1148,7 +1148,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 31,
@@ -1166,7 +1166,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 20,
@@ -1175,7 +1175,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 51,
@@ -1184,7 +1184,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 48,
                     'away_points': 7,
@@ -1193,7 +1193,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 24,
                     'away_points': 54,
@@ -1202,7 +1202,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 19,
                     'away_points': 45,
@@ -1211,7 +1211,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 56,
                     'away_points': 20,
@@ -1220,7 +1220,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T19:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -1309,7 +1309,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 37,
@@ -1318,7 +1318,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:00:00.000Z',
                     'home_points': 17,
                     'away_points': 43,
@@ -1327,7 +1327,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 55,
                     'away_points': 0,
@@ -1336,7 +1336,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Southern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 28,
@@ -1345,7 +1345,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 43,
                     'away_points': 50,
@@ -1354,7 +1354,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 38,
@@ -1363,7 +1363,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-17T23:30:00.000Z',
                     'home_points': 20,
                     'away_points': 37,
@@ -1372,7 +1372,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 38,
                     'away_points': 14,
@@ -1381,7 +1381,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 41,
                     'away_points': 48,
@@ -1390,7 +1390,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 27,
@@ -1399,7 +1399,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 33,
@@ -1408,7 +1408,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T22:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -1497,7 +1497,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T22:00:00.000Z',
                     'home_points': 14,
                     'away_points': 7,
@@ -1506,7 +1506,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 21,
@@ -1515,7 +1515,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 13,
                     'away_points': 31,
@@ -1524,7 +1524,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'Morgan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 21,
@@ -1533,7 +1533,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 33,
                     'away_points': 42,
@@ -1542,7 +1542,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 17,
                     'away_points': 8,
@@ -1551,7 +1551,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -1560,7 +1560,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 29,
                     'away_points': 34,
@@ -1569,7 +1569,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 17,
                     'away_points': 13,
@@ -1578,7 +1578,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 63,
                     'away_points': 7,
@@ -1587,7 +1587,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'VMI',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 47,
                     'away_points': 6,
@@ -1596,7 +1596,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T04:59:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -1720,7 +1720,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 6,
@@ -1729,7 +1729,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 55,
                     'away_points': 16,
@@ -1738,7 +1738,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 28,
@@ -1747,7 +1747,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 56,
                     'away_points': 23,
@@ -1756,7 +1756,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -1765,7 +1765,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 51,
@@ -1774,7 +1774,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 20,
@@ -1783,7 +1783,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -1792,7 +1792,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 14,
                     'away_points': 21,
@@ -1801,7 +1801,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Samford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -1810,7 +1810,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -1908,7 +1908,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Fordham',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T18:00:00.000Z',
                     'home_points': 57,
                     'away_points': 29,
@@ -1917,7 +1917,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T18:00:00.000Z',
                     'home_points': 31,
                     'away_points': 41,
@@ -1926,7 +1926,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 34,
                     'away_points': 23,
@@ -1935,7 +1935,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 27,
@@ -1944,7 +1944,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T18:00:00.000Z',
                     'home_points': 23,
                     'away_points': 29,
@@ -1953,7 +1953,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:00:00.000Z',
                     'home_points': 52,
                     'away_points': 14,
@@ -1962,7 +1962,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T18:00:00.000Z',
                     'home_points': 21,
                     'away_points': 34,
@@ -1971,7 +1971,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-06T01:00:00.000Z',
                     'home_points': 35,
                     'away_points': 31,
@@ -1980,7 +1980,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 44,
                     'away_points': 45,
@@ -1989,7 +1989,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 41,
                     'away_points': 38,
@@ -1998,7 +1998,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -2087,7 +2087,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Stephen F. Austin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 56,
                     'away_points': 17,
@@ -2096,7 +2096,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:00:00.000Z',
                     'home_points': 63,
                     'away_points': 14,
@@ -2105,7 +2105,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 13,
                     'away_points': 21,
@@ -2114,7 +2114,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 21,
@@ -2123,7 +2123,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 12,
                     'away_points': 31,
@@ -2132,7 +2132,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 33,
                     'away_points': 30,
@@ -2141,7 +2141,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 27,
                     'away_points': 45,
@@ -2150,7 +2150,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-01T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 14,
@@ -2159,7 +2159,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 23,
                     'away_points': 29,
@@ -2168,7 +2168,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -2177,7 +2177,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 24,
                     'away_points': 10,
@@ -2186,7 +2186,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -2275,7 +2275,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 36,
@@ -2284,7 +2284,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T01:00:00.000Z',
                     'home_points': 14,
                     'away_points': 7,
@@ -2293,7 +2293,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Portland State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T02:15:00.000Z',
                     'home_points': 45,
                     'away_points': 10,
@@ -2302,7 +2302,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T01:00:00.000Z',
                     'home_points': 30,
                     'away_points': 19,
@@ -2311,7 +2311,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T02:30:00.000Z',
                     'home_points': 13,
                     'away_points': 38,
@@ -2320,7 +2320,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T02:15:00.000Z',
                     'home_points': 59,
                     'away_points': 37,
@@ -2329,7 +2329,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T02:15:00.000Z',
                     'home_points': 28,
                     'away_points': 25,
@@ -2338,7 +2338,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T02:30:00.000Z',
                     'home_points': 42,
                     'away_points': 52,
@@ -2347,7 +2347,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T03:15:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -2356,7 +2356,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T03:15:00.000Z',
                     'home_points': 42,
                     'away_points': 9,
@@ -2365,7 +2365,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:30:00.000Z',
                     'home_points': 21,
                     'away_points': 56,
@@ -2374,7 +2374,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -2463,7 +2463,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T20:00:00.000Z',
                     'home_points': 35,
                     'away_points': 28,
@@ -2472,7 +2472,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Richmond',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 13,
@@ -2481,7 +2481,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-13T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 48,
@@ -2490,7 +2490,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 16,
                     'away_points': 30,
@@ -2499,7 +2499,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 27,
@@ -2508,7 +2508,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:30:00.000Z',
                     'home_points': 41,
                     'away_points': 39,
@@ -2517,7 +2517,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 24,
@@ -2526,7 +2526,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 59,
                     'away_points': 7,
@@ -2535,7 +2535,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 27,
                     'away_points': 58,
@@ -2544,7 +2544,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -2553,7 +2553,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:30:00.000Z',
                     'home_points': 40,
                     'away_points': 7,
@@ -2562,7 +2562,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -2651,7 +2651,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Morgan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:00:00.000Z',
                     'home_points': 46,
                     'away_points': 3,
@@ -2660,7 +2660,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -2669,7 +2669,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T21:00:00.000Z',
                     'home_points': 7,
                     'away_points': 35,
@@ -2678,7 +2678,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 62,
                     'away_points': 20,
@@ -2687,7 +2687,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -2696,7 +2696,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 7,
@@ -2705,7 +2705,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:00:00.000Z',
                     'home_points': 20,
                     'away_points': 38,
@@ -2714,7 +2714,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 10,
@@ -2723,7 +2723,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T18:00:00.000Z',
                     'home_points': 35,
                     'away_points': 6,
@@ -2732,7 +2732,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-14T01:00:00.000Z',
                     'home_points': 44,
                     'away_points': 3,
@@ -2741,7 +2741,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-20T00:30:00.000Z',
                     'home_points': 24,
                     'away_points': 66,
@@ -2750,7 +2750,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -2839,7 +2839,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Robert Morris',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:00:00.000Z',
                     'home_points': 38,
                     'away_points': 10,
@@ -2848,7 +2848,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 13,
@@ -2857,7 +2857,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 35,
                     'away_points': 17,
@@ -2866,7 +2866,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 22,
@@ -2875,7 +2875,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 34,
                     'away_points': 20,
@@ -2884,7 +2884,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 21,
@@ -2893,7 +2893,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 0,
                     'away_points': 21,
@@ -2902,7 +2902,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 43,
                     'away_points': 20,
@@ -2911,7 +2911,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 14,
                     'away_points': 43,
@@ -2920,7 +2920,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-15T00:00:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -2929,7 +2929,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-21T00:30:00.000Z',
                     'home_points': 49,
                     'away_points': 30,
@@ -2938,7 +2938,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -3027,7 +3027,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T02:15:00.000Z',
                     'home_points': 12,
                     'away_points': 30,
@@ -3036,7 +3036,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 26,
                     'away_points': 29,
@@ -3045,7 +3045,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -3054,7 +3054,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 19,
                     'away_points': 45,
@@ -3063,7 +3063,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -3072,7 +3072,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 27,
                     'away_points': 23,
@@ -3081,7 +3081,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T02:15:00.000Z',
                     'home_points': 28,
                     'away_points': 25,
@@ -3090,7 +3090,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T02:00:00.000Z',
                     'home_points': 14,
                     'away_points': 42,
@@ -3099,7 +3099,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 31,
                     'away_points': 24,
@@ -3108,7 +3108,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Idaho State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 42,
                     'away_points': 10,
@@ -3117,7 +3117,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 24,
                     'away_points': 56,
@@ -3126,7 +3126,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T02:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -3215,7 +3215,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'UC Davis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:30:00.000Z',
                     'home_points': 27,
                     'away_points': 13,
@@ -3224,7 +3224,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:30:00.000Z',
                     'home_points': 19,
                     'away_points': 20,
@@ -3233,7 +3233,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:15:00.000Z',
                     'home_points': 23,
                     'away_points': 17,
@@ -3242,7 +3242,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 28,
@@ -3251,7 +3251,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 24,
@@ -3260,7 +3260,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -3269,7 +3269,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:30:00.000Z',
                     'home_points': 17,
                     'away_points': 21,
@@ -3278,7 +3278,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:00:00.000Z',
                     'home_points': 35,
                     'away_points': 0,
@@ -3287,7 +3287,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 33,
                     'away_points': 20,
@@ -3296,7 +3296,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T04:00:00.000Z',
                     'home_points': 17,
                     'away_points': 41,
@@ -3305,7 +3305,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 20,
                     'away_points': 24,
@@ -3314,7 +3314,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T03:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -3403,7 +3403,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Albany',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:50:00.000Z',
                     'home_points': 38,
                     'away_points': 21,
@@ -3412,7 +3412,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 61,
                     'away_points': 0,
@@ -3421,7 +3421,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:00:00.000Z',
                     'home_points': 45,
                     'away_points': 24,
@@ -3430,7 +3430,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:00:00.000Z',
                     'home_points': 17,
                     'away_points': 12,
@@ -3439,7 +3439,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 15,
@@ -3448,7 +3448,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:00:00.000Z',
                     'home_points': 42,
                     'away_points': 16,
@@ -3457,7 +3457,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:00:00.000Z',
                     'home_points': 42,
                     'away_points': 28,
@@ -3466,7 +3466,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:00:00.000Z',
                     'home_points': 20,
                     'away_points': 38,
@@ -3475,7 +3475,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 43,
                     'away_points': 20,
@@ -3484,7 +3484,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 10,
@@ -3493,7 +3493,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 44,
                     'away_points': 45,
@@ -3502,7 +3502,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -3591,7 +3591,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Gardner-Webb',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:30:00.000Z',
                     'home_points': 49,
                     'away_points': 28,
@@ -3600,7 +3600,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 56,
                     'away_points': 41,
@@ -3609,7 +3609,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 52,
                     'away_points': 17,
@@ -3618,7 +3618,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 52,
                     'away_points': 10,
@@ -3627,7 +3627,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 27,
                     'away_points': 45,
@@ -3636,7 +3636,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 48,
                     'away_points': 23,
@@ -3645,7 +3645,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 30,
                     'away_points': 14,
@@ -3654,7 +3654,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 39,
                     'away_points': 38,
@@ -3663,7 +3663,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 20,
@@ -3672,7 +3672,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:00:00.000Z',
                     'home_points': 21,
                     'away_points': 28,
@@ -3681,7 +3681,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -3690,7 +3690,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -3779,7 +3779,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:00:00.000Z',
                     'home_points': 24,
                     'away_points': 14,
@@ -3788,7 +3788,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 0,
@@ -3797,7 +3797,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 13,
@@ -3806,7 +3806,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T21:00:00.000Z',
                     'home_points': 14,
                     'away_points': 52,
@@ -3815,7 +3815,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T00:00:00.000Z',
                     'home_points': 27,
                     'away_points': 24,
@@ -3824,7 +3824,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 38,
@@ -3833,7 +3833,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -3842,7 +3842,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 43,
                     'away_points': 46,
@@ -3851,7 +3851,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 48,
                     'away_points': 3,
@@ -3860,7 +3860,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -3869,7 +3869,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 15,
                     'away_points': 13,
@@ -3878,7 +3878,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -3967,7 +3967,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:00:00.000Z',
                     'home_points': 52,
                     'away_points': 14,
@@ -3976,7 +3976,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 10,
@@ -3985,7 +3985,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 6,
                     'away_points': 41,
@@ -3994,7 +3994,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 52,
                     'away_points': 10,
@@ -4003,7 +4003,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 21,
@@ -4012,7 +4012,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -4021,7 +4021,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 45,
@@ -4030,7 +4030,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 59,
                     'away_points': 7,
@@ -4039,7 +4039,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Wofford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 59,
                     'away_points': 14,
@@ -4048,7 +4048,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 10,
                     'away_points': 55,
@@ -4057,7 +4057,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 52,
                     'away_points': 3,
@@ -4066,7 +4066,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -4155,7 +4155,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 30,
@@ -4164,7 +4164,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 7,
                     'away_points': 12,
@@ -4173,7 +4173,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Norfolk State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T18:00:00.000Z',
                     'home_points': 46,
                     'away_points': 7,
@@ -4182,7 +4182,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T17:00:00.000Z',
                     'home_points': 28,
                     'away_points': 62,
@@ -4191,7 +4191,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 56,
                     'away_points': 37,
@@ -4200,7 +4200,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T21:00:00.000Z',
                     'home_points': 21,
                     'away_points': 31,
@@ -4209,7 +4209,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:00:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -4218,7 +4218,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:00:00.000Z',
                     'home_points': 36,
                     'away_points': 35,
@@ -4227,7 +4227,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-08T00:30:00.000Z',
                     'home_points': 7,
                     'away_points': 48,
@@ -4236,7 +4236,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 27,
@@ -4245,7 +4245,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T22:00:00.000Z',
                     'home_points': 45,
                     'away_points': 42,
@@ -4254,7 +4254,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -4352,7 +4352,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 31,
@@ -4361,7 +4361,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T17:00:00.000Z',
                     'home_points': 23,
                     'away_points': 30,
@@ -4370,7 +4370,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:00:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -4379,7 +4379,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:30:00.000Z',
                     'home_points': 30,
                     'away_points': 35,
@@ -4388,7 +4388,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T02:00:00.000Z',
                     'home_points': 45,
                     'away_points': 3,
@@ -4397,7 +4397,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 10,
@@ -4406,7 +4406,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T01:00:00.000Z',
                     'home_points': 31,
                     'away_points': 35,
@@ -4415,7 +4415,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T01:00:00.000Z',
                     'home_points': 31,
                     'away_points': 14,
@@ -4424,7 +4424,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:00:00.000Z',
                     'home_points': 16,
                     'away_points': 13,
@@ -4433,7 +4433,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:00:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -4442,7 +4442,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -4540,7 +4540,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Western Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 13,
@@ -4549,7 +4549,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 55,
                     'away_points': 34,
@@ -4558,7 +4558,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:15:00.000Z',
                     'home_points': 35,
                     'away_points': 41,
@@ -4567,7 +4567,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 24,
@@ -4576,7 +4576,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T02:00:00.000Z',
                     'home_points': 10,
                     'away_points': 24,
@@ -4585,7 +4585,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 35,
@@ -4594,7 +4594,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 41,
@@ -4603,7 +4603,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 17,
@@ -4612,7 +4612,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 38,
@@ -4621,7 +4621,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -4630,7 +4630,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -4719,7 +4719,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Wagner',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:00:00.000Z',
                     'home_points': 24,
                     'away_points': 21,
@@ -4728,7 +4728,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 31,
@@ -4737,7 +4737,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 3,
@@ -4746,7 +4746,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 56,
                     'away_points': 21,
@@ -4755,7 +4755,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 22,
                     'away_points': 48,
@@ -4764,7 +4764,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:45:00.000Z',
                     'home_points': 49,
                     'away_points': 7,
@@ -4773,7 +4773,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 17,
                     'away_points': 24,
@@ -4782,7 +4782,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 56,
@@ -4791,7 +4791,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T00:00:00.000Z',
                     'home_points': 10,
                     'away_points': 56,
@@ -4800,7 +4800,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 48,
                     'away_points': 3,
@@ -4809,7 +4809,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 24,
                     'away_points': 31,
@@ -4818,7 +4818,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -4916,7 +4916,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'North Carolina A&T',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T22:00:00.000Z',
                     'home_points': 45,
                     'away_points': 13,
@@ -4925,7 +4925,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 18,
                     'away_points': 41,
@@ -4934,7 +4934,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-27T23:00:00.000Z',
                     'home_points': 10,
                     'away_points': 45,
@@ -4943,7 +4943,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 30,
                     'away_points': 33,
@@ -4952,7 +4952,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:30:00.000Z',
                     'home_points': 41,
                     'away_points': 23,
@@ -4961,7 +4961,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 48,
                     'away_points': 14,
@@ -4970,7 +4970,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T20:00:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -4979,7 +4979,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 7,
                     'away_points': 38,
@@ -4988,7 +4988,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 6,
                     'away_points': 49,
@@ -4997,7 +4997,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 39,
                     'away_points': 27,
@@ -5006,7 +5006,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -5095,7 +5095,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 34,
                     'away_points': 6,
@@ -5104,7 +5104,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Gardner-Webb',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T22:00:00.000Z',
                     'home_points': 48,
                     'away_points': 9,
@@ -5113,7 +5113,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 42,
                     'away_points': 10,
@@ -5122,7 +5122,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'William & Mary',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T22:00:00.000Z',
                     'home_points': 19,
                     'away_points': 7,
@@ -5131,7 +5131,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 21,
                     'away_points': 24,
@@ -5140,7 +5140,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-04T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 27,
@@ -5149,7 +5149,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 28,
@@ -5158,7 +5158,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:45:00.000Z',
                     'home_points': 20,
                     'away_points': 45,
@@ -5167,7 +5167,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 43,
                     'away_points': 46,
@@ -5176,7 +5176,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 59,
                     'away_points': 51,
@@ -5185,7 +5185,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 24,
                     'away_points': 31,
@@ -5194,7 +5194,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -5283,7 +5283,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 30,
@@ -5292,7 +5292,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 38,
                     'away_points': 17,
@@ -5301,7 +5301,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -5310,7 +5310,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Central Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:00:00.000Z',
                     'home_points': 34,
                     'away_points': 29,
@@ -5319,7 +5319,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:00:00.000Z',
                     'home_points': 42,
                     'away_points': 16,
@@ -5328,7 +5328,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T18:00:00.000Z',
                     'home_points': 23,
                     'away_points': 29,
@@ -5337,7 +5337,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -5346,7 +5346,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 34,
@@ -5355,7 +5355,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 14,
                     'away_points': 43,
@@ -5364,7 +5364,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-12T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 42,
@@ -5373,7 +5373,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-20T00:30:00.000Z',
                     'home_points': 17,
                     'away_points': 45,
@@ -5382,7 +5382,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -5480,7 +5480,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'UT Martin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 0,
@@ -5489,7 +5489,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 21,
                     'away_points': 29,
@@ -5498,7 +5498,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 34,
                     'away_points': 3,
@@ -5507,7 +5507,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Towson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 0,
@@ -5516,7 +5516,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -5525,7 +5525,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T00:00:00.000Z',
                     'home_points': 42,
                     'away_points': 28,
@@ -5534,7 +5534,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 27,
                     'away_points': 38,
@@ -5552,7 +5552,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 56,
                     'away_points': 0,
@@ -5561,7 +5561,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 6,
                     'away_points': 23,
@@ -5570,7 +5570,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -5659,7 +5659,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 21,
@@ -5668,7 +5668,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 48,
@@ -5677,7 +5677,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T18:00:00.000Z',
                     'home_points': 31,
                     'away_points': 41,
@@ -5686,7 +5686,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Wagner',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T22:00:00.000Z',
                     'home_points': 42,
                     'away_points': 7,
@@ -5695,7 +5695,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 27,
                     'away_points': 45,
@@ -5704,7 +5704,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 13,
@@ -5713,7 +5713,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-18T22:30:00.000Z',
                     'home_points': 31,
                     'away_points': 36,
@@ -5722,7 +5722,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 3,
                     'away_points': 41,
@@ -5731,7 +5731,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 24,
                     'away_points': 35,
@@ -5740,7 +5740,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 7,
@@ -5749,7 +5749,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T23:00:00.000Z',
                     'home_points': 26,
                     'away_points': 40,
@@ -5758,7 +5758,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -5847,7 +5847,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:00:00.000Z',
                     'home_points': 42,
                     'away_points': 14,
@@ -5856,7 +5856,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 20,
@@ -5865,7 +5865,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'New Hampshire',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 17,
@@ -5874,7 +5874,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T00:00:00.000Z',
                     'home_points': 43,
                     'away_points': 31,
@@ -5883,7 +5883,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:00:00.000Z',
                     'home_points': 44,
                     'away_points': 0,
@@ -5892,7 +5892,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 48,
                     'away_points': 23,
@@ -5901,7 +5901,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 32,
                     'away_points': 17,
@@ -5910,7 +5910,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 50,
                     'away_points': 17,
@@ -5919,7 +5919,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 17,
@@ -5928,7 +5928,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 7,
@@ -5937,7 +5937,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 30,
                     'away_points': 24,
@@ -5946,7 +5946,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -6035,7 +6035,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 36,
@@ -6044,7 +6044,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T21:00:00.000Z',
                     'home_points': 45,
                     'away_points': 44,
@@ -6053,7 +6053,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 24,
@@ -6062,7 +6062,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 24,
@@ -6071,7 +6071,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 13,
@@ -6080,7 +6080,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -6089,7 +6089,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:30:00.000Z',
                     'home_points': 22,
                     'away_points': 20,
@@ -6098,7 +6098,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 17,
@@ -6107,7 +6107,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 10,
                     'away_points': 27,
@@ -6116,7 +6116,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -6125,7 +6125,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Alabama State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 49,
                     'away_points': 12,
@@ -6134,7 +6134,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -6223,7 +6223,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T02:30:00.000Z',
                     'home_points': 31,
                     'away_points': 23,
@@ -6232,7 +6232,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:30:00.000Z',
                     'home_points': 35,
                     'away_points': 38,
@@ -6241,7 +6241,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Sacramento State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:00:00.000Z',
                     'home_points': 34,
                     'away_points': 20,
@@ -6250,7 +6250,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 30,
@@ -6259,7 +6259,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 43,
                     'away_points': 24,
@@ -6268,7 +6268,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T02:00:00.000Z',
                     'home_points': 56,
                     'away_points': 27,
@@ -6277,7 +6277,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 41,
@@ -6286,7 +6286,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T03:59:00.000Z',
                     'home_points': 38,
                     'away_points': 41,
@@ -6295,7 +6295,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 35,
                     'away_points': 37,
@@ -6304,7 +6304,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -6313,7 +6313,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:30:00.000Z',
                     'home_points': 28,
                     'away_points': 35,
@@ -6322,7 +6322,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T03:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -6411,7 +6411,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 6,
                     'away_points': 30,
@@ -6420,7 +6420,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Murray State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:00:00.000Z',
                     'home_points': 63,
                     'away_points': 17,
@@ -6429,7 +6429,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 55,
                     'away_points': 0,
@@ -6438,7 +6438,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T00:00:00.000Z',
                     'home_points': 23,
                     'away_points': 17,
@@ -6447,7 +6447,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 43,
@@ -6456,7 +6456,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -6465,7 +6465,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 21,
                     'away_points': 0,
@@ -6483,7 +6483,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 27,
                     'away_points': 0,
@@ -6492,7 +6492,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 14,
                     'away_points': 21,
@@ -6501,7 +6501,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 19,
                     'away_points': 13,
@@ -6510,7 +6510,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -6599,7 +6599,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 55,
                     'away_points': 3,
@@ -6608,7 +6608,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Maine',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T22:00:00.000Z',
                     'home_points': 26,
                     'away_points': 18,
@@ -6617,7 +6617,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 32,
@@ -6626,7 +6626,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 24,
                     'away_points': 37,
@@ -6635,7 +6635,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-03T23:30:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -6644,7 +6644,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:00:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -6653,7 +6653,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:00:00.000Z',
                     'home_points': 41,
                     'away_points': 7,
@@ -6662,7 +6662,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-01T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 24,
@@ -6671,7 +6671,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 49,
                     'away_points': 28,
@@ -6680,7 +6680,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 51,
                     'away_points': 29,
@@ -6689,7 +6689,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 33,
@@ -6698,7 +6698,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T23:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -6787,7 +6787,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 30,
                     'away_points': 38,
@@ -6796,7 +6796,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Furman',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 48,
                     'away_points': 42,
@@ -6805,7 +6805,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 57,
                     'away_points': 10,
@@ -6814,7 +6814,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 34,
@@ -6823,7 +6823,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 38,
@@ -6832,7 +6832,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T21:00:00.000Z',
                     'home_points': 21,
                     'away_points': 31,
@@ -6841,7 +6841,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -6850,7 +6850,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 52,
                     'away_points': 33,
@@ -6859,7 +6859,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T22:00:00.000Z',
                     'home_points': 45,
                     'away_points': 31,
@@ -6868,7 +6868,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 27,
                     'away_points': 56,
@@ -6877,7 +6877,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:00:00.000Z',
                     'home_points': 28,
                     'away_points': 15,
@@ -6886,7 +6886,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T23:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -6975,7 +6975,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:00:00.000Z',
                     'home_points': 52,
                     'away_points': 14,
@@ -6984,7 +6984,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T18:00:00.000Z',
                     'home_points': 14,
                     'away_points': 10,
@@ -6993,7 +6993,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'The Citadel',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:30:00.000Z',
                     'home_points': 24,
                     'away_points': 27,
@@ -7002,7 +7002,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 2,
@@ -7011,7 +7011,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:00:00.000Z',
                     'home_points': 22,
                     'away_points': 38,
@@ -7020,7 +7020,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:30:00.000Z',
                     'home_points': 41,
                     'away_points': 23,
@@ -7029,7 +7029,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 21,
                     'away_points': 28,
@@ -7038,7 +7038,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 10,
                     'away_points': 20,
@@ -7047,7 +7047,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:30:00.000Z',
                     'home_points': 33,
                     'away_points': 28,
@@ -7056,7 +7056,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 0,
                     'away_points': 45,
@@ -7065,7 +7065,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-22T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 26,
@@ -7074,7 +7074,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -7163,7 +7163,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-25T02:30:00.000Z',
                     'home_points': 45,
                     'away_points': 38,
@@ -7172,7 +7172,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T03:59:00.000Z',
                     'home_points': 31,
                     'away_points': 28,
@@ -7181,7 +7181,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 52,
                     'away_points': 20,
@@ -7190,7 +7190,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Central Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T03:59:00.000Z',
                     'home_points': 35,
                     'away_points': 16,
@@ -7199,7 +7199,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T02:30:00.000Z',
                     'home_points': 3,
                     'away_points': 54,
@@ -7208,7 +7208,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T02:15:00.000Z',
                     'home_points': 59,
                     'away_points': 37,
@@ -7217,7 +7217,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T03:00:00.000Z',
                     'home_points': 26,
                     'away_points': 56,
@@ -7226,7 +7226,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T20:00:00.000Z',
                     'home_points': 31,
                     'away_points': 45,
@@ -7235,7 +7235,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T03:59:00.000Z',
                     'home_points': 38,
                     'away_points': 41,
@@ -7244,7 +7244,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T04:00:00.000Z',
                     'home_points': 42,
                     'away_points': 40,
@@ -7253,7 +7253,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 7,
                     'away_points': 21,
@@ -7262,7 +7262,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T04:00:00.000Z',
                     'home_points': 14,
                     'away_points': 11,
@@ -7271,7 +7271,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T04:59:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -7360,7 +7360,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T23:30:00.000Z',
                     'home_points': 49,
                     'away_points': 31,
@@ -7369,7 +7369,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Prairie View',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T00:00:00.000Z',
                     'home_points': 37,
                     'away_points': 17,
@@ -7387,7 +7387,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-20T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 31,
@@ -7396,7 +7396,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T00:00:00.000Z',
                     'home_points': 25,
                     'away_points': 46,
@@ -7405,7 +7405,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 38,
@@ -7414,7 +7414,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 17,
                     'away_points': 24,
@@ -7423,7 +7423,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-24T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -7432,7 +7432,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 29,
@@ -7441,7 +7441,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 27,
                     'away_points': 45,
@@ -7450,7 +7450,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 14,
                     'away_points': 24,
@@ -7459,7 +7459,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -7548,7 +7548,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 3,
@@ -7557,7 +7557,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 31,
@@ -7566,7 +7566,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -7575,7 +7575,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 42,
@@ -7584,7 +7584,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 40,
                     'away_points': 17,
@@ -7593,7 +7593,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 25,
                     'away_points': 42,
@@ -7602,7 +7602,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 23,
@@ -7611,7 +7611,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 6,
                     'away_points': 24,
@@ -7620,7 +7620,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 10,
@@ -7629,7 +7629,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 34,
                     'away_points': 37,
@@ -7638,7 +7638,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 19,
                     'away_points': 10,
@@ -7647,7 +7647,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -7745,7 +7745,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Eastern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -7754,7 +7754,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 51,
@@ -7763,7 +7763,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 3,
@@ -7772,7 +7772,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 40,
                     'away_points': 31,
@@ -7781,7 +7781,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 0,
@@ -7790,7 +7790,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 34,
@@ -7799,7 +7799,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -7808,7 +7808,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 34,
                     'away_points': 3,
@@ -7817,7 +7817,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -7826,7 +7826,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 14,
                     'away_points': 39,
@@ -7835,7 +7835,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -7924,7 +7924,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 38,
                     'away_points': 14,
@@ -7933,7 +7933,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 30,
                     'away_points': 0,
@@ -7942,7 +7942,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 17,
                     'away_points': 18,
@@ -7951,7 +7951,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 3,
@@ -7960,7 +7960,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 3,
@@ -7969,7 +7969,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 12,
                     'away_points': 17,
@@ -7978,7 +7978,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 26,
                     'away_points': 20,
@@ -7987,7 +7987,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 0,
                     'away_points': 20,
@@ -7996,7 +7996,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T21:00:00.000Z',
                     'home_points': 24,
                     'away_points': 22,
@@ -8005,7 +8005,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 23,
                     'away_points': 19,
@@ -8014,7 +8014,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 19,
                     'away_points': 10,
@@ -8023,7 +8023,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T19:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -8112,7 +8112,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Northern Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 29,
                     'away_points': 26,
@@ -8121,7 +8121,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 17,
                     'away_points': 18,
@@ -8130,7 +8130,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 72,
                     'away_points': 20,
@@ -8139,7 +8139,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 21,
@@ -8148,7 +8148,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T18:00:00.000Z',
                     'home_points': 49,
                     'away_points': 24,
@@ -8157,7 +8157,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 14,
                     'away_points': 38,
@@ -8166,7 +8166,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 34,
@@ -8175,7 +8175,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 27,
                     'away_points': 34,
@@ -8184,7 +8184,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T01:00:00.000Z',
                     'home_points': 42,
                     'away_points': 41,
@@ -8193,7 +8193,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 23,
                     'away_points': 21,
@@ -8202,7 +8202,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 41,
                     'away_points': 31,
@@ -8211,7 +8211,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -8300,7 +8300,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Indiana State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 17,
@@ -8309,7 +8309,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 7,
                     'away_points': 12,
@@ -8318,7 +8318,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-13T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 48,
@@ -8327,7 +8327,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:30:00.000Z',
                     'home_points': 24,
                     'away_points': 29,
@@ -8336,7 +8336,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 51,
                     'away_points': 14,
@@ -8345,7 +8345,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 45,
@@ -8354,7 +8354,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 50,
                     'away_points': 48,
@@ -8363,7 +8363,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 34,
@@ -8372,7 +8372,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 10,
                     'away_points': 38,
@@ -8381,7 +8381,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 13,
@@ -8390,7 +8390,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 41,
                     'away_points': 31,
@@ -8399,7 +8399,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -8488,7 +8488,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Nicholls',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 49,
                     'away_points': 14,
@@ -8497,7 +8497,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -8506,7 +8506,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 31,
@@ -8515,7 +8515,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 26,
                     'away_points': 13,
@@ -8524,7 +8524,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 12,
                     'away_points': 31,
@@ -8533,7 +8533,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:30:00.000Z',
                     'home_points': 24,
                     'away_points': 17,
@@ -8542,7 +8542,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 41,
@@ -8551,7 +8551,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 10,
                     'away_points': 38,
@@ -8560,7 +8560,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 27,
                     'away_points': 24,
@@ -8569,7 +8569,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 20,
                     'away_points': 24,
@@ -8578,7 +8578,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 27,
                     'away_points': 30,
@@ -8587,7 +8587,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -8676,7 +8676,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T02:00:00.000Z',
                     'home_points': 30,
                     'away_points': 7,
@@ -8685,7 +8685,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Kennesaw State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 26,
                     'away_points': 23,
@@ -8694,7 +8694,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 55,
                     'away_points': 16,
@@ -8703,7 +8703,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 62,
                     'away_points': 20,
@@ -8712,7 +8712,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 0,
@@ -8721,7 +8721,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 3,
                     'away_points': 26,
@@ -8730,7 +8730,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 38,
@@ -8739,7 +8739,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 16,
                     'away_points': 23,
@@ -8748,7 +8748,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-06T00:00:00.000Z',
                     'home_points': 35,
                     'away_points': 33,
@@ -8757,7 +8757,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-15T00:00:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -8766,7 +8766,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 41,
                     'away_points': 38,
@@ -8775,7 +8775,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -8864,7 +8864,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 24,
@@ -8873,7 +8873,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 38,
                     'away_points': 17,
@@ -8882,7 +8882,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 21,
                     'away_points': 29,
@@ -8891,7 +8891,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 13,
@@ -8900,7 +8900,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 7,
@@ -8909,7 +8909,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 20,
@@ -8918,7 +8918,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 21,
                     'away_points': 0,
@@ -8927,7 +8927,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 29,
                     'away_points': 7,
@@ -8936,7 +8936,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 13,
                     'away_points': 17,
@@ -8945,7 +8945,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 14,
                     'away_points': 38,
@@ -8954,7 +8954,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'UT Martin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 50,
                     'away_points': 7,
@@ -8963,7 +8963,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -9061,7 +9061,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 35,
                     'away_points': 14,
@@ -9070,7 +9070,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Texas Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 77,
                     'away_points': 6,
@@ -9079,7 +9079,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T18:00:00.000Z',
                     'home_points': 25,
                     'away_points': 45,
@@ -9088,7 +9088,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 24,
                     'away_points': 37,
@@ -9097,7 +9097,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-10T00:00:00.000Z',
                     'home_points': 7,
                     'away_points': 17,
@@ -9106,7 +9106,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-17T23:30:00.000Z',
                     'home_points': 20,
                     'away_points': 37,
@@ -9115,7 +9115,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T21:00:00.000Z',
                     'home_points': 31,
                     'away_points': 3,
@@ -9124,7 +9124,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-08T00:30:00.000Z',
                     'home_points': 7,
                     'away_points': 48,
@@ -9133,7 +9133,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T22:00:00.000Z',
                     'home_points': 27,
                     'away_points': 37,
@@ -9142,7 +9142,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T22:00:00.000Z',
                     'home_points': 53,
                     'away_points': 3,
@@ -9151,7 +9151,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -9240,7 +9240,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Grambling',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T00:00:00.000Z',
                     'home_points': 31,
                     'away_points': 9,
@@ -9249,7 +9249,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T21:00:00.000Z',
                     'home_points': 45,
                     'away_points': 44,
@@ -9258,7 +9258,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 72,
                     'away_points': 20,
@@ -9267,7 +9267,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 17,
@@ -9276,7 +9276,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:45:00.000Z',
                     'home_points': 33,
                     'away_points': 52,
@@ -9285,7 +9285,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-11T01:15:00.000Z',
                     'home_points': 14,
                     'away_points': 24,
@@ -9294,7 +9294,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 7,
@@ -9303,7 +9303,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 41,
                     'away_points': 48,
@@ -9312,7 +9312,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T22:00:00.000Z',
                     'home_points': 45,
                     'away_points': 31,
@@ -9321,7 +9321,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 51,
                     'away_points': 29,
@@ -9330,7 +9330,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T22:00:00.000Z',
                     'home_points': 45,
                     'away_points': 42,
@@ -9339,7 +9339,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -9428,7 +9428,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T00:00:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -9437,7 +9437,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'Grambling',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -9446,7 +9446,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T21:00:00.000Z',
                     'home_points': 7,
                     'away_points': 35,
@@ -9455,7 +9455,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T00:00:00.000Z',
                     'home_points': 43,
                     'away_points': 31,
@@ -9464,7 +9464,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 23,
@@ -9473,7 +9473,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 69,
                     'away_points': 21,
@@ -9482,7 +9482,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 30,
@@ -9491,7 +9491,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 42,
@@ -9500,7 +9500,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T21:00:00.000Z',
                     'home_points': 52,
                     'away_points': 17,
@@ -9509,7 +9509,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T00:00:00.000Z',
                     'home_points': 31,
                     'away_points': 10,
@@ -9518,7 +9518,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -9527,7 +9527,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -9616,7 +9616,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-03T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 35,
@@ -9625,7 +9625,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Eastern Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 42,
                     'away_points': 0,
@@ -9643,7 +9643,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 24,
@@ -9652,7 +9652,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:30:00.000Z',
                     'home_points': 41,
                     'away_points': 39,
@@ -9661,7 +9661,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 59,
                     'away_points': 62,
@@ -9670,7 +9670,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 45,
@@ -9679,7 +9679,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -9688,7 +9688,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 52,
                     'away_points': 27,
@@ -9697,7 +9697,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 20,
                     'away_points': 34,
@@ -9706,7 +9706,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 56,
                     'away_points': 34,
@@ -9715,7 +9715,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -9804,7 +9804,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 55,
                     'away_points': 3,
@@ -9813,7 +9813,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 38,
                     'away_points': 45,
@@ -9822,7 +9822,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Northwestern State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 65,
                     'away_points': 14,
@@ -9831,7 +9831,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 66,
@@ -9840,7 +9840,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 6,
@@ -9849,7 +9849,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T00:00:00.000Z',
                     'home_points': 42,
                     'away_points': 28,
@@ -9858,7 +9858,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 13,
                     'away_points': 36,
@@ -9867,7 +9867,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 20,
@@ -9876,7 +9876,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 41,
                     'away_points': 46,
@@ -9885,7 +9885,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:00:00.000Z',
                     'home_points': 37,
                     'away_points': 58,
@@ -9894,7 +9894,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 56,
                     'away_points': 20,
@@ -9903,7 +9903,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -9992,7 +9992,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'VMI',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:30:00.000Z',
                     'home_points': 56,
                     'away_points': 17,
@@ -10001,7 +10001,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T01:00:00.000Z',
                     'home_points': 14,
                     'away_points': 7,
@@ -10010,7 +10010,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:30:00.000Z',
                     'home_points': 33,
                     'away_points': 31,
@@ -10019,7 +10019,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T21:00:00.000Z',
                     'home_points': 14,
                     'away_points': 52,
@@ -10028,7 +10028,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -10037,7 +10037,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T18:30:00.000Z',
                     'home_points': 31,
                     'away_points': 17,
@@ -10046,7 +10046,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-18T22:30:00.000Z',
                     'home_points': 31,
                     'away_points': 36,
@@ -10055,7 +10055,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T18:30:00.000Z',
                     'home_points': 26,
                     'away_points': 23,
@@ -10064,7 +10064,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 7,
                     'away_points': 20,
@@ -10073,7 +10073,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T00:00:00.000Z',
                     'home_points': 31,
                     'away_points': 10,
@@ -10082,7 +10082,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -10091,7 +10091,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -10180,7 +10180,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Howard',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 79,
                     'away_points': 0,
@@ -10189,7 +10189,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 63,
                     'away_points': 20,
@@ -10198,7 +10198,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -10207,7 +10207,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T00:00:00.000Z',
                     'home_points': 0,
                     'away_points': 59,
@@ -10216,7 +10216,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 7,
                     'away_points': 48,
@@ -10225,7 +10225,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 40,
                     'away_points': 14,
@@ -10234,7 +10234,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 34,
@@ -10243,7 +10243,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 10,
@@ -10252,7 +10252,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 7,
                     'away_points': 38,
@@ -10261,7 +10261,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 73,
                     'away_points': 14,
@@ -10270,7 +10270,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 7,
                     'away_points': 54,
@@ -10279,7 +10279,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -10368,7 +10368,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 15,
                     'away_points': 10,
@@ -10377,7 +10377,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 55,
                     'away_points': 24,
@@ -10386,7 +10386,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 6,
                     'away_points': 42,
@@ -10395,7 +10395,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-27T00:00:00.000Z',
                     'home_points': 35,
                     'away_points': 23,
@@ -10404,7 +10404,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:45:00.000Z',
                     'home_points': 33,
                     'away_points': 52,
@@ -10413,7 +10413,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 30,
                     'away_points': 28,
@@ -10422,7 +10422,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 47,
                     'away_points': 17,
@@ -10431,7 +10431,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 42,
@@ -10440,7 +10440,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:30:00.000Z',
                     'home_points': 54,
                     'away_points': 48,
@@ -10449,7 +10449,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 27,
                     'away_points': 45,
@@ -10458,7 +10458,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 10,
                     'away_points': 49,
@@ -10467,7 +10467,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -10565,7 +10565,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T00:00:00.000Z',
                     'home_points': 28,
                     'away_points': 25,
@@ -10574,7 +10574,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Bethune-Cookman',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 63,
                     'away_points': 0,
@@ -10583,7 +10583,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:00:00.000Z',
                     'home_points': 17,
                     'away_points': 12,
@@ -10592,7 +10592,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 42,
@@ -10601,7 +10601,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 9,
@@ -10610,7 +10610,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 21,
                     'away_points': 28,
@@ -10619,7 +10619,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 12,
                     'away_points': 16,
@@ -10628,7 +10628,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 10,
                     'away_points': 27,
@@ -10637,7 +10637,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 52,
                     'away_points': 27,
@@ -10646,7 +10646,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 30,
                     'away_points': 24,
@@ -10655,7 +10655,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -10744,7 +10744,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 38,
                     'away_points': 14,
@@ -10753,7 +10753,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Tennessee Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T18:30:00.000Z',
                     'home_points': 48,
                     'away_points': 17,
@@ -10762,7 +10762,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 13,
@@ -10771,7 +10771,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 76,
                     'away_points': 5,
@@ -10780,7 +10780,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 34,
                     'away_points': 20,
@@ -10789,7 +10789,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 16,
@@ -10798,7 +10798,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:30:00.000Z',
                     'home_points': 27,
                     'away_points': 24,
@@ -10807,7 +10807,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kent State',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 16,
                     'away_points': 23,
@@ -10816,7 +10816,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-07T01:00:00.000Z',
                     'home_points': 21,
                     'away_points': 24,
@@ -10825,7 +10825,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-14T01:00:00.000Z',
                     'home_points': 44,
                     'away_points': 3,
@@ -10834,7 +10834,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-21T00:30:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -10843,7 +10843,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -10932,7 +10932,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 40,
                     'away_points': 21,
@@ -10941,7 +10941,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 21,
@@ -10950,7 +10950,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 14,
@@ -10959,7 +10959,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -10968,7 +10968,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 3,
@@ -10977,7 +10977,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 25,
                     'away_points': 42,
@@ -10986,7 +10986,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:30:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -10995,7 +10995,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -11004,7 +11004,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 7,
                     'away_points': 38,
@@ -11013,7 +11013,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 44,
                     'away_points': 10,
@@ -11022,7 +11022,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 14,
                     'away_points': 39,
@@ -11031,7 +11031,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -11120,7 +11120,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 7,
@@ -11129,7 +11129,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 51,
                     'away_points': 17,
@@ -11138,7 +11138,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 7,
                     'away_points': 10,
@@ -11147,7 +11147,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 31,
@@ -11156,7 +11156,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 40,
                     'away_points': 31,
@@ -11165,7 +11165,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 10,
@@ -11174,7 +11174,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 0,
@@ -11183,7 +11183,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 7,
                     'away_points': 28,
@@ -11192,7 +11192,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 34,
                     'away_points': 37,
@@ -11201,7 +11201,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 44,
                     'away_points': 10,
@@ -11210,7 +11210,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 0,
                     'away_points': 27,
@@ -11219,7 +11219,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -11308,7 +11308,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 40,
                     'away_points': 21,
@@ -11317,7 +11317,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Tennessee State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 45,
                     'away_points': 26,
@@ -11326,7 +11326,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 18,
                     'away_points': 41,
@@ -11335,7 +11335,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 3,
@@ -11344,7 +11344,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -11353,7 +11353,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 13,
@@ -11362,7 +11362,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 33,
                     'away_points': 30,
@@ -11371,7 +11371,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 50,
                     'away_points': 17,
@@ -11380,7 +11380,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 20,
@@ -11389,7 +11389,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:30:00.000Z',
                     'home_points': 28,
                     'away_points': 31,
@@ -11398,7 +11398,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:30:00.000Z',
                     'home_points': 38,
                     'away_points': 17,
@@ -11407,7 +11407,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -11496,7 +11496,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'South Dakota State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -11505,7 +11505,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:30:00.000Z',
                     'home_points': 35,
                     'away_points': 38,
@@ -11514,7 +11514,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 32,
@@ -11523,7 +11523,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -11532,7 +11532,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 40,
                     'away_points': 17,
@@ -11541,7 +11541,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 7,
@@ -11550,7 +11550,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 7,
                     'away_points': 42,
@@ -11559,7 +11559,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 10,
@@ -11568,7 +11568,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 26,
@@ -11577,7 +11577,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 23,
                     'away_points': 19,
@@ -11586,7 +11586,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 22,
                     'away_points': 38,
@@ -11595,7 +11595,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -11693,7 +11693,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 15,
@@ -11702,7 +11702,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 31,
@@ -11711,7 +11711,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 13,
@@ -11720,7 +11720,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 56,
                     'away_points': 23,
@@ -11729,7 +11729,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 10,
@@ -11738,7 +11738,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 13,
                     'away_points': 36,
@@ -11747,7 +11747,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 30,
@@ -11756,7 +11756,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 24,
                     'away_points': 54,
@@ -11765,7 +11765,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 7,
                     'away_points': 38,
@@ -11774,7 +11774,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Abilene Christian',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 45,
                     'away_points': 7,
@@ -11783,7 +11783,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -11872,7 +11872,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 37,
                     'away_points': 31,
@@ -11881,7 +11881,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 7,
@@ -11890,7 +11890,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Southeast Missouri State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 50,
                     'away_points': 0,
@@ -11899,7 +11899,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:00:00.000Z',
                     'home_points': 34,
                     'away_points': 14,
@@ -11908,7 +11908,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:00:00.000Z',
                     'home_points': 42,
                     'away_points': 10,
@@ -11917,7 +11917,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 38,
                     'away_points': 27,
@@ -11926,7 +11926,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 21,
                     'away_points': 14,
@@ -11935,7 +11935,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 29,
                     'away_points': 7,
@@ -11944,7 +11944,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 27,
                     'away_points': 0,
@@ -11953,7 +11953,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 6,
                     'away_points': 23,
@@ -11962,7 +11962,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 20,
                     'away_points': 24,
@@ -11971,7 +11971,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T19:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -12060,7 +12060,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'Holy Cross',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 7,
@@ -12069,7 +12069,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 42,
                     'away_points': 10,
@@ -12078,7 +12078,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-27T00:00:00.000Z',
                     'home_points': 35,
                     'away_points': 23,
@@ -12087,7 +12087,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 25,
@@ -12096,7 +12096,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 17,
                     'away_points': 45,
@@ -12105,7 +12105,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 3,
@@ -12114,7 +12114,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 41,
                     'away_points': 38,
@@ -12123,7 +12123,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T00:00:00.000Z',
                     'home_points': 10,
                     'away_points': 56,
@@ -12132,7 +12132,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 20,
@@ -12141,7 +12141,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 35,
                     'away_points': 28,
@@ -12150,7 +12150,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -12265,7 +12265,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 34,
                     'away_points': 6,
@@ -12274,7 +12274,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Western Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:30:00.000Z',
                     'home_points': 41,
                     'away_points': 0,
@@ -12283,7 +12283,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 27,
@@ -12292,7 +12292,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 34,
                     'away_points': 23,
@@ -12301,7 +12301,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 13,
@@ -12310,7 +12310,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-11T00:00:00.000Z',
                     'home_points': 16,
                     'away_points': 10,
@@ -12319,7 +12319,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 24,
@@ -12328,7 +12328,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 10,
@@ -12337,7 +12337,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 10,
                     'away_points': 55,
@@ -12346,7 +12346,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 20,
                     'away_points': 34,
@@ -12355,7 +12355,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-22T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 26,
@@ -12364,7 +12364,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -12453,7 +12453,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 21,
@@ -12462,7 +12462,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 31,
@@ -12471,7 +12471,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 44,
                     'away_points': 8,
@@ -12480,7 +12480,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 42,
@@ -12489,7 +12489,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 7,
                     'away_points': 48,
@@ -12498,7 +12498,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:00:00.000Z',
                     'home_points': 13,
                     'away_points': 10,
@@ -12507,7 +12507,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 7,
@@ -12516,7 +12516,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -12525,7 +12525,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 27,
@@ -12534,7 +12534,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 21,
                     'away_points': 37,
@@ -12543,7 +12543,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 7,
                     'away_points': 54,
@@ -12552,7 +12552,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T19:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -12641,7 +12641,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T01:30:00.000Z',
                     'home_points': 34,
                     'away_points': 31,
@@ -12650,7 +12650,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 77,
                     'away_points': 6,
@@ -12659,7 +12659,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'Weber State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 19,
                     'away_points': 13,
@@ -12668,7 +12668,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 37,
@@ -12677,7 +12677,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T02:30:00.000Z',
                     'home_points': 3,
                     'away_points': 54,
@@ -12686,7 +12686,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 41,
                     'away_points': 38,
@@ -12695,7 +12695,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T02:15:00.000Z',
                     'home_points': 36,
                     'away_points': 10,
@@ -12704,7 +12704,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T18:00:00.000Z',
                     'home_points': 31,
                     'away_points': 3,
@@ -12713,7 +12713,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T02:30:00.000Z',
                     'home_points': 21,
                     'away_points': 10,
@@ -12722,7 +12722,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T03:30:00.000Z',
                     'home_points': 13,
                     'away_points': 17,
@@ -12731,7 +12731,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:30:00.000Z',
                     'home_points': 28,
                     'away_points': 35,
@@ -12740,7 +12740,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -12829,7 +12829,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Sam Houston State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:00:00.000Z',
                     'home_points': 39,
                     'away_points': 31,
@@ -12838,7 +12838,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T18:30:00.000Z',
                     'home_points': 66,
                     'away_points': 14,
@@ -12847,7 +12847,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:30:00.000Z',
                     'home_points': 55,
                     'away_points': 52,
@@ -12856,7 +12856,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 17,
                     'away_points': 10,
@@ -12865,7 +12865,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T02:00:00.000Z',
                     'home_points': 32,
                     'away_points': 21,
@@ -12874,7 +12874,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 35,
@@ -12883,7 +12883,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:00:00.000Z',
                     'home_points': 23,
                     'away_points': 10,
@@ -12892,7 +12892,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T20:00:00.000Z',
                     'home_points': 31,
                     'away_points': 45,
@@ -12901,7 +12901,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T02:30:00.000Z',
                     'home_points': 21,
                     'away_points': 10,
@@ -12910,7 +12910,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T03:15:00.000Z',
                     'home_points': 42,
                     'away_points': 9,
@@ -12919,7 +12919,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Air Force',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:00:00.000Z',
                     'home_points': 22,
                     'away_points': 44,
@@ -12928,7 +12928,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -13026,7 +13026,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T00:00:00.000Z',
                     'home_points': 28,
                     'away_points': 25,
@@ -13035,7 +13035,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-13T22:00:00.000Z',
                     'home_points': 24,
                     'away_points': 18,
@@ -13044,7 +13044,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -13053,7 +13053,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 21,
@@ -13062,7 +13062,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:00:00.000Z',
                     'home_points': 22,
                     'away_points': 38,
@@ -13071,7 +13071,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 43,
                     'away_points': 41,
@@ -13080,7 +13080,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T20:00:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -13089,7 +13089,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -13098,7 +13098,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-15T01:00:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -13107,7 +13107,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Mercer',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 56,
                     'away_points': 7,
@@ -13116,7 +13116,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -13205,7 +13205,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Illinois State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 24,
                     'away_points': 10,
@@ -13214,7 +13214,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T17:00:00.000Z',
                     'home_points': 35,
                     'away_points': 17,
@@ -13223,7 +13223,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 44,
                     'away_points': 8,
@@ -13232,7 +13232,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 18,
@@ -13241,7 +13241,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 27,
@@ -13250,7 +13250,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 36,
                     'away_points': 39,
@@ -13259,7 +13259,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami (OH)',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:30:00.000Z',
                     'home_points': 27,
                     'away_points': 24,
@@ -13268,7 +13268,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 49,
                     'away_points': 0,
@@ -13277,7 +13277,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 10,
@@ -13286,7 +13286,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-14T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 31,
@@ -13295,7 +13295,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-20T00:30:00.000Z',
                     'home_points': 17,
                     'away_points': 45,
@@ -13304,7 +13304,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-27T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 14,
@@ -13376,7 +13376,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'Abilene Christian',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 51,
                     'away_points': 31,
@@ -13385,7 +13385,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 49,
                     'away_points': 27,
@@ -13394,7 +13394,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:15:00.000Z',
                     'home_points': 23,
                     'away_points': 17,
@@ -13403,7 +13403,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 3,
@@ -13412,7 +13412,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T00:00:00.000Z',
                     'home_points': 25,
                     'away_points': 46,
@@ -13421,7 +13421,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 45,
                     'away_points': 27,
@@ -13430,7 +13430,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 33,
                     'away_points': 30,
@@ -13439,7 +13439,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 39,
                     'away_points': 38,
@@ -13448,7 +13448,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 26,
@@ -13457,7 +13457,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T21:00:00.000Z',
                     'home_points': 52,
                     'away_points': 17,
@@ -13466,7 +13466,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -13475,7 +13475,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -13564,7 +13564,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T20:00:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -13573,7 +13573,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 30,
                     'away_points': 14,
@@ -13582,7 +13582,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 31,
@@ -13591,7 +13591,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 15,
@@ -13600,7 +13600,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:00:00.000Z',
                     'home_points': 13,
                     'away_points': 10,
@@ -13609,7 +13609,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T00:30:00.000Z',
                     'home_points': 3,
                     'away_points': 52,
@@ -13618,7 +13618,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 0,
                     'away_points': 20,
@@ -13627,7 +13627,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 34,
                     'away_points': 3,
@@ -13636,7 +13636,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 22,
                     'away_points': 24,
@@ -13645,7 +13645,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 45,
                     'away_points': 6,
@@ -13654,7 +13654,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 22,
                     'away_points': 38,
@@ -13663,7 +13663,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -13752,7 +13752,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-03T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 35,
@@ -13761,7 +13761,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T18:30:00.000Z',
                     'home_points': 66,
                     'away_points': 14,
@@ -13770,7 +13770,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T00:00:00.000Z',
                     'home_points': 23,
                     'away_points': 17,
@@ -13779,7 +13779,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 20,
@@ -13788,7 +13788,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -13797,7 +13797,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -13806,7 +13806,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -13815,7 +13815,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T18:30:00.000Z',
                     'home_points': 21,
                     'away_points': 20,
@@ -13824,7 +13824,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 7,
                     'away_points': 38,
@@ -13833,7 +13833,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 20,
@@ -13842,7 +13842,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:30:00.000Z',
                     'home_points': 40,
                     'away_points': 7,
@@ -13851,7 +13851,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -13940,7 +13940,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Rhode Island',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T18:00:00.000Z',
                     'home_points': 41,
                     'away_points': 20,
@@ -13949,7 +13949,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T15:00:00.000Z',
                     'home_points': 20,
                     'away_points': 10,
@@ -13958,7 +13958,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:30:00.000Z',
                     'home_points': 33,
                     'away_points': 31,
@@ -13967,7 +13967,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T18:00:00.000Z',
                     'home_points': 25,
                     'away_points': 45,
@@ -13976,7 +13976,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 21,
@@ -13985,7 +13985,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 36,
                     'away_points': 39,
@@ -13994,7 +13994,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 38,
@@ -14003,7 +14003,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T18:00:00.000Z',
                     'home_points': 21,
                     'away_points': 34,
@@ -14012,7 +14012,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-07T01:00:00.000Z',
                     'home_points': 21,
                     'away_points': 24,
@@ -14021,7 +14021,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-12T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 37,
@@ -14030,7 +14030,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-20T00:30:00.000Z',
                     'home_points': 24,
                     'away_points': 66,
@@ -14039,7 +14039,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-26T23:00:00.000Z',
                     'home_points': 3,
                     'away_points': 52,
@@ -14111,7 +14111,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 21,
@@ -14120,7 +14120,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 0,
@@ -14129,7 +14129,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 10,
                     'away_points': 51,
@@ -14138,7 +14138,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 76,
                     'away_points': 5,
@@ -14147,7 +14147,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 7,
                     'away_points': 48,
@@ -14156,7 +14156,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 10,
@@ -14165,7 +14165,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T00:30:00.000Z',
                     'home_points': 3,
                     'away_points': 52,
@@ -14174,7 +14174,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 7,
@@ -14183,7 +14183,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 73,
                     'away_points': 14,
@@ -14192,7 +14192,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 21,
                     'away_points': 56,
@@ -14201,7 +14201,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 28,
                     'away_points': 17,
@@ -14210,7 +14210,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -14299,7 +14299,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T23:30:00.000Z',
                     'home_points': 49,
                     'away_points': 31,
@@ -14308,7 +14308,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'South Dakota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 70,
                     'away_points': 14,
@@ -14317,7 +14317,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 14,
                     'away_points': 48,
@@ -14326,7 +14326,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 55,
                     'away_points': 16,
@@ -14335,7 +14335,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 45,
@@ -14353,7 +14353,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 14,
@@ -14362,7 +14362,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 41,
@@ -14371,7 +14371,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T01:00:00.000Z',
                     'home_points': 42,
                     'away_points': 41,
@@ -14380,7 +14380,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -14389,7 +14389,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 24,
@@ -14398,7 +14398,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T01:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -14487,7 +14487,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T02:30:00.000Z',
                     'home_points': 36,
                     'away_points': 52,
@@ -14496,7 +14496,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'McNeese',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 56,
                     'away_points': 14,
@@ -14505,7 +14505,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 21,
                     'away_points': 40,
@@ -14514,7 +14514,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 36,
                     'away_points': 30,
@@ -14523,7 +14523,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 26,
                     'away_points': 13,
@@ -14532,7 +14532,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 35,
@@ -14541,7 +14541,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 27,
                     'away_points': 45,
@@ -14550,7 +14550,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 27,
                     'away_points': 34,
@@ -14559,7 +14559,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -14568,7 +14568,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 13,
@@ -14577,7 +14577,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 13,
                     'away_points': 20,
@@ -14586,7 +14586,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T01:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -14675,7 +14675,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Norfolk State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 24,
                     'away_points': 21,
@@ -14684,7 +14684,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 17,
@@ -14693,7 +14693,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 17,
@@ -14702,7 +14702,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 21,
                     'away_points': 24,
@@ -14711,7 +14711,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T22:00:00.000Z',
                     'home_points': 3,
                     'away_points': 20,
@@ -14720,7 +14720,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T18:30:00.000Z',
                     'home_points': 31,
                     'away_points': 17,
@@ -14729,7 +14729,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 14,
@@ -14738,7 +14738,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 3,
                     'away_points': 41,
@@ -14747,7 +14747,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 17,
@@ -14756,7 +14756,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T19:00:00.000Z',
                     'home_points': 23,
                     'away_points': 24,
@@ -14765,7 +14765,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:30:00.000Z',
                     'home_points': 38,
                     'away_points': 17,
@@ -14774,7 +14774,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -14863,7 +14863,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 15,
                     'away_points': 10,
@@ -14872,7 +14872,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 17,
@@ -14881,7 +14881,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Southeastern Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:00:00.000Z',
                     'home_points': 40,
                     'away_points': 29,
@@ -14890,7 +14890,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 28,
@@ -14899,7 +14899,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 59,
                     'away_points': 31,
@@ -14908,7 +14908,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 6,
@@ -14917,7 +14917,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 38,
                     'away_points': 27,
@@ -14926,7 +14926,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:30:00.000Z',
                     'home_points': 17,
                     'away_points': 24,
@@ -14935,7 +14935,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -14944,7 +14944,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T21:00:00.000Z',
                     'home_points': 41,
                     'away_points': 3,
@@ -14953,7 +14953,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:00:00.000Z',
                     'home_points': 37,
                     'away_points': 58,
@@ -14962,7 +14962,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Ole Miss',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -15060,7 +15060,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 77,
                     'away_points': 6,
@@ -15069,7 +15069,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Montana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T02:45:00.000Z',
                     'home_points': 35,
                     'away_points': 3,
@@ -15078,7 +15078,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 6,
                     'away_points': 21,
@@ -15087,7 +15087,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -15096,7 +15096,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T02:00:00.000Z',
                     'home_points': 45,
                     'away_points': 3,
@@ -15105,7 +15105,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 35,
@@ -15114,7 +15114,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:30:00.000Z',
                     'home_points': 37,
                     'away_points': 35,
@@ -15123,7 +15123,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T00:00:00.000Z',
                     'home_points': 24,
                     'away_points': 56,
@@ -15132,7 +15132,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T03:30:00.000Z',
                     'home_points': 34,
                     'away_points': 6,
@@ -15141,7 +15141,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 31,
                     'away_points': 28,
@@ -15150,7 +15150,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -15239,7 +15239,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T02:30:00.000Z',
                     'home_points': 36,
                     'away_points': 52,
@@ -15248,7 +15248,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T03:59:00.000Z',
                     'home_points': 31,
                     'away_points': 28,
@@ -15257,7 +15257,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Cal Poly',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:15:00.000Z',
                     'home_points': 45,
                     'away_points': 7,
@@ -15266,7 +15266,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 31,
@@ -15275,7 +15275,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T01:00:00.000Z',
                     'home_points': 31,
                     'away_points': 48,
@@ -15284,7 +15284,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T00:00:00.000Z',
                     'home_points': 7,
                     'away_points': 52,
@@ -15293,7 +15293,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:30:00.000Z',
                     'home_points': 17,
                     'away_points': 21,
@@ -15302,7 +15302,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:30:00.000Z',
                     'home_points': 38,
                     'away_points': 56,
@@ -15311,7 +15311,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T03:30:00.000Z',
                     'home_points': 7,
                     'away_points': 19,
@@ -15320,7 +15320,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 35,
                     'away_points': 34,
@@ -15329,7 +15329,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T02:00:00.000Z',
                     'home_points': 54,
                     'away_points': 53,
@@ -15338,7 +15338,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -15427,7 +15427,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Idaho',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 79,
                     'away_points': 7,
@@ -15436,7 +15436,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 13,
@@ -15445,7 +15445,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 17,
                     'away_points': 10,
@@ -15454,7 +15454,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T00:00:00.000Z',
                     'home_points': 0,
                     'away_points': 59,
@@ -15463,7 +15463,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 7,
@@ -15472,7 +15472,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 12,
                     'away_points': 17,
@@ -15481,7 +15481,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:30:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -15490,7 +15490,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 7,
                     'away_points': 28,
@@ -15499,7 +15499,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 26,
@@ -15508,7 +15508,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -15517,7 +15517,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Penn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 28,
                     'away_points': 17,
@@ -15526,7 +15526,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -15615,7 +15615,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 14,
                     'away_points': 30,
@@ -15624,7 +15624,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Ohio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T15:00:00.000Z',
                     'home_points': 20,
                     'away_points': 10,
@@ -15633,7 +15633,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 17,
                     'away_points': 10,
@@ -15642,7 +15642,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 34,
@@ -15651,7 +15651,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Delaware',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:30:00.000Z',
                     'home_points': 17,
                     'away_points': 14,
@@ -15660,7 +15660,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 30,
                     'away_points': 33,
@@ -15669,7 +15669,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-18T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 27,
@@ -15678,7 +15678,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Miami',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 12,
                     'away_points': 16,
@@ -15687,7 +15687,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 10,
                     'away_points': 20,
@@ -15696,7 +15696,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-15T01:00:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -15705,7 +15705,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 28,
                     'away_points': 0,
@@ -15714,7 +15714,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -15803,7 +15803,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T01:30:00.000Z',
                     'home_points': 34,
                     'away_points': 31,
@@ -15812,7 +15812,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 24,
@@ -15821,7 +15821,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 13,
                     'away_points': 34,
@@ -15830,7 +15830,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -15839,7 +15839,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 7,
@@ -15848,7 +15848,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 40,
                     'away_points': 14,
@@ -15857,7 +15857,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 26,
                     'away_points': 20,
@@ -15866,7 +15866,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 6,
                     'away_points': 24,
@@ -15875,7 +15875,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Nebraska',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 27,
@@ -15884,7 +15884,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 22,
                     'away_points': 24,
@@ -15893,7 +15893,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 45,
                     'away_points': 24,
@@ -15902,7 +15902,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Indiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -15991,7 +15991,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T22:00:00.000Z',
                     'home_points': 14,
                     'away_points': 7,
@@ -16000,7 +16000,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 41,
@@ -16018,7 +16018,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 13,
                     'away_points': 21,
@@ -16027,7 +16027,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 23,
@@ -16036,7 +16036,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:00:00.000Z',
                     'home_points': 35,
                     'away_points': 20,
@@ -16045,7 +16045,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 31,
                     'away_points': 27,
@@ -16054,7 +16054,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T17:00:00.000Z',
                     'home_points': 6,
                     'away_points': 20,
@@ -16063,7 +16063,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Marshall',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 7,
                     'away_points': 20,
@@ -16072,7 +16072,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Middle Tennessee',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:30:00.000Z',
                     'home_points': 28,
                     'away_points': 31,
@@ -16081,7 +16081,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -16090,7 +16090,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -16179,7 +16179,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T23:15:00.000Z',
                     'home_points': 48,
                     'away_points': 21,
@@ -16188,7 +16188,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 30,
                     'away_points': 0,
@@ -16197,7 +16197,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 16,
                     'away_points': 30,
@@ -16206,7 +16206,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 0,
@@ -16215,7 +16215,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 7,
                     'away_points': 48,
@@ -16224,7 +16224,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Indiana',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 0,
@@ -16233,7 +16233,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Minnesota',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 7,
                     'away_points': 42,
@@ -16242,7 +16242,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 34,
@@ -16251,7 +16251,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 10,
@@ -16260,7 +16260,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Ohio State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 21,
                     'away_points': 56,
@@ -16269,7 +16269,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 0,
                     'away_points': 27,
@@ -16278,7 +16278,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Penn State',
                     'away_team': 'Rutgers',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -16367,7 +16367,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Weber State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T01:00:00.000Z',
                     'home_points': 6,
                     'away_points': 0,
@@ -16376,7 +16376,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:15:00.000Z',
                     'home_points': 14,
                     'away_points': 23,
@@ -16385,7 +16385,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 10,
                     'away_points': 31,
@@ -16394,7 +16394,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 23,
@@ -16403,7 +16403,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T02:00:00.000Z',
                     'home_points': 10,
                     'away_points': 24,
@@ -16412,7 +16412,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T02:30:00.000Z',
                     'home_points': 26,
                     'away_points': 22,
@@ -16421,7 +16421,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 17,
                     'away_points': 27,
@@ -16430,7 +16430,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -16439,7 +16439,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T03:30:00.000Z',
                     'home_points': 13,
                     'away_points': 17,
@@ -16448,7 +16448,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -16457,7 +16457,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T04:00:00.000Z',
                     'home_points': 14,
                     'away_points': 11,
@@ -16466,7 +16466,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T02:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -16555,7 +16555,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Northern Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T02:00:00.000Z',
                     'home_points': 35,
                     'away_points': 18,
@@ -16564,7 +16564,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T01:00:00.000Z',
                     'home_points': 16,
                     'away_points': 34,
@@ -16573,7 +16573,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 31,
@@ -16582,7 +16582,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T00:00:00.000Z',
                     'home_points': 41,
                     'away_points': 24,
@@ -16591,7 +16591,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T02:00:00.000Z',
                     'home_points': 32,
                     'away_points': 21,
@@ -16600,7 +16600,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 41,
                     'away_points': 38,
@@ -16609,7 +16609,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 17,
                     'away_points': 27,
@@ -16618,7 +16618,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 29,
                     'away_points': 34,
@@ -16627,7 +16627,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T02:30:00.000Z',
                     'home_points': 42,
                     'away_points': 52,
@@ -16636,7 +16636,7 @@ november_twenty_seven = {
                 {
                     'home_team': "Hawai'i",
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T04:00:00.000Z',
                     'home_points': 42,
                     'away_points': 40,
@@ -16645,7 +16645,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 38,
                     'away_points': 35,
@@ -16654,7 +16654,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T03:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -16743,7 +16743,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 37,
@@ -16752,7 +16752,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 49,
                     'away_points': 27,
@@ -16761,7 +16761,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 47,
                     'away_points': 17,
@@ -16770,7 +16770,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 41,
@@ -16779,7 +16779,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T20:00:00.000Z',
                     'home_points': 21,
                     'away_points': 48,
@@ -16788,7 +16788,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:30:00.000Z',
                     'home_points': 43,
                     'away_points': 37,
@@ -16797,7 +16797,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 21,
@@ -16806,7 +16806,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Houston',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-24T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -16815,7 +16815,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:30:00.000Z',
                     'home_points': 54,
                     'away_points': 48,
@@ -16824,7 +16824,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 59,
                     'away_points': 51,
@@ -16833,7 +16833,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 35,
                     'away_points': 28,
@@ -16842,7 +16842,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -16931,7 +16931,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 21,
@@ -16940,7 +16940,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Jackson State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 14,
@@ -16949,7 +16949,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 6,
                     'away_points': 42,
@@ -16958,7 +16958,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 3,
@@ -16967,7 +16967,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Monroe',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 17,
@@ -16976,7 +16976,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-03T23:30:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -16985,7 +16985,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-17T00:00:00.000Z',
                     'home_points': 37,
                     'away_points': 13,
@@ -16994,7 +16994,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 3,
                     'away_points': 30,
@@ -17003,7 +17003,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:00:00.000Z',
                     'home_points': 30,
                     'away_points': 28,
@@ -17012,7 +17012,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Louisiana',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T22:00:00.000Z',
                     'home_points': 27,
                     'away_points': 37,
@@ -17021,7 +17021,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:00:00.000Z',
                     'home_points': 28,
                     'away_points': 15,
@@ -17030,7 +17030,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Alabama',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T22:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -17128,7 +17128,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Charleston Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 72,
                     'away_points': 10,
@@ -17137,7 +17137,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 23,
                     'away_points': 47,
@@ -17146,7 +17146,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:00:00.000Z',
                     'home_points': 34,
                     'away_points': 14,
@@ -17155,7 +17155,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 7,
@@ -17164,7 +17164,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -17173,7 +17173,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 27,
                     'away_points': 38,
@@ -17182,7 +17182,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T20:00:00.000Z',
                     'home_points': 41,
                     'away_points': 21,
@@ -17191,7 +17191,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 7,
@@ -17200,7 +17200,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 15,
                     'away_points': 20,
@@ -17209,7 +17209,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 30,
                     'away_points': 6,
@@ -17218,7 +17218,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -17307,7 +17307,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'Alcorn State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 38,
                     'away_points': 10,
@@ -17316,7 +17316,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Mississippi State',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 15,
@@ -17325,7 +17325,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 42,
                     'away_points': 47,
@@ -17334,7 +17334,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 7,
@@ -17343,7 +17343,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 31,
                     'away_points': 13,
@@ -17352,7 +17352,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'North Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 45,
                     'away_points': 27,
@@ -17361,7 +17361,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 30,
@@ -17370,7 +17370,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T17:00:00.000Z',
                     'home_points': 6,
                     'away_points': 20,
@@ -17379,7 +17379,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 37,
                     'away_points': 2,
@@ -17388,7 +17388,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T23:00:00.000Z',
                     'home_points': 17,
                     'away_points': 36,
@@ -17397,7 +17397,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 10,
                     'away_points': 28,
@@ -17406,7 +17406,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -17495,7 +17495,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T23:55:00.000Z',
                     'home_points': 0,
                     'away_points': 49,
@@ -17504,7 +17504,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T18:00:00.000Z',
                     'home_points': 14,
                     'away_points': 10,
@@ -17513,7 +17513,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'South Carolina State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 55,
                     'away_points': 16,
@@ -17522,7 +17522,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T20:00:00.000Z',
                     'home_points': 21,
                     'away_points': 48,
@@ -17531,7 +17531,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Connecticut',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 22,
                     'away_points': 48,
@@ -17540,7 +17540,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 27,
                     'away_points': 23,
@@ -17549,7 +17549,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 3,
@@ -17558,7 +17558,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:45:00.000Z',
                     'home_points': 20,
                     'away_points': 45,
@@ -17567,7 +17567,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-08T01:00:00.000Z',
                     'home_points': 7,
                     'away_points': 17,
@@ -17576,7 +17576,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Cincinnati',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -17585,7 +17585,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 10,
                     'away_points': 49,
@@ -17594,7 +17594,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T01:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -17683,7 +17683,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T20:00:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -17692,7 +17692,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:30:00.000Z',
                     'home_points': 45,
                     'away_points': 20,
@@ -17701,7 +17701,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 27,
@@ -17710,7 +17710,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 6,
                     'away_points': 21,
@@ -17719,7 +17719,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 31,
@@ -17728,7 +17728,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T02:30:00.000Z',
                     'home_points': 23,
                     'away_points': 13,
@@ -17737,7 +17737,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-18T01:00:00.000Z',
                     'home_points': 16,
                     'away_points': 34,
@@ -17746,7 +17746,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 41,
                     'away_points': 31,
@@ -17755,7 +17755,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:00:00.000Z',
                     'home_points': 16,
                     'away_points': 13,
@@ -17764,7 +17764,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:30:00.000Z',
                     'home_points': 49,
                     'away_points': 22,
@@ -17773,7 +17773,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 20,
                     'away_points': 24,
@@ -17782,7 +17782,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Notre Dame',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -17871,7 +17871,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:00:00.000Z',
                     'home_points': 0,
                     'away_points': 24,
@@ -17880,7 +17880,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Maryland',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 63,
                     'away_points': 20,
@@ -17889,7 +17889,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Clemson',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 6,
                     'away_points': 41,
@@ -17898,7 +17898,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 33,
@@ -17907,7 +17907,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Holy Cross',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 41,
                     'away_points': 3,
@@ -17916,7 +17916,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'NC State',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-11T00:00:00.000Z',
                     'home_points': 16,
                     'away_points': 10,
@@ -17925,7 +17925,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-18T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 27,
@@ -17934,7 +17934,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida State',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 17,
@@ -17943,7 +17943,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Boston College',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 27,
                     'away_points': 58,
@@ -17952,7 +17952,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Duke',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 6,
                     'away_points': 49,
@@ -17961,7 +17961,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 56,
                     'away_points': 34,
@@ -17970,7 +17970,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -18059,7 +18059,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Arkansas-Pine Bluff',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T00:00:00.000Z',
                     'home_points': 39,
                     'away_points': 7,
@@ -18068,7 +18068,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 13,
                     'away_points': 34,
@@ -18077,7 +18077,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'SMU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 41,
@@ -18086,7 +18086,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 51,
                     'away_points': 14,
@@ -18095,7 +18095,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T18:00:00.000Z',
                     'home_points': 49,
                     'away_points': 24,
@@ -18104,7 +18104,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:30:00.000Z',
                     'home_points': 24,
                     'away_points': 17,
@@ -18113,7 +18113,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 27,
@@ -18122,7 +18122,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma State',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -18131,7 +18131,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Baylor',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 23,
                     'away_points': 29,
@@ -18140,7 +18140,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 33,
@@ -18149,7 +18149,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 24,
@@ -18158,7 +18158,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T21:15:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -18247,7 +18247,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Bucknell',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:00:00.000Z',
                     'home_points': 56,
                     'away_points': 12,
@@ -18256,7 +18256,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Maryland',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -18265,7 +18265,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 22,
@@ -18274,7 +18274,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 2,
@@ -18283,7 +18283,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-04T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 27,
@@ -18292,7 +18292,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 30,
                     'away_points': 28,
@@ -18301,7 +18301,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 21,
@@ -18310,7 +18310,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 21,
                     'away_points': 63,
@@ -18319,7 +18319,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-08T01:00:00.000Z',
                     'home_points': 7,
                     'away_points': 17,
@@ -18328,7 +18328,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 29,
                     'away_points': 21,
@@ -18337,7 +18337,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Temple',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 15,
                     'away_points': 13,
@@ -18346,7 +18346,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -18435,7 +18435,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:30:00.000Z',
                     'home_points': 30,
                     'away_points': 38,
@@ -18444,7 +18444,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 26,
                     'away_points': 29,
@@ -18453,7 +18453,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Chattanooga',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 0,
@@ -18462,7 +18462,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 34,
                     'away_points': 3,
@@ -18471,7 +18471,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 43,
@@ -18480,7 +18480,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 10,
@@ -18489,7 +18489,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T01:00:00.000Z',
                     'home_points': 35,
                     'away_points': 13,
@@ -18498,7 +18498,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T20:00:00.000Z',
                     'home_points': 41,
                     'away_points': 21,
@@ -18507,7 +18507,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 7,
@@ -18516,7 +18516,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 13,
                     'away_points': 17,
@@ -18525,7 +18525,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 20,
                     'away_points': 24,
@@ -18534,7 +18534,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -18623,7 +18623,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T00:00:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -18632,7 +18632,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 38,
                     'away_points': 45,
@@ -18650,7 +18650,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 36,
                     'away_points': 30,
@@ -18659,7 +18659,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 42,
@@ -18677,7 +18677,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Kansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 50,
                     'away_points': 48,
@@ -18686,7 +18686,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 27,
@@ -18695,7 +18695,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 27,
                     'away_points': 24,
@@ -18704,7 +18704,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Iowa State',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 23,
                     'away_points': 21,
@@ -18713,7 +18713,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 24,
                     'away_points': 10,
@@ -18722,7 +18722,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -18811,7 +18811,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:30:00.000Z',
                     'home_points': 41,
                     'away_points': 7,
@@ -18820,7 +18820,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 10,
@@ -18829,7 +18829,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Lamar',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 62,
                     'away_points': 3,
@@ -18838,7 +18838,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Auburn',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 28,
@@ -18856,7 +18856,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 47,
@@ -18865,7 +18865,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:30:00.000Z',
                     'home_points': 17,
                     'away_points': 24,
@@ -18874,7 +18874,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Mississippi State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 30,
@@ -18883,7 +18883,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -18892,7 +18892,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'South Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T00:30:00.000Z',
                     'home_points': 30,
                     'away_points': 6,
@@ -18901,7 +18901,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 19,
                     'away_points': 13,
@@ -18910,7 +18910,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Texas A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -18999,7 +18999,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:30:00.000Z',
                     'home_points': 41,
                     'away_points': 7,
@@ -19008,7 +19008,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 23,
@@ -19017,7 +19017,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 47,
                     'away_points': 17,
@@ -19026,7 +19026,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 34,
@@ -19035,7 +19035,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Nicholls',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 24,
                     'away_points': 3,
@@ -19044,7 +19044,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Louisiana Monroe',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-11T01:15:00.000Z',
                     'home_points': 14,
                     'away_points': 24,
@@ -19053,7 +19053,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas State',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 38,
                     'away_points': 14,
@@ -19062,7 +19062,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T21:00:00.000Z',
                     'home_points': 31,
                     'away_points': 3,
@@ -19071,7 +19071,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:00:00.000Z',
                     'home_points': 30,
                     'away_points': 28,
@@ -19080,7 +19080,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 27,
                     'away_points': 63,
@@ -19089,7 +19089,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Appalachian State',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 13,
@@ -19098,7 +19098,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Texas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -19187,7 +19187,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Montana State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T20:00:00.000Z',
                     'home_points': 45,
                     'away_points': 10,
@@ -19196,7 +19196,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 3,
@@ -19205,7 +19205,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T02:30:00.000Z',
                     'home_points': 28,
                     'away_points': 14,
@@ -19214,7 +19214,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 55,
                     'away_points': 16,
@@ -19223,7 +19223,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 35,
@@ -19232,7 +19232,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 33,
                     'away_points': 30,
@@ -19241,7 +19241,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 34,
@@ -19250,7 +19250,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 37,
                     'away_points': 34,
@@ -19259,7 +19259,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 17,
                     'away_points': 38,
@@ -19268,7 +19268,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'TCU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 33,
@@ -19277,7 +19277,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'Kansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:00:00.000Z',
                     'home_points': 27,
                     'away_points': 30,
@@ -19286,7 +19286,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -19375,7 +19375,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kentucky',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 24,
@@ -19384,7 +19384,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Murray State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 45,
                     'away_points': 0,
@@ -19393,7 +19393,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:15:00.000Z',
                     'home_points': 35,
                     'away_points': 41,
@@ -19402,7 +19402,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -19411,7 +19411,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 24,
@@ -19420,7 +19420,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Bowling Green',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 7,
@@ -19429,7 +19429,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ball State',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T18:00:00.000Z',
                     'home_points': 52,
                     'away_points': 14,
@@ -19438,7 +19438,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Eastern Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 34,
@@ -19447,7 +19447,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-06T00:00:00.000Z',
                     'home_points': 35,
                     'away_points': 33,
@@ -19456,7 +19456,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-14T01:00:00.000Z',
                     'home_points': 28,
                     'away_points': 31,
@@ -19465,7 +19465,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Buffalo',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-21T00:30:00.000Z',
                     'home_points': 49,
                     'away_points': 30,
@@ -19474,7 +19474,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'Toledo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -19563,7 +19563,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Campbell',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:00:00.000Z',
                     'home_points': 43,
                     'away_points': 14,
@@ -19572,7 +19572,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 42,
                     'away_points': 47,
@@ -19581,7 +19581,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:00:00.000Z',
                     'home_points': 7,
                     'away_points': 35,
@@ -19590,7 +19590,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 43,
                     'away_points': 50,
@@ -19599,7 +19599,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T20:00:00.000Z',
                     'home_points': 42,
                     'away_points': 10,
@@ -19608,7 +19608,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-17T00:00:00.000Z',
                     'home_points': 37,
                     'away_points': 13,
@@ -19617,7 +19617,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia State',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 52,
                     'away_points': 33,
@@ -19626,7 +19626,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Coastal Carolina',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:00:00.000Z',
                     'home_points': 36,
                     'away_points': 35,
@@ -19635,7 +19635,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Georgia Southern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 49,
                     'away_points': 28,
@@ -19644,7 +19644,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:00:00.000Z',
                     'home_points': 27,
                     'away_points': 63,
@@ -19653,7 +19653,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Troy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T22:00:00.000Z',
                     'home_points': 53,
                     'away_points': 3,
@@ -19662,7 +19662,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Troy',
                     'away_team': 'Appalachian State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T23:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -19751,7 +19751,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Florida International',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:00:00.000Z',
                     'home_points': 42,
                     'away_points': 14,
@@ -19760,7 +19760,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Auburn',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 6,
@@ -19769,7 +19769,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Missouri State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 58,
                     'away_points': 6,
@@ -19778,7 +19778,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-20T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 31,
@@ -19787,7 +19787,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 33,
                     'away_points': 42,
@@ -19796,7 +19796,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:45:00.000Z',
                     'home_points': 49,
                     'away_points': 7,
@@ -19805,7 +19805,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Memphis',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 47,
                     'away_points': 17,
@@ -19814,7 +19814,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Navy',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 41,
                     'away_points': 38,
@@ -19823,7 +19823,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 26,
@@ -19832,7 +19832,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 29,
                     'away_points': 21,
@@ -19841,7 +19841,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -19850,7 +19850,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Tulane',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -19939,7 +19939,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 7,
@@ -19948,7 +19948,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San José State',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T01:00:00.000Z',
                     'home_points': 16,
                     'away_points': 34,
@@ -19957,7 +19957,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 21,
                     'away_points': 40,
@@ -19966,7 +19966,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 21,
@@ -19975,7 +19975,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'SMU',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:30:00.000Z',
                     'home_points': 43,
                     'away_points': 37,
@@ -19984,7 +19984,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Navy',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 17,
                     'away_points': 45,
@@ -19993,7 +19993,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 13,
@@ -20002,7 +20002,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Memphis',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 42,
@@ -20011,7 +20011,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 26,
@@ -20020,7 +20020,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T00:00:00.000Z',
                     'home_points': 34,
                     'away_points': 31,
@@ -20029,7 +20029,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 14,
                     'away_points': 24,
@@ -20038,7 +20038,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'East Carolina',
                     'away_team': 'Tulsa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -20127,7 +20127,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Alabama State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T00:00:00.000Z',
                     'home_points': 24,
                     'away_points': 19,
@@ -20136,7 +20136,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Akron',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 20,
                     'away_points': 31,
@@ -20145,7 +20145,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'South Alabama',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 3,
@@ -20154,7 +20154,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 13,
@@ -20163,7 +20163,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:00:00.000Z',
                     'home_points': 35,
                     'away_points': 20,
@@ -20172,7 +20172,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T22:00:00.000Z',
                     'home_points': 14,
                     'away_points': 33,
@@ -20181,7 +20181,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 38,
                     'away_points': 14,
@@ -20190,7 +20190,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:00:00.000Z',
                     'home_points': 30,
                     'away_points': 7,
@@ -20199,7 +20199,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 37,
                     'away_points': 2,
@@ -20208,7 +20208,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T18:00:00.000Z',
                     'home_points': 37,
                     'away_points': 10,
@@ -20217,7 +20217,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -20226,7 +20226,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -20315,7 +20315,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Florida A&M',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:30:00.000Z',
                     'home_points': 62,
                     'away_points': 0,
@@ -20324,7 +20324,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida Atlantic',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 48,
@@ -20333,7 +20333,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 45,
                     'away_points': 27,
@@ -20342,7 +20342,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 34,
@@ -20351,7 +20351,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 56,
                     'away_points': 21,
@@ -20360,7 +20360,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T00:00:00.000Z',
                     'home_points': 27,
                     'away_points': 24,
@@ -20369,7 +20369,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'East Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 28,
@@ -20378,7 +20378,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Temple',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:00:00.000Z',
                     'home_points': 21,
                     'away_points': 63,
@@ -20387,7 +20387,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'Houston',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 29,
@@ -20396,7 +20396,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T00:00:00.000Z',
                     'home_points': 34,
                     'away_points': 31,
@@ -20405,7 +20405,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulane',
                     'away_team': 'UCF',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 31,
                     'away_points': 34,
@@ -20414,7 +20414,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCF',
                     'away_team': 'South Florida',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T01:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -20503,7 +20503,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Cincinnati',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:00:00.000Z',
                     'home_points': 24,
                     'away_points': 14,
@@ -20512,7 +20512,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:15:00.000Z',
                     'home_points': 14,
                     'away_points': 23,
@@ -20521,7 +20521,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Oklahoma',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 14,
                     'away_points': 48,
@@ -20530,7 +20530,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:30:00.000Z',
                     'home_points': 63,
                     'away_points': 67,
@@ -20539,7 +20539,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T02:30:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -20548,7 +20548,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T01:00:00.000Z',
                     'home_points': 31,
                     'away_points': 48,
@@ -20557,7 +20557,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-18T01:00:00.000Z',
                     'home_points': 16,
                     'away_points': 34,
@@ -20566,7 +20566,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T23:30:00.000Z',
                     'home_points': 42,
                     'away_points': 32,
@@ -20575,7 +20575,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T01:00:00.000Z',
                     'home_points': 31,
                     'away_points': 14,
@@ -20584,7 +20584,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T01:00:00.000Z',
                     'home_points': 49,
                     'away_points': 3,
@@ -20593,7 +20593,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 52,
                     'away_points': 35,
@@ -20602,7 +20602,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UCLA',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T03:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -20691,7 +20691,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T23:15:00.000Z',
                     'home_points': 48,
                     'away_points': 21,
@@ -20700,7 +20700,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Southern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 20,
                     'away_points': 45,
@@ -20709,7 +20709,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Charlotte',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 52,
                     'away_points': 17,
@@ -20718,7 +20718,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Coastal Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T17:00:00.000Z',
                     'home_points': 28,
                     'away_points': 62,
@@ -20727,7 +20727,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Akron',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 29,
@@ -20736,7 +20736,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:00:00.000Z',
                     'home_points': 44,
                     'away_points': 0,
@@ -20745,7 +20745,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 69,
                     'away_points': 21,
@@ -20754,7 +20754,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Connecticut',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 56,
@@ -20763,7 +20763,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 21,
                     'away_points': 63,
@@ -20772,7 +20772,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Army',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 63,
                     'away_points': 7,
@@ -20781,7 +20781,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'UMass',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 45,
                     'away_points': 6,
@@ -20790,7 +20790,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 24,
                     'away_points': 56,
@@ -20862,7 +20862,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'Southern Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T02:00:00.000Z',
                     'home_points': 56,
                     'away_points': 23,
@@ -20871,7 +20871,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'Arkansas State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:00:00.000Z',
                     'home_points': 17,
                     'away_points': 43,
@@ -20880,7 +20880,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northwestern',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 30,
                     'away_points': 14,
@@ -20889,7 +20889,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T00:00:00.000Z',
                     'home_points': 53,
                     'away_points': 17,
@@ -20898,7 +20898,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T02:30:00.000Z',
                     'home_points': 13,
                     'away_points': 38,
@@ -20907,7 +20907,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 10,
                     'away_points': 34,
@@ -20916,7 +20916,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T02:00:00.000Z',
                     'home_points': 56,
                     'away_points': 27,
@@ -20925,7 +20925,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 20,
@@ -20934,7 +20934,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado State',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 37,
                     'away_points': 17,
@@ -20943,7 +20943,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 7,
                     'away_points': 21,
@@ -20952,7 +20952,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UNLV',
                     'away_team': 'San José State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 38,
                     'away_points': 35,
@@ -20961,7 +20961,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nevada',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -21050,7 +21050,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T02:30:00.000Z',
                     'home_points': 31,
                     'away_points': 23,
@@ -21059,7 +21059,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:30:00.000Z',
                     'home_points': 45,
                     'away_points': 20,
@@ -21068,7 +21068,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -21077,7 +21077,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T01:00:00.000Z',
                     'home_points': 30,
                     'away_points': 23,
@@ -21086,7 +21086,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 14,
@@ -21095,7 +21095,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 30,
                     'away_points': 27,
@@ -21104,7 +21104,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Arizona',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T01:30:00.000Z',
                     'home_points': 41,
                     'away_points': 14,
@@ -21113,7 +21113,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T01:00:00.000Z',
                     'home_points': 31,
                     'away_points': 35,
@@ -21122,7 +21122,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T00:00:00.000Z',
                     'home_points': 24,
                     'away_points': 56,
@@ -21131,7 +21131,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 26,
                     'away_points': 31,
@@ -21140,7 +21140,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T04:00:00.000Z',
                     'home_points': 17,
                     'away_points': 41,
@@ -21149,7 +21149,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 52,
                     'away_points': 35,
@@ -21221,7 +21221,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T02:15:00.000Z',
                     'home_points': 12,
                     'away_points': 30,
@@ -21230,7 +21230,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T17:00:00.000Z',
                     'home_points': 35,
                     'away_points': 17,
@@ -21239,7 +21239,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Idaho State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T20:15:00.000Z',
                     'home_points': 31,
                     'away_points': 0,
@@ -21248,7 +21248,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'USC',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T01:00:00.000Z',
                     'home_points': 30,
                     'away_points': 23,
@@ -21257,7 +21257,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T02:00:00.000Z',
                     'home_points': 38,
                     'away_points': 13,
@@ -21266,7 +21266,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T00:00:00.000Z',
                     'home_points': 7,
                     'away_points': 52,
@@ -21275,7 +21275,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Arizona State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 21,
                     'away_points': 3,
@@ -21284,7 +21284,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:00:00.000Z',
                     'home_points': 35,
                     'away_points': 0,
@@ -21293,7 +21293,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 33,
@@ -21302,7 +21302,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-17T01:00:00.000Z',
                     'home_points': 49,
                     'away_points': 3,
@@ -21311,7 +21311,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:00:00.000Z',
                     'home_points': 7,
                     'away_points': 35,
@@ -21320,7 +21320,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-12-01T00:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -21409,7 +21409,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 35,
@@ -21418,7 +21418,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Stony Brook',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 62,
                     'away_points': 7,
@@ -21427,7 +21427,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 23,
@@ -21436,7 +21436,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 24,
@@ -21445,7 +21445,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'LSU',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 6,
@@ -21454,7 +21454,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-20T02:15:00.000Z',
                     'home_points': 36,
                     'away_points': 10,
@@ -21463,7 +21463,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:15:00.000Z',
                     'home_points': 31,
                     'away_points': 7,
@@ -21472,7 +21472,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'BYU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-03T02:00:00.000Z',
                     'home_points': 14,
                     'away_points': 42,
@@ -21481,7 +21481,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Fresno State',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 35,
                     'away_points': 37,
@@ -21490,7 +21490,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 26,
                     'away_points': 21,
@@ -21499,7 +21499,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Boise State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:30:00.000Z',
                     'home_points': 21,
                     'away_points': 56,
@@ -21508,7 +21508,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -21597,7 +21597,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Houston Baptist',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T00:00:00.000Z',
                     'home_points': 36,
                     'away_points': 34,
@@ -21606,7 +21606,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas Tech',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 3,
@@ -21615,7 +21615,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 37,
@@ -21624,7 +21624,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 31,
                     'away_points': 13,
@@ -21633,7 +21633,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 16,
                     'away_points': 26,
@@ -21642,7 +21642,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 32,
                     'away_points': 17,
@@ -21651,7 +21651,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Louisiana Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 42,
@@ -21660,7 +21660,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T19:30:00.000Z',
                     'home_points': 52,
                     'away_points': 26,
@@ -21669,7 +21669,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:00:00.000Z',
                     'home_points': 21,
                     'away_points': 28,
@@ -21678,7 +21678,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UAB',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T18:00:00.000Z',
                     'home_points': 37,
                     'away_points': 10,
@@ -21687,7 +21687,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 44,
                     'away_points': 35,
@@ -21696,7 +21696,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -21785,7 +21785,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Incarnate Word',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:00:00.000Z',
                     'home_points': 35,
                     'away_points': 7,
@@ -21794,7 +21794,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:00:00.000Z',
                     'home_points': 63,
                     'away_points': 14,
@@ -21803,7 +21803,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T19:30:00.000Z',
                     'home_points': 13,
                     'away_points': 31,
@@ -21812,7 +21812,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Texas',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:30:00.000Z',
                     'home_points': 45,
                     'away_points': 3,
@@ -21821,7 +21821,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UTEP',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 16,
                     'away_points': 26,
@@ -21830,7 +21830,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T22:00:00.000Z',
                     'home_points': 14,
                     'away_points': 33,
@@ -21839,7 +21839,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Rice',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 31,
                     'away_points': 27,
@@ -21848,7 +21848,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas A&M',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 45,
                     'away_points': 14,
@@ -21857,7 +21857,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T19:00:00.000Z',
                     'home_points': 23,
                     'away_points': 24,
@@ -21866,7 +21866,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Southern Mississippi',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T23:00:00.000Z',
                     'home_points': 17,
                     'away_points': 36,
@@ -21875,7 +21875,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UT San Antonio',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T23:00:00.000Z',
                     'home_points': 26,
                     'away_points': 40,
@@ -21884,7 +21884,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana Tech',
                     'away_team': 'UT San Antonio',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -21973,7 +21973,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Georgia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 6,
                     'away_points': 30,
@@ -21982,7 +21982,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Purdue',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 42,
                     'away_points': 24,
@@ -21991,7 +21991,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'LSU',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 66,
@@ -22000,7 +22000,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Northern Illinois',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 18,
@@ -22009,7 +22009,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 6,
@@ -22018,7 +22018,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 10,
                     'away_points': 34,
@@ -22027,7 +22027,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 21,
                     'away_points': 14,
@@ -22036,7 +22036,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Carolina',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:30:00.000Z',
                     'home_points': 24,
                     'away_points': 7,
@@ -22045,7 +22045,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 56,
                     'away_points': 0,
@@ -22054,7 +22054,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 14,
                     'away_points': 38,
@@ -22063,7 +22063,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Vanderbilt',
                     'away_team': 'East Tennessee State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 38,
                     'away_points': 0,
@@ -22072,7 +22072,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tennessee',
                     'away_team': 'Vanderbilt',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -22161,7 +22161,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Pittsburgh',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 14,
                     'away_points': 30,
@@ -22170,7 +22170,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'William & Mary',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T00:00:00.000Z',
                     'home_points': 52,
                     'away_points': 17,
@@ -22179,7 +22179,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 24,
@@ -22188,7 +22188,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T23:00:00.000Z',
                     'home_points': 28,
                     'away_points': 17,
@@ -22197,7 +22197,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 20,
@@ -22206,7 +22206,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 9,
@@ -22215,7 +22215,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 48,
                     'away_points': 14,
@@ -22224,7 +22224,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisville',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 21,
@@ -22233,7 +22233,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'North Carolina',
                     'away_team': 'Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T23:30:00.000Z',
                     'home_points': 31,
                     'away_points': 38,
@@ -22242,7 +22242,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Georgia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:30:00.000Z',
                     'home_points': 33,
                     'away_points': 28,
@@ -22251,7 +22251,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 55,
                     'away_points': 27,
@@ -22260,7 +22260,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -22349,7 +22349,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T20:00:00.000Z',
                     'home_points': 35,
                     'away_points': 28,
@@ -22358,7 +22358,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Old Dominion',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 17,
@@ -22367,7 +22367,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Furman',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 17,
@@ -22376,7 +22376,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-27T23:00:00.000Z',
                     'home_points': 10,
                     'away_points': 45,
@@ -22385,7 +22385,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Miami',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 35,
                     'away_points': 42,
@@ -22394,7 +22394,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Rhode Island',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 34,
                     'away_points': 17,
@@ -22403,7 +22403,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 43,
                     'away_points': 41,
@@ -22412,7 +22412,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Notre Dame',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T18:30:00.000Z',
                     'home_points': 21,
                     'away_points': 20,
@@ -22421,7 +22421,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 36,
                     'away_points': 17,
@@ -22430,7 +22430,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Tech',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 0,
                     'away_points': 45,
@@ -22439,7 +22439,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Pittsburgh',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 28,
                     'away_points': 0,
@@ -22448,7 +22448,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Virginia Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T17:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -22537,7 +22537,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Utah State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T00:00:00.000Z',
                     'home_points': 38,
                     'away_points': 35,
@@ -22546,7 +22546,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rice',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T00:00:00.000Z',
                     'home_points': 21,
                     'away_points': 41,
@@ -22555,7 +22555,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'North Carolina',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-13T22:00:00.000Z',
                     'home_points': 24,
                     'away_points': 18,
@@ -22564,7 +22564,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Elon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 7,
@@ -22573,7 +22573,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boston College',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 27,
@@ -22582,7 +22582,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Louisville',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:30:00.000Z',
                     'home_points': 59,
                     'away_points': 62,
@@ -22591,7 +22591,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Florida State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:30:00.000Z',
                     'home_points': 22,
                     'away_points': 20,
@@ -22600,7 +22600,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 10,
@@ -22609,7 +22609,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia Tech',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T20:30:00.000Z',
                     'home_points': 36,
                     'away_points': 17,
@@ -22618,7 +22618,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Clemson',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 52,
                     'away_points': 3,
@@ -22627,7 +22627,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wake Forest',
                     'away_team': 'Duke',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T00:30:00.000Z',
                     'home_points': 39,
                     'away_points': 27,
@@ -22636,7 +22636,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Wake Forest',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T17:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -22725,7 +22725,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Eastern Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T19:00:00.000Z',
                     'home_points': 47,
                     'away_points': 14,
@@ -22734,7 +22734,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'California',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-08T02:30:00.000Z',
                     'home_points': 19,
                     'away_points': 20,
@@ -22743,7 +22743,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': "Hawai'i",
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:30:00.000Z',
                     'home_points': 52,
                     'away_points': 20,
@@ -22752,7 +22752,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 19,
                     'away_points': 45,
@@ -22761,7 +22761,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'USC',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T19:30:00.000Z',
                     'home_points': 28,
                     'away_points': 14,
@@ -22770,7 +22770,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Stanford',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T02:30:00.000Z',
                     'home_points': 23,
                     'away_points': 13,
@@ -22779,7 +22779,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T03:00:00.000Z',
                     'home_points': 27,
                     'away_points': 51,
@@ -22788,7 +22788,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Oregon',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 35,
@@ -22797,7 +22797,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Utah',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 28,
                     'away_points': 33,
@@ -22806,7 +22806,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon State',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T03:30:00.000Z',
                     'home_points': 7,
                     'away_points': 19,
@@ -22815,7 +22815,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Colorado',
                     'away_team': 'Washington',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T03:00:00.000Z',
                     'home_points': 20,
                     'away_points': 14,
@@ -22824,7 +22824,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -22913,7 +22913,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T02:00:00.000Z',
                     'home_points': 58,
                     'away_points': 7,
@@ -22922,7 +22922,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Northern Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T21:00:00.000Z',
                     'home_points': 59,
                     'away_points': 17,
@@ -22940,7 +22940,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'UCLA',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-22T02:30:00.000Z',
                     'home_points': 63,
                     'away_points': 67,
@@ -22949,7 +22949,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T02:00:00.000Z',
                     'home_points': 38,
                     'away_points': 13,
@@ -22958,7 +22958,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arizona State',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 34,
@@ -22967,7 +22967,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Colorado',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 41,
                     'away_points': 10,
@@ -22976,7 +22976,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oregon',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-27T02:30:00.000Z',
                     'home_points': 37,
                     'away_points': 35,
@@ -22985,7 +22985,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'California',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:00:00.000Z',
                     'home_points': 33,
                     'away_points': 20,
@@ -22994,7 +22994,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Stanford',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:30:00.000Z',
                     'home_points': 49,
                     'away_points': 22,
@@ -23003,7 +23003,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'Oregon State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-24T02:00:00.000Z',
                     'home_points': 54,
                     'away_points': 53,
@@ -23012,7 +23012,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington',
                     'away_team': 'Washington State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T21:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -23101,7 +23101,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Central Arkansas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-29T23:30:00.000Z',
                     'home_points': 28,
                     'away_points': 35,
@@ -23110,7 +23110,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Florida International',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 20,
@@ -23128,7 +23128,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'UAB',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T23:00:00.000Z',
                     'home_points': 20,
                     'away_points': 13,
@@ -23137,7 +23137,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Old Dominion',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T22:00:00.000Z',
                     'home_points': 3,
                     'away_points': 20,
@@ -23146,7 +23146,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Army',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T23:00:00.000Z',
                     'home_points': 17,
                     'away_points': 8,
@@ -23155,7 +23155,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Charlotte',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T20:00:00.000Z',
                     'home_points': 30,
                     'away_points': 14,
@@ -23164,7 +23164,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Marshall',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T18:30:00.000Z',
                     'home_points': 26,
                     'away_points': 23,
@@ -23173,7 +23173,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Florida Atlantic',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T20:00:00.000Z',
                     'home_points': 24,
                     'away_points': 35,
@@ -23182,7 +23182,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Arkansas',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 19,
                     'away_points': 45,
@@ -23191,7 +23191,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Southern Mississippi',
                     'away_team': 'Western Kentucky',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T20:30:00.000Z',
                     'home_points': 10,
                     'away_points': 28,
@@ -23200,7 +23200,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Kentucky',
                     'away_team': 'Middle Tennessee',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -23289,7 +23289,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Monmouth',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:00:00.000Z',
                     'home_points': 48,
                     'away_points': 13,
@@ -23298,7 +23298,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Michigan State',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 51,
                     'away_points': 17,
@@ -23307,7 +23307,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Georgia State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T23:00:00.000Z',
                     'home_points': 57,
                     'away_points': 10,
@@ -23316,7 +23316,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Syracuse',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 33,
@@ -23325,7 +23325,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 31,
                     'away_points': 15,
@@ -23334,7 +23334,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Toledo',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 24,
@@ -23343,7 +23343,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Miami (OH)',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 16,
@@ -23352,7 +23352,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Eastern Michigan',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T23:00:00.000Z',
                     'home_points': 34,
                     'away_points': 27,
@@ -23361,7 +23361,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Bowling Green',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 49,
                     'away_points': 10,
@@ -23370,7 +23370,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Western Michigan',
                     'away_team': 'Ball State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-06T01:00:00.000Z',
                     'home_points': 35,
                     'away_points': 31,
@@ -23379,7 +23379,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-12T23:30:00.000Z',
                     'home_points': 34,
                     'away_points': 37,
@@ -23388,7 +23388,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Northern Illinois',
                     'away_team': 'Western Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-27T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 14,
@@ -23460,7 +23460,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'James Madison',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T18:00:00.000Z',
                     'home_points': 20,
                     'away_points': 13,
@@ -23469,7 +23469,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Missouri',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 7,
@@ -23478,7 +23478,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'NC State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 27,
@@ -23487,7 +23487,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:30:00.000Z',
                     'home_points': 24,
                     'away_points': 29,
@@ -23496,7 +23496,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Texas',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T19:30:00.000Z',
                     'home_points': 31,
                     'away_points': 42,
@@ -23505,7 +23505,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Iowa State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T20:00:00.000Z',
                     'home_points': 14,
                     'away_points': 38,
@@ -23514,7 +23514,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Oklahoma',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 52,
                     'away_points': 14,
@@ -23523,7 +23523,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Baylor',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-01T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 14,
@@ -23532,7 +23532,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Texas Tech',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T17:00:00.000Z',
                     'home_points': 17,
                     'away_points': 38,
@@ -23541,7 +23541,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Kansas State',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T20:30:00.000Z',
                     'home_points': 20,
                     'away_points': 24,
@@ -23550,7 +23550,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'West Virginia',
                     'away_team': 'Oklahoma State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 13,
                     'away_points': 20,
@@ -23559,7 +23559,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'TCU',
                     'away_team': 'West Virginia',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-29T21:15:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -23648,7 +23648,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'South Florida',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-30T23:55:00.000Z',
                     'home_points': 0,
                     'away_points': 49,
@@ -23657,7 +23657,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Central Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T19:30:00.000Z',
                     'home_points': 61,
                     'away_points': 0,
@@ -23666,7 +23666,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Michigan',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T16:00:00.000Z',
                     'home_points': 35,
                     'away_points': 14,
@@ -23675,7 +23675,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Northwestern',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 15,
@@ -23684,7 +23684,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Kent State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-05T16:00:00.000Z',
                     'home_points': 48,
                     'away_points': 0,
@@ -23693,7 +23693,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Michigan State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:30:00.000Z',
                     'home_points': 38,
                     'away_points': 0,
@@ -23702,7 +23702,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Illinois',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T16:00:00.000Z',
                     'home_points': 24,
                     'away_points': 23,
@@ -23711,7 +23711,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ohio State',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 38,
                     'away_points': 7,
@@ -23720,7 +23720,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Iowa',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T21:00:00.000Z',
                     'home_points': 24,
                     'away_points': 22,
@@ -23729,7 +23729,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Nebraska',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T17:00:00.000Z',
                     'home_points': 21,
                     'away_points': 37,
@@ -23738,7 +23738,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wisconsin',
                     'away_team': 'Purdue',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 45,
                     'away_points': 24,
@@ -23747,7 +23747,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Minnesota',
                     'away_team': 'Wisconsin',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T20:30:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -23836,7 +23836,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Missouri',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T23:30:00.000Z',
                     'home_points': 37,
                     'away_points': 31,
@@ -23845,7 +23845,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Texas State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:00:00.000Z',
                     'home_points': 14,
                     'away_points': 23,
@@ -23854,7 +23854,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Idaho',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T21:00:00.000Z',
                     'home_points': 21,
                     'away_points': 16,
@@ -23863,7 +23863,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Tulsa',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T19:30:00.000Z',
                     'home_points': 24,
                     'away_points': 21,
@@ -23872,7 +23872,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'UNLV',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T00:00:00.000Z',
                     'home_points': 53,
                     'away_points': 17,
@@ -23881,7 +23881,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'San Diego State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-13T02:30:00.000Z',
                     'home_points': 26,
                     'away_points': 22,
@@ -23890,7 +23890,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T19:00:00.000Z',
                     'home_points': 23,
                     'away_points': 10,
@@ -23899,7 +23899,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Nevada',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T18:00:00.000Z',
                     'home_points': 31,
                     'away_points': 3,
@@ -23908,7 +23908,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Boise State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T03:15:00.000Z',
                     'home_points': 20,
                     'away_points': 17,
@@ -23917,7 +23917,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Utah State',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 26,
                     'away_points': 21,
@@ -23926,7 +23926,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Wyoming',
                     'away_team': 'Colorado State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T02:30:00.000Z',
                     'home_points': 17,
                     'away_points': 7,
@@ -23935,7 +23935,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Air Force',
                     'away_team': 'Wyoming',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -24024,7 +24024,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Washington State',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-01T02:00:00.000Z',
                     'home_points': 58,
                     'away_points': 7,
@@ -24033,7 +24033,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Alabama',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T20:00:00.000Z',
                     'home_points': 62,
                     'away_points': 10,
@@ -24042,7 +24042,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'San Diego State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-15T00:00:00.000Z',
                     'home_points': 10,
                     'away_points': 31,
@@ -24051,7 +24051,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T20:30:00.000Z',
                     'home_points': 55,
                     'away_points': 52,
@@ -24060,7 +24060,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'Fresno State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-29T00:00:00.000Z',
                     'home_points': 17,
                     'away_points': 30,
@@ -24069,7 +24069,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 13,
                     'away_points': 20,
@@ -24078,7 +24078,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Central Michigan',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-12T19:00:00.000Z',
                     'home_points': 42,
                     'away_points': 28,
@@ -24087,7 +24087,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Georgia Southern',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T19:00:00.000Z',
                     'home_points': 41,
                     'away_points': 7,
@@ -24096,7 +24096,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Ole Miss',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-09T21:00:00.000Z',
                     'home_points': 41,
                     'away_points': 3,
@@ -24105,7 +24105,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'Incarnate Word',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-16T21:00:00.000Z',
                     'home_points': 41,
                     'away_points': 28,
@@ -24114,7 +24114,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'UTEP',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T21:00:00.000Z',
                     'home_points': 44,
                     'away_points': 35,
@@ -24123,7 +24123,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
@@ -24212,7 +24212,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'Syracuse',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-08-31T22:00:00.000Z',
                     'home_points': 0,
                     'away_points': 24,
@@ -24221,7 +24221,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Louisiana',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-07T23:30:00.000Z',
                     'home_points': 35,
                     'away_points': 14,
@@ -24230,7 +24230,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'Buffalo',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-14T22:00:00.000Z',
                     'home_points': 35,
                     'away_points': 17,
@@ -24239,7 +24239,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'Hampton',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-21T22:00:00.000Z',
                     'home_points': 62,
                     'away_points': 27,
@@ -24248,7 +24248,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'New Mexico',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-09-28T22:00:00.000Z',
                     'home_points': 17,
                     'away_points': 10,
@@ -24257,7 +24257,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'New Mexico State',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-06T00:00:00.000Z',
                     'home_points': 13,
                     'away_points': 20,
@@ -24266,7 +24266,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'Maine',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-19T22:00:00.000Z',
                     'home_points': 59,
                     'away_points': 44,
@@ -24275,7 +24275,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Rutgers',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-10-26T16:00:00.000Z',
                     'home_points': 44,
                     'away_points': 34,
@@ -24284,7 +24284,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'UMass',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-02T16:00:00.000Z',
                     'home_points': 21,
                     'away_points': 63,
@@ -24293,7 +24293,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'BYU',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-10T00:30:00.000Z',
                     'home_points': 31,
                     'away_points': 24,
@@ -24302,7 +24302,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Virginia',
                     'away_team': 'Liberty',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-23T17:00:00.000Z',
                     'home_points': 55,
                     'away_points': 27,
@@ -24311,7 +24311,7 @@ november_twenty_seven = {
                 {
                     'home_team': 'Liberty',
                     'away_team': 'New Mexico State',
-                    'neutral_site': False,
+                    'neutral_site':   False,
                     'start_date': '2019-11-30T19:00:00.000Z',
                     'home_points': None,
                     'away_points': None,
