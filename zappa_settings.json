@@ -6,7 +6,7 @@
         "runtime": "python3.6",
         "s3_bucket": "simulations-prod",
         "timeout_seconds": 900,
-        "manage_roles": false,
+        "manage_roles": False,
         "role_name": "ZappaFlaskRole",
         "role_arn": "arn:aws:iam::331955863890:role/ZappaFlaskRole"
     }

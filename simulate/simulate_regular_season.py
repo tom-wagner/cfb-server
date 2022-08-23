@@ -1,14 +1,17 @@
+from cProfile import run
 from typing import Dict, List, Optional, DefaultDict, Set
 from statistics import mean
 from collections import Counter, defaultdict
 from random import random as rand_float, randint
 from constants.conferences import CONFERENCES
-from constants.constants import MASSEY, HOME_FIELD_ADVANTAGE, CONFERENCES_WITHOUT_DIVISIONS, RANKING_SYSTEMS
+from constants.constants import CFD, MASSEY, HOME_FIELD_ADVANTAGE, CONFERENCES_WITHOUT_DIVISIONS, RANKING_SYSTEMS, SP_PLUS
 from constants.likelihoods import LIKELIHOODS
 from constants.teams import TEAMS
+from constants.team_map import TEAM_MAP
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
 from ratings.inputs.data.team_ratings.twenty_twenty_two.preseason import TEAM_RATINGS as TR_PRESEASON
+from simulate.WIN_TOTALS import TOTALS
 
 
 def trim_game(game: Dict) -> Dict:
@@ -39,9 +42,12 @@ def get_net_power_rating(ratings: Dict) -> float:
 
 def determine_margin_for_game_vs_fcs_team(home_team, away_team, team_ratings):
     """Add a default margin if one of the teams is not rated by S&P+"""
-    # home_team_massey_rating = team_ratings[home_team][MASSEY]
-    # away_team__massey_rating = get_massey_rating_fcs_team(away_team)
-    return 35 # round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
+    home_team_rating_obj = team_ratings.get(home_team)
+    if home_team_rating_obj:
+        home_team_sp_plus = home_team_rating_obj.get(SP_PLUS)
+        return round(home_team_sp_plus + HOME_FIELD_ADVANTAGE + 22, 1)
+    else:
+        return 28 # round(home_team_massey_rating + HOME_FIELD_ADVANTAGE - away_team__massey_rating, 1)
 
 
 def add_proj_margin_to_game(game, team_ratings):
@@ -179,15 +185,35 @@ def get_rankings_for_team(team: str, rankings: Dict) -> Dict:
             rankings.items()}
 
 
+def get_proj_wins_for_team(team: str, schedule: List):
+    running_wins = 0
+    for g in schedule:
+        win_prob = g['home_team_win_pct'] if team == g['home_team'] else 1 - g['home_team_win_pct']
+        running_wins += win_prob
+
+    return round(running_wins, 2)
+
+
+# def get_win_totals(team: str):
+#     SP_PLUS_TEAM_NAME = TEAM_MAP[CFD][team][SP_PLUS]
+#     print(team, SP_PLUS_TEAM_NAME, TOTALS[SP_PLUS_TEAM_NAME])
+#     return {}
+
+
 class SimulateRegularSeason:
     def __init__(self, year: Optional[int] = 2022, num_of_sims: int = 1000, conference: Optional[str] = None):
         self.ratings = add_average_rating(TR_PRESEASON)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
         self.num_of_sims = num_of_sims
+        self.schedule_by_team = {
+            team: [game for game in self.schedule if team == game['away_team'] or team == game['home_team']]
+            for team in self.ratings.keys()
+        }
         self.simulation_results = {
             team: {
-                'schedule': [game for game in self.schedule if team == game['away_team'] or team == game['home_team']],
+                'proj_total_wins': get_proj_wins_for_team(team, self.schedule_by_team.get(team)),
+                'schedule': self.schedule_by_team.get(team),
                 'rankings': get_rankings_for_team(team, self.rankings),
                 'conference_results': get_empty_wins_dict(),
                 'non_conference_results': get_empty_wins_dict(),
@@ -199,7 +225,16 @@ class SimulateRegularSeason:
             }
             for team in self.ratings.keys()
         }
+
+        self.add_win_totals()
+
         self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule, self.ratings)
+
+    def add_win_totals(self):
+        for k, v in TOTALS.items():
+            CFD_TEAM_NAME = TEAM_MAP[SP_PLUS][k][CFD]
+            self.simulation_results[CFD_TEAM_NAME]['win_totals'] = v
+
 
     def calculate_percentages(self):
         conferences_without_divisions = {'FBS Independents', 'Sun Belt', 'Big 12'}

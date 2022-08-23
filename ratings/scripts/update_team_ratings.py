@@ -1,6 +1,8 @@
 import csv
 from typing import Dict
 
+# NOTE: This import is not working, resolved by running `export PYTHONPATH = /Users/tom/cfb-server` in terminal window
+# https://stackoverflow.com/questions/2325923/how-to-fix-importerror-no-module-named-error-in-python#comment74538472_2326045
 from constants.constants import CFD, SP_PLUS, FPI, ENTROPY, MASSEY
 from constants.team_map import TEAM_MAP
 
