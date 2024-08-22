@@ -7,7 +7,7 @@ from constants.conferences import CONFERENCES
 from constants.simulation_results.PRESEASON import preseason
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
-from ratings.inputs.data.team_ratings.twenty_twenty_two.preseason import TEAM_RATINGS as TR_PRESEASON
+from ratings.inputs.data.team_ratings.twenty_twenty_two.UPDATED import TEAM_RATINGS as TR_PRESEASON
 
 # FOR RUNNING REAL-TIME
 # from simulate.simulate_regular_season import SimulateRegularSeason

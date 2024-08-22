@@ -203,7 +203,7 @@ def get_proj_wins_for_team(team: str, schedule: List):
 
 
 class SimulateRegularSeason:
-    def __init__(self, year: Optional[int] = 2022, num_of_sims: int = 1000, conference: Optional[str] = None):
+    def __init__(self, year: Optional[int] = 2024, num_of_sims: int = 10000, conference: Optional[str] = None):
         self.ratings = add_average_rating(TR_PRESEASON)
         self.rankings = get_rankings_by_rating_system(self.ratings)
         self.schedule = self.transform_schedule(year, conference)
