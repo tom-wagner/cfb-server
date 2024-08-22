@@ -2,7 +2,9 @@ from flask import Flask, json, request
 from flask_cors import CORS
 
 from constants.conferences import CONFERENCES
-from constants.simulation_results.twenty_twenty_two.aug_seventeenth import aug_seventeenth
+# Working 2022 import
+# from constants.simulation_results.twenty_twenty_two.aug_seventeenth import aug_seventeenth
+from constants.simulation_results.PRESEASON import preseason
 from constants.teams import TEAMS
 from external_apis.cf_data import CFData
 from ratings.inputs.data.team_ratings.twenty_twenty_two.preseason import TEAM_RATINGS as TR_PRESEASON
@@ -61,7 +63,7 @@ def conferences():
 
 @app.route("/simulate", methods=["GET"])
 def simulate():
-    return json.jsonify(aug_seventeenth)
+    return json.jsonify(preseason)
 
 
 # TO ACTUALLY RUN ON POST

@@ -10,7 +10,8 @@ from constants.teams import TEAMS
 from constants.team_map import TEAM_MAP
 from external_apis.cf_data import CFData
 from ratings.inputs.data.massey_fcs import get_massey_rating_fcs_team
-from ratings.inputs.data.team_ratings.twenty_twenty_two.preseason import TEAM_RATINGS as TR_PRESEASON
+# 2024 ratings >>>>
+from ratings.inputs.data.team_ratings.twenty_twenty_two.UPDATED import TEAM_RATINGS as TR_PRESEASON
 from simulate.WIN_TOTALS import TOTALS
 
 
@@ -54,9 +55,10 @@ def add_proj_margin_to_game(game, team_ratings):
     home_team, away_team = game['home_team'], game['away_team']
 
     # handle already played games
-    if game.get('home_points') is not None:
-        game['home_team_win_pct'] = 1 if game['home_points'] > game['away_points'] else 0
-        return game
+    # TODO: THIS IS BUSTED!!
+    # if game.get('home_points') is not None:
+    #     game['home_team_win_pct'] = 1 if game['home_points'] > game['away_points'] else 0
+    #     return game
 
     if home_team in team_ratings and away_team in team_ratings:
         home_team_ratings, away_team_ratings = team_ratings[home_team], team_ratings[away_team]
@@ -228,7 +230,7 @@ class SimulateRegularSeason:
 
         self.add_win_totals()
 
-        self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule, self.ratings)
+        # self.average_opponent_rating_by_team = get_average_opponent_rating_by_team(self.schedule, self.ratings)
 
     def add_win_totals(self):
         for k, v in TOTALS.items():
@@ -308,6 +310,7 @@ class SimulateRegularSeason:
 
     def run(self):
         for _ in range(self.num_of_sims):
+            print(_)
             simulated_season = [simulate_game(game) for game in self.schedule]
 
             conf_games, nc_games, all_games = [], [], []
@@ -338,7 +341,7 @@ class SimulateRegularSeason:
         self.calculate_percentages()
 
 
-s = SimulateRegularSeason(num_of_sims=100000)
+s = SimulateRegularSeason(num_of_sims=10000)
 s.run()
 
 print(s.simulation_results)
