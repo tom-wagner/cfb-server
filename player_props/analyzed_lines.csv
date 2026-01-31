@@ -1,0 +1,111 @@
+Player Name,Position,Team Abbreviation,Team Full Name,Matchup,Stat Category,Over/Under Line,Multiplier,Projection
+R. Wilson,WR,MICH,Michigan,MICH @ TEX,Receiving Yards,67.5,,42.12
+A. Marsh,WR,MICH,Michigan,MICH @ TEX,Receiving Yards,53.5,,42.12
+E. Mosley V,WR,MICH,Michigan,MICH @ TEX,Receiving Yards,51.5,,4.58
+D. McCulley,WR,MICH,Michigan,MICH @ TEX,Receiving Yards,37.5,,40.75
+D. Bentley,TE,NEB,Nebraska,NEB @ UTAH,Receiving Yards,41.5,,27.48
+L. Simmons,WR,NEB,Nebraska,NEB @ UTAH,Receiving Yards,38.5,,1.07
+D. Key,WR,NEB,Nebraska,NEB @ UTAH,Receiving Yards,31.5,,26.86
+N. Hunter,WR,NEB,Nebraska,NEB @ UTAH,Receiving Yards,31.5,,1.63
+J. Smith,WR,MIA,Miami,MIA @ OSU,Receiving Yards,81.5,,84.24
+C. Tate,WR,MIA,Miami,MIA @ OSU,Receiving Yards,69.5,,6.52
+M. Toney,WR,MIA,Miami,MIA @ OSU,Receiving Yards,62.5,,73.52
+CJ Daniels,WR,MIA,Miami,MIA @ OSU,Receiving Yards,35.5,,41.43
+K. Marion,WR,MIA,Miami,MIA @ OSU,Receiving Yards,30.5,,42.12
+M. Klare,TE,MIA,Miami,MIA @ OSU,Receiving Yards,30.5,,30.45
+C. Douglas,WR,ORE,Oregon,ORE @ TTU,Receiving Yards,55.5,,56.91
+K. Sadiq,TE,ORE,Oregon,ORE @ TTU,Receiving Yards,45.5,,50.19
+R. Vegel,WR,ORE,Oregon,ORE @ TTU,Receiving Yards,44.5,,1.71
+T. Carter Jr.,TE,ORE,Oregon,ORE @ TTU,Receiving Yards,37.5,,48.05
+M. Benson,WR,ORE,Oregon,ORE @ TTU,Receiving Yards,35.5,,49.97
+C. Eakin,WR,ORE,Oregon,ORE @ TTU,Receiving Yards,34.5,,36.03
+J. Williams,RB,ORE,Oregon,ORE @ TTU,Receiving Yards,18.5,,24.69
+C. Dickey,RB,ORE,Oregon,ORE @ TTU,Receiving Yards,15.5,,18.24
+E. Sarratt,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,58.5,,57.66
+O. Cooper Jr.,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,50.5,,60.11
+Q. Barnard,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,50.5,,60.66
+C. Becker,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,43.5,,45.73
+L. Brooks,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,35.5,,39.26
+I. Horton,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,34.5,,42.45
+J. Carson,TE,BAMA,Alabama,BAMA @ IU,Receiving Yards,34.5,,37.40
+R. Williams,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,30.5,,36.48
+R. Nowackowski,TE,BAMA,Alabama,BAMA @ IU,Receiving Yards,18.5,,26.41
+E. Williams Jr.,WR,BAMA,Alabama,BAMA @ IU,Receiving Yards,15.5,,36.48
+Z. Branch,WR,MISS,Ole Miss,MISS @ UGA,Receiving Yards,59.5,,65.32
+H. Wallace III,WR,MISS,Ole Miss,MISS @ UGA,Receiving Yards,48.5,,48.95
+D. Stribling,WR,MISS,Ole Miss,MISS @ UGA,Receiving Yards,43.5,,44.02
+C. Lee,WR,MISS,Ole Miss,MISS @ UGA,Receiving Yards,39.5,,40.75
+D. Alexander,WR,MISS,Ole Miss,MISS @ UGA,Receiving Yards,33.5,,43.48
+D. Wright,TE,MISS,Ole Miss,MISS @ UGA,Receiving Yards,29.5,,34.93
+D. Bell,WR,UGA,Georgia,MISS @ UGA,Receiving Yards,26.5,,27.48
+O. Delp,TE,UGA,Georgia,MISS @ UGA,Receiving Yards,20.5,,28.38
+J. Marshall,RB,MICH,Michigan,MICH @ TEX,Rushing Yards,62.5,,29.03
+A. Manning,QB,MICH,Michigan,MICH @ TEX,Rushing Yards,23.5,,5.90
+B. Underwood,QB,MICH,Michigan,MICH @ TEX,Rushing Yards,20.5,,20.18
+W. Parker,RB,NEB,Nebraska,NEB @ UTAH,Rushing Yards,90.5,,1.49
+D. Dampier,QB,NEB,Nebraska,NEB @ UTAH,Rushing Yards,54.5,,9.10
+I. Mozee,RB,NEB,Nebraska,NEB @ UTAH,Rushing Yards,51.5,,9.10
+M. Nelson,RB,NEB,Nebraska,NEB @ UTAH,Rushing Yards,44.5,,0.00
+TJ Lateef,QB,NEB,Nebraska,NEB @ UTAH,Rushing Yards,14.5,,9.10
+Bo Jackson,RB,MIA,Miami,MIA @ OSU,Rushing Yards,76.5,,81.03
+M. Fletcher Jr.,RB,MIA,Miami,MIA @ OSU,Rushing Yards,58.5,,64.17
+C. Dickey,RB,ORE,Oregon,ORE @ TTU,Rushing Yards,72.5,,74.33
+N. Whittington,RB,ORE,Oregon,ORE @ TTU,Rushing Yards,62.5,,69.97
+J. Williams,RB,ORE,Oregon,ORE @ TTU,Rushing Yards,47.5,,55.56
+J. Davison,RB,ORE,Oregon,ORE @ TTU,Rushing Yards,37.5,,36.85
+D. Hill Jr.,RB,ORE,Oregon,ORE @ TTU,Rushing Yards,24.5,,30.02
+R. Hemby,RB,BAMA,Alabama,BAMA @ IU,Rushing Yards,61.5,,74.39
+K. Black,RB,BAMA,Alabama,BAMA @ IU,Rushing Yards,54.5,,67.59
+J. Miller,RB,BAMA,Alabama,BAMA @ IU,Rushing Yards,29.5,,29.03
+D. Hill,RB,BAMA,Alabama,BAMA @ IU,Rushing Yards,29.5,,37.11
+F. Mendoza,QB,BAMA,Alabama,BAMA @ IU,Rushing Yards,21.5,,20.18
+K. Lacy,RB,MISS,Ole Miss,MISS @ UGA,Rushing Yards,68.5,,74.45
+N. Frazier,RB,MISS,Ole Miss,MISS @ UGA,Rushing Yards,60.5,,70.38
+G. Stockton,QB,UGA,Georgia,MISS @ UGA,Rushing Yards,37.5,,47.07
+C. Bowens,RB,UGA,Georgia,MISS @ UGA,Rushing Yards,28.5,,32.43
+T. Chambliss,QB,MISS,Ole Miss,MISS @ UGA,Rushing Yards,27.5,,32.46
+A. Manning,QB,MICH,Michigan,MICH @ TEX,Passing Yards,264.5,,0.00
+B. Underwood,QB,MICH,Michigan,MICH @ TEX,Passing Yards,182.5,,219.70
+D. Dampier,QB,NEB,Nebraska,NEB @ UTAH,Passing Yards,180.5,,238.04
+TJ Lateef,QB,NEB,Nebraska,NEB @ UTAH,Passing Yards,163.5,,238.04
+J. Sayin,QB,MIA,Miami,MIA @ OSU,Passing Yards,229.5,,236.42
+C. Beck,QB,OSU,Ohio State,MIA @ OSU,Passing Yards,193.5,,202.45
+B. Morton,QB,TTU,Texas Tech,ORE @ TTU,Passing Yards,233.5,,242.83
+D. Moore,QB,ORE,Oregon,ORE @ TTU,Passing Yards,231.5,,238.04
+Ty Simpson,QB,BAMA,Alabama,BAMA @ IU,Passing Yards,241.5,,248.84
+F. Mendoza,QB,IU,Indiana,BAMA @ IU,Passing Yards,221.5,,219.70
+T. Chambliss,QB,MISS,Ole Miss,MISS @ UGA,Passing Yards,248.5,,262.00
+G. Stockton,QB,UGA,Georgia,MISS @ UGA,Passing Yards,224.5,,222.31
+R. Wilson,WR,MICH,Michigan,MICH @ TEX,Receptions,3.5,0.7x,3.44
+A. Marsh,WR,MICH,Michigan,MICH @ TEX,Receptions,3.5,0.7x,3.44
+E. Mosley V,WR,MICH,Michigan,MICH @ TEX,Receptions,3.5,0.8x,0.37
+D. McCulley,WR,MICH,Michigan,MICH @ TEX,Receptions,3.5,1.1x,2.63
+D. Bentley,TE,NEB,Nebraska,NEB @ UTAH,Receptions,3.5,0.8x,2.65
+N. Hunter,WR,NEB,Nebraska,NEB @ UTAH,Receptions,3.5,,0.68
+D. Key,WR,NEB,Nebraska,NEB @ UTAH,Receptions,3.5,1.2x,1.77
+L. Simmons,WR,NEB,Nebraska,NEB @ UTAH,Receptions,3.5,1.2x,0.12
+C. Tate,WR,MIA,Miami,MIA @ OSU,Receptions,3.5,0.7x,0.47
+M. Klare,TE,MIA,Miami,MIA @ OSU,Receptions,3.5,0.9x,3.25
+CJ Daniels,WR,MIA,Miami,MIA @ OSU,Receptions,3.5,1.2x,3.49
+K. Marion,WR,MIA,Miami,MIA @ OSU,Receptions,3.5,0.8x,3.44
+C. Douglas,WR,ORE,Oregon,ORE @ TTU,Receptions,3.5,0.9x,4.18
+R. Vegel,WR,ORE,Oregon,ORE @ TTU,Receptions,3.5,0.8x,0.16
+T. Carter Jr.,TE,ORE,Oregon,ORE @ TTU,Receptions,3.5,0.8x,4.37
+C. Eakin,WR,ORE,Oregon,ORE @ TTU,Receptions,3.5,1.1x,3.13
+C. Dickey,RB,ORE,Oregon,ORE @ TTU,Receptions,3.5,1.1x,2.35
+J. Williams,RB,ORE,Oregon,ORE @ TTU,Receptions,3.5,2.1x,2.35
+E. Sarratt,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,0.7x,4.44
+Q. Barnard,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,0.7x,4.61
+O. Cooper Jr.,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,0.8x,4.56
+J. Cuevas,TE,BAMA,Alabama,BAMA @ IU,Receptions,3.5,,3.13
+I. Horton,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,1.0x,3.72
+L. Brooks,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,,3.17
+C. Becker,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,1.5x,3.71
+R. Williams,WR,BAMA,Alabama,BAMA @ IU,Receptions,3.5,0.7x,2.43
+H. Wallace III,WR,MISS,Ole Miss,MISS @ UGA,Receptions,3.5,0.8x,3.33
+D. Stribling,WR,MISS,Ole Miss,MISS @ UGA,Receptions,3.5,,3.23
+C. Lee,WR,MISS,Ole Miss,MISS @ UGA,Receptions,3.5,1.2x,2.63
+D. Wright,TE,MISS,Ole Miss,MISS @ UGA,Receptions,3.5,1.2x,2.41
+D. Bell,WR,UGA,Georgia,MISS @ UGA,Receptions,3.5,1.6x,2.65
+D. Alexander,WR,MISS,Ole Miss,MISS @ UGA,Receptions,3.5,1.2x,2.87
+O. Delp,TE,UGA,Georgia,MISS @ UGA,Receptions,3.5,2.3x,2.31
